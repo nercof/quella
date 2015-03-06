@@ -1,0 +1,2 @@
+# quella
+Pensamientos dinámicos
