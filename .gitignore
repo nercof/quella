@@ -4,4 +4,6 @@ _site/
 .doit.db.db
 cache/
 output/
+.doit.db
+*~
 
