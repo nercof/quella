@@ -30,7 +30,7 @@ La charla se las dejo a continuación y espero que se hagan un tiempo para verla
 .. media:: https://www.youtube.com/watch?v=U6PoUg7jXsA
 
 La técnica segun nos explica Joshua no es contemporánea, que que Cicerón ya la utilizaba para memorizar sus
-discursos. Pero lo que mas me llamo la atención fue el nombre de `Simónedes de Ceos http://es.wikipedia.org/wiki/Sim%C3%B3nides_de_Ceos`_
+discursos. Pero lo que mas me llamo la atención fue el nombre de `Simónedes de Ceos`_
 poeta lírico griego del 556 a.C. creador de la técnica *mnemotecnia*. ¿Cómo si pasaron muchos años desde la invención de esta 
 técnica no se encuentra en los libros de texto que solemos estudiar en la escuela media?. 
 
@@ -40,6 +40,9 @@ lo que si ellos pueden nosotros tambien, es solo cuestión de practicarla.
 Que les sea útil!.
 
 Para leer bien en qué consiste la técnica ir a:
-1. `Cómo construir el palacio de la memoria http://es.wikihow.com/construir-un-palacio-de-memoria`_
-2. `Los Palacios de la Memoria http://www.mnemotecnia.es/articulosdoc.php?ref=LosPalaciosDeLaMemoria`_
+1. `Cómo construir el palacio de la memoria`_
+2. `Los Palacios de la Memoria`_
 
+.. _Simónedes de Ceos: http://es.wikipedia.org/wiki/Simónides_de_Ceos 
+.. _Cómo construir el palacio de la memoria: http://es.wikihow.com/construir-un-palacio-de-memoria
+.. _Los Palacions de la Memoria: http://www.mnemotecnia.es/articulosdoc.php?ref=LosPalaciosDeLaMemoria
