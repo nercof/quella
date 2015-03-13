@@ -17,15 +17,17 @@ a límites **finitos**, sólo sino creemos que podemos trascender hacia el infin
 
 El cerebro no es más que un músculo, por lo que con entrenamiento se estimula cada vez más. Hace un 
 tiempo estoy adoptando una serie de pasos para mi estudio personal y dentro de ello es dedicarme a conocer 
-técnicas que me ayuden a re construir el mutilado cerebro actual, esa mutilación diaria debido a que cada 
-vez lo empleamos menos porque tenemos muchos dispositivos que nos ayudan a tomar atajos en el día a día.
+técnicas que me ayuden a re construir el mutilado cerebro actual, esa mutilación diaria debida a la ayuda
+diaria de los dispositivos móviles llenos de atajos. 
 
 En esa búsqueda di con una tremenda charla de TEDx de Joshua Foer que nos enciende una vela hacia algo desconocido 
 que permite con una serie de pasos recordar y procesar toneladas de información a traves de imágenes. Me resulto muy
 interesante porque soy una persona capaz de recordar rostros de personas de personas desconocidas pero me cuesta 
 horrores recordar nombres de personas por ejemplo, a menos que este muchas veces en contacto con ella.
 
-La charla se las dejo a continuación y espero que se hagan un tiempo para verla y analizarla.
+La charla se las dejo a continuación y espero que se hagan un tiempo para verla y analizarla, sobre todo el mensaje
+final que nos deja un interrogante: *¿Cuánto tiempo estamos dispuestos a perder en nuestros dispositivos sin siquiera prestar
+atención a la persona que tenemos al lado?* Solo tenemos que salir a caminar por la ciudad para ver ésto. 
 
 .. media:: https://www.youtube.com/watch?v=U6PoUg7jXsA
 
@@ -37,11 +39,11 @@ técnica no se encuentra en los libros de texto que solemos estudiar en la escue
 Cuentan que los monjes tibetanos la utilizan para poder aprender los largos y monótonos libros de rezo, por 
 lo que si ellos pueden nosotros tambien, es solo cuestión de practicarla.
 
-Que les sea útil!.
+Que les sea útil, aprender a recordar, pero no lo tomemos como magica porque en realidad lo que vamos a realizar
+es trabajar nosotros mismos y seremos nosotros que recordaremos
 
-Para leer bien en qué consiste la técnica ir a:
-1. `Cómo construir el palacio de la memoria`_
-2. `Los Palacios de la Memoria`_
+Para leer bien en qué consiste la técnica ir podemos leer `Cómo construir el palacio de la memoria`_ y `Los Palacios de la Memoria`_
+
 
 .. _Simónedes de Ceos: http://es.wikipedia.org/wiki/Simónides_de_Ceos 
 .. _Cómo construir el palacio de la memoria: http://es.wikihow.com/construir-un-palacio-de-memoria
