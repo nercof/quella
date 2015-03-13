@@ -34,6 +34,11 @@ discursos. Pero lo que mas me llamo la atención fue el nombre de `Simónedes de
 poeta lírico griego del 556 a.C. creador de la técnica *mnemotecnia*. ¿Cómo si pasaron muchos años desde la invención de esta 
 técnica no se encuentra en los libros de texto que solemos estudiar en la escuela media?. 
 
+Cuentan que los monjes tibetanos la utilizan para poder aprender los largos y monótonos libros de rezo, por 
+lo que si ellos pueden nosotros tambien, es solo cuestión de practicarla.
+
+Que les sea útil!.
+
 Para leer bien en qué consiste la técnica ir a:
 1. `Cómo construir el palacio de la memoria http://es.wikihow.com/construir-un-palacio-de-memoria`_
 2. `Los Palacios de la Memoria http://www.mnemotecnia.es/articulosdoc.php?ref=LosPalaciosDeLaMemoria`_
