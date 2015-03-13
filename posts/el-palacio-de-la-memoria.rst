@@ -45,4 +45,4 @@ Para leer bien en qué consiste la técnica ir a:
 
 .. _Simónedes de Ceos: http://es.wikipedia.org/wiki/Simónides_de_Ceos 
 .. _Cómo construir el palacio de la memoria: http://es.wikihow.com/construir-un-palacio-de-memoria
-.. _Los Palacions de la Memoria: http://www.mnemotecnia.es/articulosdoc.php?ref=LosPalaciosDeLaMemoria
+.. _Los Palacios de la Memoria: http://www.mnemotecnia.es/articulosdoc.php?ref=LosPalaciosDeLaMemoria
