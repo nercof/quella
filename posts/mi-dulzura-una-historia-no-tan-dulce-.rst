@@ -51,7 +51,7 @@ En la actualidad cada día se consume más, no solo como alimento endulzante sin
 
 La sacarosa, o azúcar de mesa, esta compuesta en cantidades iguales por glucosa  y fructuosa. Esta última es la que se encuentra de manera natural en las frutas. Lo que tenemos que tener en cuenta es que si bien hay células que metabolizan la glucosa en todo el cuerpo, la fructuosa se procesa *únicamente* en el hígado.
 
-.. sidebar::
+.. sidebar:: Fructuosa
 
    El mundo está INUNDADO de fructuosa, pero nuestros cuerpos evolucionarion para sobrevivir con muy, muy poca . - Richard Johnson 
 
@@ -78,7 +78,7 @@ En los últimos veinticinco años, se ha triplicado la velocidad con que los ni�
 
 `James W. Anderson, MD`_ James Anderson es uno de los científicos más prominentes que estudian **la dieta y la diabetes** en la actualidad y ha obtenido resultados impresionantes solo mediante la intervención de la alimentación, es decir, una solución sin químicos. Alimentos basados en proteínas vegetales e integrales. 
 
-.. sidebar::
+.. sidebar:: Alimentación saludable
 
    Es difícil de imaginar que un cambio en la dieta pudiera sacar de aprieto a pacientes diagnosticados con diabetes tipo 1. Pero ¡pasadas tres semanas exactas, los pacientes diabéticos de tipo 1 fueron capaces de reducir su medicación con insulina en una media del 40%! Y sus perfiles de azúcar en sangre mejoraron sustanciablemente. Otro dato interesante es que los niveles de colesterol descendieron en un 30%. 
 
