@@ -17,7 +17,7 @@ esta haciendo mal lo manifiestan como un `orgullo nacional`_ `ver aquí`_
 
 Tan solo mirar mirar la imagen nos da la impresión de lo bien que estamos en el consumo.
 
-.. figure:: ../media/consumo-mundial_azucar.png 
+.. figure:: ./media/consumo-mundial_azucar.png 
 
 Antes de seguir con noticias estadísticas veamos de dónde viene este alimento. 
 
@@ -52,17 +52,16 @@ En la actualidad cada día se consume más, no solo como alimento endulzante sin
 La sacarosa, o azúcar de mesa, esta compuesta en cantidades iguales por glucosa  y fructuosa. Esta última es la que se encuentra de manera natural en las frutas. Lo que tenemos que tener en cuenta es que si bien hay células que metabolizan la glucosa en todo el cuerpo, la fructuosa se procesa *únicamente* en el hígado.
 
 .. sidebar::
-   El mundo está INUNDADO de fructuosa, pero nuestros cuerpos
-   evolucionarion para sobrevivir con muy, muy poca .
-   - Richard Johnson 
+
+   El mundo está INUNDADO de fructuosa, pero nuestros cuerpos evolucionarion para sobrevivir con muy, muy poca . - Richard Johnson 
 
 No culpemos a los chicos que ven televisión, si con la alimentación de la actualidad no tienen energía para hacer ejercicios porque come mucha azúcar. Hoy la 
 mayoría de alimentos manufactorados son inundados por JMAF (Jarabe de Maíz de Alta fructuosa) ya que es mas baráto y mas dulce que la sacarosa. Por lo que todos 
-estaríamos bien si comieramos menos. El consumo de agua en artina es por debajo de un 20%, asique literalmente estamos tomando azúcar líquida.
+estaríamos bien si comieramos menos. El consumo de agua en argentina es por debajo de un 20%, asique literalmente estamos tomando azúcar líquida.
 
-.. figure:: ../media/
+.. figure:: http://www.msal.gov.ar/argentina-saludable/plan/clave-del-mes-dic2010.jpg
 
-La Secretaría de Agricultura, Ganadería, Pesca y Alimentos, confecciono un `Análisis de la Cadena de Alimentaria`_ las estadísticas hablan por sí solas, asique saquen su propias conclusiones. 
+La Secretaría de Agricultura, Ganadería, Pesca y Alimentos, confecciono un `Análisis de la Cadena Alimentaria`_ las estadísticas hablan por sí solas, asique saquen su propias conclusiones. 
 
 ¿Entonces si el azúcar trae muchos problemas a nuestro organismo por qué la seguimos consumiendo?. ¿Si a las plantas las regamos con agua, porque nosotros nos **regamos** con gaseosas? por decirlo de una cierta manera. Más diabetes, mas hipertensión, más, más, más y los que ya lo padecen esperan que la medicina moderna siga avanzando para encontrar ese químico para paliar mi problema, en vez de pensar que somos lo que comemos. ¿Por qué nos exponemos a eso?.               
 
@@ -80,13 +79,15 @@ En los últimos veinticinco años, se ha triplicado la velocidad con que los ni�
 `James W. Anderson, MD`_ James Anderson es uno de los científicos más prominentes que estudian **la dieta y la diabetes** en la actualidad y ha obtenido resultados impresionantes solo mediante la intervención de la alimentación, es decir, una solución sin químicos. Alimentos basados en proteínas vegetales e integrales. 
 
 .. sidebar::
+
    Es difícil de imaginar que un cambio en la dieta pudiera sacar de aprieto a pacientes diagnosticados con diabetes tipo 1. Pero ¡pasadas tres semanas exactas, los pacientes diabéticos de tipo 1 fueron capaces de reducir su medicación con insulina en una media del 40%! Y sus perfiles de azúcar en sangre mejoraron sustanciablemente. Otro dato interesante es que los niveles de colesterol descendieron en un 30%. 
 
-  A diferencia de los anteiores, los diabéticos del tipo 2 son más fáciles de tratar porque el páncreas no se encuentra tan deteriorado, por lo que con una dieta rica en fibra y de bajo contenido en grasas, los resultados fueron toda vía más impactantes. De los 25 pacientes con diabetes del tipo 2, ¡ *24* llegaron a prescindir de su medicación!!. En cuestión de semanas, todos los pacientes, salvo uno, pudieron abandonar su medicación con insulina. Entre ellos había un hombre cuyos antecedentes de diabetes se remontaba a 21 años y necesitaba 35 unidades diarias de insulina. Al cabo de tres semanas de tratamiento intensivo a través de la dieta, su dosis se redujo a 8 unidades por día, y despues de pasar 8 semanas no volvió a inyectarse insulina. 
+  A diferencia de los anteiores, los diabéticos del tipo 2 son más fáciles de tratar porque el páncreas no se encuentra tan deteriorado, por lo que con una dieta rica en fibra y de bajo contenido en grasas, los resultados fueron toda vía más impactantes. De los 25 pacientes con diabetes del tipo 2, 24 llegaron a prescindir de su medicación!!. En cuestión de semanas, todos los pacientes, salvo uno, pudieron abandonar su medicación con insulina. Entre ellos había un hombre cuyos antecedentes de diabetes se remontaba a 21 años y necesitaba 35 unidades diarias de insulina. Al cabo de tres semanas de tratamiento intensivo a través de la dieta, su dosis se redujo a 8 unidades por día, y despues de pasar 8 semanas no volvió a inyectarse insulina. 
+
 
 Cientos de casos que revirtieron su grave enfermedad solo modificando su alimentación, entonces por qué siguen complicandose los casos de diabéticos, pues... ese tipo de alimentación vegana, según dice James **no es la más cómoda.**. Estas dietas solo permiten ingerir alrededor de 60 gramos de carne por día, por lo que a muchos les resulta poco **prácticas**, pero: ¿No merece la pena intentarlo?
 
-Otro estudio interesante, no dice que `dejar la azúcar mata las celulas cancerígenas`_, vale la pena intentarlo no?. Mirá la `reacción del cerebro a dejarla`_.
+Otro estudio interesante, no dice que `dejar la azúcar mata celulas cancerígenas`_, vale la pena intentarlo no?. Mirá la `reacción del cerebro al dejarla`_.
 
 Lamentablemente la mala información y los hábitos arraigados están haciendo estrago en nuestra salud. Por los que los invito a buscar el peso de la evidencia! es tan abrumador que tiene grandes posibilidades de ser verdad. 
 
@@ -94,6 +95,7 @@ Desde el 2012 el programa `Argentina Saludable`_ no publica nada nuevo ni releva
 
 A comer más fruta y menos dulces!
 
+.. _Cándido de Voltaire: http://www.gutenberg.org/ebooks/7109
 .. _orgullo nacional: http://www.ellitoral.com/index.php/id_um/110272-consumo-de-gaseosas-del-orgullo-de-la-presidenta-a-los-trastornos-que-produce
 .. _ver aquí: http://www.tucumanprimicias.com/cristina-se-jacta-del-consumo-de-gaseosas-en-argentina-y-el-mundo-va-por-otro-camino_53207.html
 .. _origen del azúcar: http://www.iedar.es/origen_azucar.php
