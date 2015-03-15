@@ -13,11 +13,7 @@ por la ciudades argentinas, para observar que el  **54% de la población adulta 
 aclara Esteban Carmuega, director Centro de Estudios Sobre Nutrición Infantil** en un el `diario razón`_
 
 Hay estadísticas que son contundentes y de mas alarmantes porque lo que nos
-esta haciendo mal lo manifiestan como un `orgullo nacional`_ `ver aquí`_
-
-Tan solo mirar mirar la imagen nos da la impresión de lo bien que estamos en el consumo.
-
-.. figure:: ./media/consumo-mundial_azucar.png 
+esta haciendo mal lo manifiestan como un `orgullo nacional`_. Más información `ver aquí`_
 
 Antes de seguir con noticias estadísticas veamos de dónde viene este alimento. 
 
