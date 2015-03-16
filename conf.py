@@ -384,7 +384,7 @@ REDIRECTIONS = []
 # in a `nikola deploy` command as you like.
 DEPLOY_COMMANDS = [
     "git checkout gh-pages",
-    "rsync -rPv --delete-after --exclude .git --exclude .gitignore --exclude cache/ --exclude .doit.db.db output/ .",
+    "rsync -rPv --delete-after --exclude .git --exclude .gitignore --exclude CNAME --exclude cache/ --exclude .doit.db.db output/ .",
     "git add -A",
     "git commit -a -m 'Updating blog content'",
     "git push",
