@@ -28,15 +28,15 @@ No sé que es lo bueno o lo malo, pero sí se que las lluvias no lo son, y en pa
 en una zona que antes no había. Soy del Litoral y allí sí que hay lluvias nutridas por el hermoso río Paraná. Pero aquí solo
 falta ver la siguiente imagen de lo que ocurrió con los bosques nativos de Córdona
 
-.. image:: ./images/bosques_autoctonos_Cordoba.jpg 
+.. figure:: ./images/bosques_autoctonos_Cordoba.jpg 
 
-Para leer más sobre la deforestación ponemos ir a [1] [2] [3] [4] 
+Para leer más sobre la deforestación ponemos ir a `[1]`_ `[2]`_ `[3]`_ `[4]`_ 
 
 Necesitamos encariñarnos más con la madre tierra, necesitamos ser mas pieles rojas y no blancas en actitud, algo
 que encontre en mis lecturas hace mucho tiempo **31 de Julio de 2005** para ser más precisos, y es una maravillosa
 carta que voy a transcribir porque no la encuentro en la web tal cual y aun conservo
 
-.. image:: ./images/carta.jpg 
+.. figure:: ./images/carta.jpg 
    
 .. sidebar::
 
@@ -111,8 +111,8 @@ nos suceden, esto se escribió hace mucho tiempo y aún es vigente, solo hay que
 
 
 
-http://www.lavoz.com.ar/ciudadanos/reforestar-cordoba-un-debate-que-el-diluvio-reactualiza
-http://www.lavoz.com.ar/ciudadanos/adios-los-bosques-nativos-de-cordoba
-http://www.lavoz.com.ar/suplementos/temas/cordobasigue-perdiendo-%EF%BF%BDbosques-nativos
-http://www.lavoz.com.ar/ciudadanos/ambiente/6-anos-se-redujo-40-bosque-nativo-cordoba
+.. _[1]: http://www.lavoz.com.ar/ciudadanos/reforestar-cordoba-un-debate-que-el-diluvio-reactualiza
+.. _[2]: http://www.lavoz.com.ar/ciudadanos/adios-los-bosques-nativos-de-cordoba
+.. _[3]: http://www.lavoz.com.ar/suplementos/temas/cordobasigue-perdiendo-%EF%BF%BDbosques-nativos
+.. _[4]: http://www.lavoz.com.ar/ciudadanos/ambiente/6-anos-se-redujo-40-bosque-nativo-cordoba
 
