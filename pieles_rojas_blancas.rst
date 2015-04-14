@@ -28,7 +28,7 @@ No sé que es lo bueno o lo malo, pero sí se que las lluvias no lo son, y en pa
 en una zona que antes no había. Soy del Litoral y allí sí que hay lluvias nutridas por el hermoso río Paraná. Pero aquí solo
 falta ver la siguiente imagen de lo que ocurrió con los bosques nativos de Córdona
 
-.. figure:: ./images/bosques_autoctonos_Cordoba.jpg 
+.. figure:: http://staticf5a.lavozdelinterior.com.ar/sites/default/files/file_attachments/nota_periodistica/bosque.jpg 
 
 Para leer más sobre la deforestación ponemos ir a `[1]`_ `[2]`_ `[3]`_ `[4]`_ 
 
@@ -36,7 +36,6 @@ Necesitamos encariñarnos más con la madre tierra, necesitamos ser mas pieles r
 que encontre en mis lecturas hace mucho tiempo **31 de Julio de 2005** para ser más precisos, y es una maravillosa
 carta que voy a transcribir porque no la encuentro en la web tal cual y aun conservo
 
-.. figure:: ./images/carta.jpg 
    
 .. sidebar::
 
