@@ -1,7 +1,7 @@
 .. title: Pieles rojas vs Pieles blancas
 .. slug: pieles_rojas_blancas
 .. date: 2015-04-14 15:44:48 UTC-03:00
-.. tags: aborígenes, pensamientos, ecología 
+.. tags: aborígenes, pensamientos, ecología, sociedad 
 .. category: 
 .. link: 
 .. description: 
