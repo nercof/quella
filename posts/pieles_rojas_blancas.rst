@@ -36,7 +36,7 @@ Necesitamos encariñarnos más con la madre tierra, necesitamos ser mas pieles r
 que encontre en mis lecturas hace mucho tiempo **31 de Julio de 2005** para ser más precisos, y es una maravillosa
 carta que voy a transcribir porque no la encuentro en la web tal cual y aun conservo
 
-.. sidebar::
+.. sidebar:: Cuando un indio Seattle le escribe una Carta al Presidente de EEUU
 
  Seattle, jefe de la tribu Suwamish, envio en el año  1855 al presidente Franklin Pierce una carta en respuesta 
  a su oferta de compra de las tierras de los indios.  Aqui se reproducen tramos principales de la misma:
