@@ -36,7 +36,6 @@ Necesitamos encariñarnos más con la madre tierra, necesitamos ser mas pieles r
 que encontre en mis lecturas hace mucho tiempo **31 de Julio de 2005** para ser más precisos, y es una maravillosa
 carta que voy a transcribir porque no la encuentro en la web tal cual y aun conservo
 
-   
 .. sidebar::
 
  Seattle, jefe de la tribu Suwamish, envio en el año  1855 al presidente Franklin Pierce una carta en respuesta 
@@ -107,8 +106,6 @@ carta que voy a transcribir porque no la encuentro en la web tal cual y aun cons
 
 Hoy más que nunca tenemos que pensar y sentir como pieles rojas si queremos un futuro para las generaciones que 
 nos suceden, esto se escribió hace mucho tiempo y aún es vigente, solo hay que abrir los ojos.
-
-
 
 .. _[1]: http://www.lavoz.com.ar/ciudadanos/reforestar-cordoba-un-debate-que-el-diluvio-reactualiza
 .. _[2]: http://www.lavoz.com.ar/ciudadanos/adios-los-bosques-nativos-de-cordoba
