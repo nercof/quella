@@ -5,15 +5,67 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
+  <loc>http://miquella.com.ar/2015/index.html</loc>
+  <lastmod>2015-07-16</lastmod>
+ </url>
+ <url>
   <loc>http://miquella.com.ar/archive.html</loc>
-  <lastmod>2015-03-06</lastmod>
+  <lastmod>2015-07-16</lastmod>
+ </url>
+ <url>
+  <loc>http://miquella.com.ar/categories/aborigenes.html</loc>
+  <lastmod>2015-07-16</lastmod>
+ </url>
+ <url>
+  <loc>http://miquella.com.ar/categories/alimentacion.html</loc>
+  <lastmod>2015-07-16</lastmod>
+ </url>
+ <url>
+  <loc>http://miquella.com.ar/categories/dulce.html</loc>
+  <lastmod>2015-07-16</lastmod>
+ </url>
+ <url>
+  <loc>http://miquella.com.ar/categories/ecologia.html</loc>
+  <lastmod>2015-07-16</lastmod>
  </url>
  <url>
   <loc>http://miquella.com.ar/categories/index.html</loc>
-  <lastmod>2015-03-06</lastmod>
+  <lastmod>2015-07-16</lastmod>
+ </url>
+ <url>
+  <loc>http://miquella.com.ar/categories/noticias.html</loc>
+  <lastmod>2015-07-16</lastmod>
+ </url>
+ <url>
+  <loc>http://miquella.com.ar/categories/nutricion.html</loc>
+  <lastmod>2015-07-16</lastmod>
+ </url>
+ <url>
+  <loc>http://miquella.com.ar/categories/pensamientos.html</loc>
+  <lastmod>2015-07-16</lastmod>
+ </url>
+ <url>
+  <loc>http://miquella.com.ar/categories/sociedad.html</loc>
+  <lastmod>2015-07-16</lastmod>
  </url>
  <url>
   <loc>http://miquella.com.ar/index.html</loc>
-  <lastmod>2015-03-06</lastmod>
+  <lastmod>2015-07-16</lastmod>
+ </url>
+ <url>
+  <loc>http://miquella.com.ar/posts/el-palacio-de-la-memoria.html</loc>
+  <lastmod>2015-07-16</lastmod>
+ </url>
+ <url>
+  <loc>http://miquella.com.ar/posts/frase.html</loc>
+  <lastmod>2015-07-16</lastmod>
+ </url>
+ <url>
+  <loc>http://miquella.com.ar/posts/mi-dulzura-una-historia-no-tan-dulce-.html</loc>
+  <lastmod>2015-07-16</lastmod>
+ </url>
+ <url>
+  <loc>http://miquella.com.ar/posts/pieles_rojas_blancas.html</loc>
+  <lastmod>2015-07-16</lastmod>
  </url>
 </urlset>
