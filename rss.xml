@@ -1,5 +1,131 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Quella</title><link>http://miquella.com.ar/</link><description>This is a demo site for Nikola.</description><atom:link href="http://miquella.com.ar/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Thu, 16 Jul 2015 22:09:31 GMT</lastBuildDate><generator>http://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Frase</title><link>http://miquella.com.ar/posts/frase.html</link><dc:creator>Heizenreder Guillermo</dc:creator><description>&lt;p&gt;Acepta lo que venga tejido en el diseño de tu destino porque, ¿qué podría acomodarse más adecuadamente a tus necesidades?. Marco Aurelio.&lt;/p&gt;</description><guid>http://miquella.com.ar/posts/frase.html</guid><pubDate>Sat, 04 Jul 2015 01:24:12 GMT</pubDate></item><item><title>Pieles rojas vs Pieles blancas</title><link>http://miquella.com.ar/posts/pieles_rojas_blancas.html</link><dc:creator>Heizenreder Guillermo</dc:creator><description>&lt;div&gt;&lt;p&gt;Volviendo a casa desde la oficina me sorprendio una lluvia otoñal que se anunciaba desde hace unos
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Quella</title><link>http://miquella.com.ar/</link><description>This is a demo site for Nikola.</description><atom:link href="http://miquella.com.ar/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Sun, 19 Jul 2015 15:47:37 GMT</lastBuildDate><generator>http://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>La naturaleza de la salud</title><link>http://miquella.com.ar/posts/naturaleza-de-la-salud.html</link><dc:creator>Heizenreder Guillermo</dc:creator><description>&lt;div&gt;&lt;p&gt;Para comenzar a comprender cómo nos comportamos, creo que debemos cuestinar
+ciertos hábitos de vida e investigar si la violencia actual es consecuencia de
+una alimentación ó simplemente una manifestación del instinto animal que posee
+cada ser humano.&lt;/p&gt;
+&lt;p&gt;Ciertamente nuestros cerebros cuando nos enojamos se ve casi como la siguiente
+animación. Perdemos el control y atacamos a nuestra &lt;strong&gt;presa&lt;/strong&gt;. Algo que me
+impacto fue desde el balcón de mi departamente ver como dos personas se bajaron
+a pelear porque ninguno cedia espacio en la congestionada calle Duarte Quiroz
+de un viernes por la tarde.&lt;/p&gt;
+&lt;div class="figure"&gt;
+&lt;img alt="http://tvblogs.nationalgeographic.com/files/2014/08/madbrain.gif" src="http://tvblogs.nationalgeographic.com/files/2014/08/madbrain.gif"&gt;
+&lt;/div&gt;
+&lt;p&gt;¿Por qué llegamos a una sociedad tan violenta?. ¿Por qué fomentar la competencia y no la cooperación?.
+Hace ya 6 meses que me lo pregunto, en mi camino de investigación sobre evolución,
+alimentación consciente, nutrición y yoga di con qué estas preguntas se vienen
+formulando desde la antigüedad por los grandes académicos Griegos &lt;a href="http://miquella.com.ar/posts/naturaleza-de-la-salud.html#id2"&gt;&lt;span class="problematic" id="id3"&gt;`[1]`_&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Hace casi dos mil años, Platón escribió un diálogo entre dos personas, Sócrates
+y Glauco, que discuten sobre el futuro de sus ciudades.&lt;/p&gt;
+&lt;div class="sidebar"&gt;
+&lt;p class="first sidebar-title"&gt;Diálogo&lt;/p&gt;
+&lt;p&gt;Sócrates afirma que las ciudades deben ser simples y que los ciudadanos han de subsistir a base de cebada
+y trigo, acompañados de &lt;strong&gt;sabores&lt;/strong&gt; de aceite, aceitunas, queso y comidas campesinas
+a base de cebolla y col hervidas, y de postre &lt;strong&gt;higos, habas y guisantes&lt;/strong&gt;, bayas
+de mirto, y hayucos y vino con moderación. Sócrates afirma: Y, con toda probabilidad,
+pasando sus días en calma y gozando de buena salud, los ciudadanos vivirán hasta
+una edad avanzada.&lt;/p&gt;
+&lt;p&gt;Pero Glauco responde que una dieta semejante solo sería apropiada para una
+comunidad de cerdos, y que los ciudadanos deben vivir de &lt;strong&gt;una forma civilizada&lt;/strong&gt;.
+Y continúa, Deben reclinarse en sus asientos y disfrutar de los platos y postres habituales
+de una cena moderna. En otras palabras, los ciudadanos deben gozar del &lt;strong&gt;lujo&lt;/strong&gt;
+de comer carne.&lt;/p&gt;
+&lt;p&gt;Sócrates replica: "Si lo que deseas es que contemplemos una ciudad que sufre
+de inflamación [...] También necesitaríamos grandes cantidades de todo tipo
+de ganado para todos aquellos a quienes les apeteciera alimentarse con ellos,
+¿no es así?".&lt;/p&gt;
+&lt;p&gt;Glauco responde: "Por supuesto que es así". Entonces, Sócrates añade: Y no
+crees que con la dieta que tú propones tendríamos mayor necesidad de visitar
+al médico que con la que yo mencionaba?. Glauco no puede negarlo: "Sí, así es,
+en efecto". Sócrates continúa diciendo que en esa ciudad de lujos escasearía la
+tierra, porque necesitarían muchas más hectáreas para criar a los animales necesarios para
+alimentar a todos los ciudadanos. Esa escasez provocaría que se robaran las tierras
+entre sí, lo cuál podría precipitar conatos de violencia e incluso una guerra y,
+en consecuencia, la neceisdad de hacer justicia.&lt;/p&gt;
+&lt;p class="last"&gt;Más aún, continua Sócrates: ¿No es cierto que cuando la dejadez y las enfermedades
+abundan en una ciudad, los tribunales y consultas médicas trabajan más que nunca,
+y que a medida que montones de personas, incluso de buena cuna, se dedican ávidamente
+a ejercer estas profesiones, la ley y la medicina empiezan a mantener la cabeza
+bien alta?. En otras palabras, en esta lujosa ciudad de dolencias y enfermedades,
+los abogados y los médicos serán la norma &lt;a href="http://miquella.com.ar/posts/naturaleza-de-la-salud.html#id4"&gt;&lt;span class="problematic" id="id5"&gt;`[2]`_&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;En el pasaje anterior Platón deja las cosas muy claras: comeremos animales solamente
+por nuestra cuenta y riesgo. Es realmente admirable que uno de los mayores
+intelectuales de la historia del mundo occidental condenara el consumo de carne
+hace casi dos mil quinientos años, pero los es todavía más que tan pocas personas
+conozcan esta historia (desconocida para mí también).&lt;/p&gt;
+&lt;p&gt;¿Cómo pudo Platón predecir el futuro con tanta precisión?. Él era consciente de que
+consumir alimentos de origen animal no conducía a la salud ni a la prosperidad
+verdadera. Por el contrario, creia que ese lujo falso basado en la posibilidad de
+consumir animales solo daba lugar a una cultura de enfermedad, de disputas de
+algunos de los desafíos que afrontamos en la actualidad.&lt;/p&gt;
+&lt;p&gt;¿Cómo pudo Sénaca, un gran erudito, tutor y consejero del emperador romano Nerón
+saber con tanta certeza cuál era el problema de consumir animales?.&lt;/p&gt;
+&lt;div class="sidebar"&gt;
+&lt;p class="first sidebar-title"&gt;El gran filósofo escribió:&lt;/p&gt;
+&lt;p class="last"&gt;Un buey satisface su hamre pastando en una superficie de alrededor de media
+hectárea; un bosque es suficiente para varios elefantes. El hombre, sin embargo,
+solo puede autoabastecerse mediante el pillaje de tierra y del mar. ¡Caramba!
+¿Acaso la naturaleza nos ha dado estómago tan insaciable y, al mismo tiempo, un
+cuerpo tan insignificante? [...] Los esclavos de la barriga (como dice Salustio)
+se deben contar entre los animales inferiores pero no entre los hombres. Mejor
+dicho no entre los hombres sino más bien entre los muertos [...] Podas escribir
+en la puerta de sus casas: "Estos tienen una muerte anticipada".&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Cualquier similitud con la realidad es pura coincidencia. ¿Cómo hemos podido olvidar
+estas lecciones que ya se conocian en el pasado?. ¿Cómo hemos llegado a preocuparnos
+por que los vegetarianos quizá no ingieran suficientes proteínas cuando en el
+pasado sabíamos que los mejores atletas de los antiguos juegos Olímpicos griegos
+debían consumr una dieta vegetariana? ¿Cómo hemos llegado a una situación en la
+cual los encargados de curar la sociedad, nuestras instituciones médicas denigran
+al individuo y la tercera causa principal de mortalidad es por el uso de fármacos
+y hospitalización?. ¿Cómo hemos llegado a convivir con la polución de enfermedades?
+¿Cómo hemos llegado a una situación en la cual defender una dieta vegetariana es
+juzgado por la sociedad, mientras que científicos gastan más tiempo y dinero intentando
+dominar la naturaleza que respetándola? ¿Cómo hemos llegado a una situación en la
+que las empresas que se benefician de nuestras enfermedades son las mismas que
+nos dan consejos para estar sanos y las compañias cuyos ingresos se basan en los
+alimentos que elegimos son las que nos indican qué debemos comer; una situación
+en la que el gobierno gasta dinero público, que tanto cuesta a todos, en fomentar
+ingresos de la industria farmacéutica, y en la que impera la desconfianza en las
+políticas gubernamentales sobre alimentación, medicina y salud?. &lt;strong&gt;¿Cómo hemos
+llegado a una situación en la cual los ciudadanos están tan confundidos respecto
+a los que es sano y lo que no es que ya ni se ocupan de ello?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Nunca se vieron índices tan alto de obesidad y diabetes, enfermedades vinculadas
+con la "prosperidad económica". Nunca antes habíamos afectado tanto al medio ambiente
+natural hasta perder la capa superior del suelo, los enormes acuíferos y selvas
+tropicales. Nunca antes habíamos eliminado tantas plantas y animales de la faz
+de la tierra como lo estamos haciendo ahora. Nunca antes habíamos introducido
+tantas variadades de plantas modificadas genéticamente a tan gran escala, sin
+saber cuáles serán las repercusiones. Todos estos cambios en nuestro ambiente
+están influenciados por los alimentos que decidimos consumir &lt;a class="reference external" href="TheFoodRevolution:HowYourDietCanHelpSaveYourLifeandOurWorldhttp://www.amazon.com/Food-Revolution-Your-Diet-World/dp/1573244872/ref=sr_1_1?s=books&amp;amp;ie=UTF8&amp;amp;qid=1437320019&amp;amp;sr=1-1&amp;amp;keywords=the+food+revolution"&gt;[3]&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Por lo que debemos replantearnos nuestras tradiciones y estar dispuestos de cambiar,
+de borrar todo lo que aprendimos y volver a aprender todo nuevamente. Por mi parte
+llevo 6 meses bajo esta nueva perspectiva, no solo me siento más fuerte que nunca,
+sino que no necesito ningún medicamento, ni suplemento y siento otro tipo de
+conección con el medio, por lo que iré escribiendo mis experiencias para coompartir
+y profundizar aún mas este estudio para mostrar que hay una alternativa mas sustentable
+que la que nuestra Cultura fomenta.&lt;/p&gt;
+&lt;p&gt;Referencias:
+.. _[1]: &lt;a class="reference external" href="http://www.amazon.com/China-Study-Comprehensive-Nutrition-Implications/dp/1932100660/ref=sr_1_1?s=books&amp;amp;ie=UTF8&amp;amp;qid=1437319809&amp;amp;sr=1-1&amp;amp;keywords=study+of+china"&gt;http://www.amazon.com/China-Study-Comprehensive-Nutrition-Implications/dp/1932100660/ref=sr_1_1?s=books&amp;amp;ie=UTF8&amp;amp;qid=1437319809&amp;amp;sr=1-1&amp;amp;keywords=study+of+china&lt;/a&gt;
+.. _[2]:  Williams H. The Ethics of Diet. A Catena of Authorities Deprecatory of the Practice of Flesh-Eating&lt;/p&gt;
+&lt;div class="system-message"&gt;
+&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 124)&lt;/p&gt;
+Unexpected indentation.&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;a class="reference external" href="http://www.amazon.com/The-Ethics-Diet-Authorities-Flesh-Eating/dp/0252071301"&gt;http://www.amazon.com/The-Ethics-Diet-Authorities-Flesh-Eating/dp/0252071301&lt;/a&gt;&lt;/blockquote&gt;
+&lt;div class="system-message"&gt;
+&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 125)&lt;/p&gt;
+Block quote ends without a blank line; unexpected unindent.&lt;/div&gt;
+&lt;div class="system-messages section"&gt;
+&lt;h2&gt;Docutils System Messages&lt;/h2&gt;
+&lt;div class="system-message" id="id2"&gt;
+&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 14); &lt;em&gt;&lt;a href="http://miquella.com.ar/posts/naturaleza-de-la-salud.html#id3"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+Unknown target name: "[1]".&lt;/div&gt;
+&lt;div class="system-message" id="id4"&gt;
+&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 51); &lt;em&gt;&lt;a href="http://miquella.com.ar/posts/naturaleza-de-la-salud.html#id5"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+Unknown target name: "[2]".&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</description><guid>http://miquella.com.ar/posts/naturaleza-de-la-salud.html</guid><pubDate>Sun, 19 Jul 2015 13:51:25 GMT</pubDate></item><item><title>Frase</title><link>http://miquella.com.ar/posts/frase.html</link><dc:creator>Heizenreder Guillermo</dc:creator><description>&lt;p&gt;Acepta lo que venga tejido en el diseño de tu destino porque, ¿qué podría acomodarse más adecuadamente a tus necesidades?. Marco Aurelio.&lt;/p&gt;</description><guid>http://miquella.com.ar/posts/frase.html</guid><pubDate>Sat, 04 Jul 2015 01:24:12 GMT</pubDate></item><item><title>Pieles rojas vs Pieles blancas</title><link>http://miquella.com.ar/posts/pieles_rojas_blancas.html</link><dc:creator>Heizenreder Guillermo</dc:creator><description>&lt;div&gt;&lt;p&gt;Volviendo a casa desde la oficina me sorprendio una lluvia otoñal que se anunciaba desde hace unos
 días pero que no se presentaba y hoy de un momento a otro se armó.&lt;/p&gt;
 &lt;p&gt;Me animo a escribir las siguientes líneas y a medida que pasen las lineas vamos a descubrir el por qué
 del título. Caminando, sintiendo como las gotas acariciaban mi frente empiezo a experimentar mucha violencia
