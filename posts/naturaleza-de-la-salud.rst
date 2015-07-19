@@ -129,8 +129,5 @@ que la que nuestra Cultura fomenta.
 
 Referencias:
 .. _[1]: http://www.amazon.com/China-Study-Comprehensive-Nutrition-Implications/dp/1932100660/ref=sr_1_1?s=books&ie=UTF8&qid=1437319809&sr=1-1&keywords=study+of+china
-.. _[2]:  Williams H. The Ethics of Diet. A Catena of Authorities Deprecatory of the Practice of Flesh-Eating
- http://www.amazon.com/The-Ethics-Diet-Authorities-Flesh-Eating/dp/0252071301
-.. _[3]: The Food Revolution: How Your Diet Can Help Save Your Life and Our World http://www.amazon.com/Food-Revolution-Your-Diet-World/dp/1573244872/ref=sr_1_1?s=books&ie=UTF8&qid=1437320019&sr=1-1&keywords=the+food+revolution
-
-
+.. _[2]: http://www.amazon.com/The-Ethics-Diet-Authorities-Flesh-Eating/dp/0252071301
+.. _[3]: http://www.amazon.com/Food-Revolution-Your-Diet-World/dp/1573244872/ref=sr_1_1?s=books&ie=UTF8&qid=1437320019&sr=1-1&keywords=the+food+revolution
