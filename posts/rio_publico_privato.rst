@@ -49,11 +49,12 @@ nuestros hermanos, ellos calman nuestra sed. ¿Los dueños de las propiedades
 privadas tratarán a los ríos trato bodadoso que dareís a cualquier hermano?
 
 Hagamos fuerza para que el hombre y la naturaleza vuelva a un armonioso equilibrio.
-Más información:
-.. _ref1: http://www.radiofmdellago.com.ar/?p=383
-.. _ref2: http://adnrionegro.com.ar/2014/10/nuevo-codigo-civil-y-el-acceso-a-las-costas-%E2%97%8F-magdalena-odarda/
-.. _ref3: http://enriqueviale.blogspot.com.ar/2015/03/nuevo-codigo-civil-chau-acceso-los-rios.html
-.. _ref4: http://www.derechoenzapatillas.org/2014/la-privatizacion-del-acceso-a-los-rios-y-lagos/ 
-.. _ref5: http://www.resumenlatinoamericano.org/2015/07/21/argentina-por-el-nuevo-codigo-civil-se-complicaria-el-acceso-a-los-rios/
-.. _ref6: http://www.analisisdigital.com.ar/noticias.php?ed=1&di=0&no=209307
-.. _ref7: http://www.noticiasentrerios.com.ar/2014/10/el-nuevo-codigo-civil-y-la.html
+
+Referencia:
+* http://www.radiofmdellago.com.ar/?p=383
+* http://adnrionegro.com.ar/2014/10/nuevo-codigo-civil-y-el-acceso-a-las-costas-%E2%97%8F-magdalena-odarda/
+* http://enriqueviale.blogspot.com.ar/2015/03/nuevo-codigo-civil-chau-acceso-los-rios.html
+* http://www.derechoenzapatillas.org/2014/la-privatizacion-del-acceso-a-los-rios-y-lagos/ 
+* http://www.resumenlatinoamericano.org/2015/07/21/argentina-por-el-nuevo-codigo-civil-se-complicaria-el-acceso-a-los-rios/
+* http://www.analisisdigital.com.ar/noticias.php?ed=1&di=0&no=209307
+* http://www.noticiasentrerios.com.ar/2014/10/el-nuevo-codigo-civil-y-la.html
