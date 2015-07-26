@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Quella</title><link>http://miquella.com.ar/</link><description>This is a demo site for Nikola.</description><atom:link href="http://miquella.com.ar/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Sun, 26 Jul 2015 16:07:19 GMT</lastBuildDate><generator>http://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Dominio Público o Privado</title><link>http://miquella.com.ar/posts/rio_publico_privato.html</link><dc:creator>Heizenreder Guillermo</dc:creator><description>&lt;div&gt;&lt;p&gt;La polémica es también por la naturaleza: por el acceso a los lagos y
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Quella</title><link>http://miquella.com.ar/</link><description>This is a demo site for Nikola.</description><atom:link href="http://miquella.com.ar/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Sun, 26 Jul 2015 16:16:45 GMT</lastBuildDate><generator>http://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Dominio Público o Privado</title><link>http://miquella.com.ar/posts/rio_publico_privato.html</link><dc:creator>Heizenreder Guillermo</dc:creator><description>&lt;div&gt;&lt;p&gt;La polémica es también por la naturaleza: por el acceso a los lagos y
 a los ríos, y por el control, finalmente, de la tierra y el agua&lt;/p&gt;
 &lt;p&gt;Particularmente hoy siento que el 01 de Agosto está cada vez más cerca,
 éste día será una fecha a la que debemos prestar atención, ya que entra
@@ -36,14 +36,16 @@ las lágrimas que nos lloran y la memoria que nos recuerda.&lt;/p&gt;
 nuestros hermanos, ellos calman nuestra sed. ¿Los dueños de las propiedades
 privadas tratarán a los ríos trato bodadoso que dareís a cualquier hermano?&lt;/p&gt;
 &lt;p&gt;Hagamos fuerza para que el hombre y la naturaleza vuelva a un armonioso equilibrio.&lt;/p&gt;
-&lt;p&gt;Referencia:
-* &lt;a class="reference external" href="http://www.radiofmdellago.com.ar/?p=383"&gt;http://www.radiofmdellago.com.ar/?p=383&lt;/a&gt;
-* &lt;a class="reference external" href="http://adnrionegro.com.ar/2014/10/nuevo-codigo-civil-y-el-acceso-a-las-costas-%E2%97%8F-magdalena-odarda/"&gt;http://adnrionegro.com.ar/2014/10/nuevo-codigo-civil-y-el-acceso-a-las-costas-%E2%97%8F-magdalena-odarda/&lt;/a&gt;
-* &lt;a class="reference external" href="http://enriqueviale.blogspot.com.ar/2015/03/nuevo-codigo-civil-chau-acceso-los-rios.html"&gt;http://enriqueviale.blogspot.com.ar/2015/03/nuevo-codigo-civil-chau-acceso-los-rios.html&lt;/a&gt;
-* &lt;a class="reference external" href="http://www.derechoenzapatillas.org/2014/la-privatizacion-del-acceso-a-los-rios-y-lagos/"&gt;http://www.derechoenzapatillas.org/2014/la-privatizacion-del-acceso-a-los-rios-y-lagos/&lt;/a&gt;
-* &lt;a class="reference external" href="http://www.resumenlatinoamericano.org/2015/07/21/argentina-por-el-nuevo-codigo-civil-se-complicaria-el-acceso-a-los-rios/"&gt;http://www.resumenlatinoamericano.org/2015/07/21/argentina-por-el-nuevo-codigo-civil-se-complicaria-el-acceso-a-los-rios/&lt;/a&gt;
-* &lt;a class="reference external" href="http://www.analisisdigital.com.ar/noticias.php?ed=1&amp;amp;di=0&amp;amp;no=209307"&gt;http://www.analisisdigital.com.ar/noticias.php?ed=1&amp;amp;di=0&amp;amp;no=209307&lt;/a&gt;
-* &lt;a class="reference external" href="http://www.noticiasentrerios.com.ar/2014/10/el-nuevo-codigo-civil-y-la.html"&gt;http://www.noticiasentrerios.com.ar/2014/10/el-nuevo-codigo-civil-y-la.html&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid>http://miquella.com.ar/posts/rio_publico_privato.html</guid><pubDate>Sun, 26 Jul 2015 14:56:38 GMT</pubDate></item><item><title>La naturaleza de la salud</title><link>http://miquella.com.ar/posts/naturaleza-de-la-salud.html</link><dc:creator>Heizenreder Guillermo</dc:creator><description>&lt;div&gt;&lt;p&gt;Para comenzar a comprender cómo nos comportamos, creo que debemos cuestinar
+&lt;p&gt;Referencia:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.radiofmdellago.com.ar/?p=383"&gt;[1]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://adnrionegro.com.ar/2014/10/nuevo-codigo-civil-y-el-acceso-a-las-costas-%E2%97%8F-magdalena-odarda/"&gt;[2]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://enriqueviale.blogspot.com.ar/2015/03/nuevo-codigo-civil-chau-acceso-los-rios.html"&gt;[3]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.derechoenzapatillas.org/2014/la-privatizacion-del-acceso-a-los-rios-y-lagos/"&gt;[4]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.resumenlatinoamericano.org/2015/07/21/argentina-por-el-nuevo-codigo-civil-se-complicaria-el-acceso-a-los-rios/"&gt;[5]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.analisisdigital.com.ar/noticias.php?ed=1&amp;amp;di=0&amp;amp;no=209307"&gt;[6]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.noticiasentrerios.com.ar/2014/10/el-nuevo-codigo-civil-y-la.html"&gt;[7]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid>http://miquella.com.ar/posts/rio_publico_privato.html</guid><pubDate>Sun, 26 Jul 2015 14:56:38 GMT</pubDate></item><item><title>La naturaleza de la salud</title><link>http://miquella.com.ar/posts/naturaleza-de-la-salud.html</link><dc:creator>Heizenreder Guillermo</dc:creator><description>&lt;div&gt;&lt;p&gt;Para comenzar a comprender cómo nos comportamos, creo que debemos cuestinar
 ciertos hábitos de vida e investigar si la violencia actual es consecuencia de
 una alimentación ó simplemente una manifestación del instinto animal que posee
 cada ser humano.&lt;/p&gt;

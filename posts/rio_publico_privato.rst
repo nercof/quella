@@ -51,10 +51,11 @@ privadas tratarán a los ríos trato bodadoso que dareís a cualquier hermano?
 Hagamos fuerza para que el hombre y la naturaleza vuelva a un armonioso equilibrio.
 
 Referencia:
-* http://www.radiofmdellago.com.ar/?p=383
-* http://adnrionegro.com.ar/2014/10/nuevo-codigo-civil-y-el-acceso-a-las-costas-%E2%97%8F-magdalena-odarda/
-* http://enriqueviale.blogspot.com.ar/2015/03/nuevo-codigo-civil-chau-acceso-los-rios.html
-* http://www.derechoenzapatillas.org/2014/la-privatizacion-del-acceso-a-los-rios-y-lagos/ 
-* http://www.resumenlatinoamericano.org/2015/07/21/argentina-por-el-nuevo-codigo-civil-se-complicaria-el-acceso-a-los-rios/
-* http://www.analisisdigital.com.ar/noticias.php?ed=1&di=0&no=209307
-* http://www.noticiasentrerios.com.ar/2014/10/el-nuevo-codigo-civil-y-la.html
+
+- `[1] <http://www.radiofmdellago.com.ar/?p=383>`_
+- `[2] <http://adnrionegro.com.ar/2014/10/nuevo-codigo-civil-y-el-acceso-a-las-costas-%E2%97%8F-magdalena-odarda/>`_
+- `[3] <http://enriqueviale.blogspot.com.ar/2015/03/nuevo-codigo-civil-chau-acceso-los-rios.html>`_
+- `[4] <http://www.derechoenzapatillas.org/2014/la-privatizacion-del-acceso-a-los-rios-y-lagos/>`_ 
+- `[5] <http://www.resumenlatinoamericano.org/2015/07/21/argentina-por-el-nuevo-codigo-civil-se-complicaria-el-acceso-a-los-rios/>`_
+- `[6] <http://www.analisisdigital.com.ar/noticias.php?ed=1&di=0&no=209307>`_
+- `[7] <http://www.noticiasentrerios.com.ar/2014/10/el-nuevo-codigo-civil-y-la.html>`_
