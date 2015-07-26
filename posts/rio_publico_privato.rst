@@ -16,7 +16,7 @@ en vigencia el proyecto de Reforma y Actualización del Código Civil Argentino,
 **una obra para los próximos 100 años**.
 
 Dentro de los cambios más polémicos está la limitación aún más del
-`Camino de Sirga  https://es.wikipedia.org/wiki/Camino_de_sirga` Incorporando como nuevo artículo 1974 el siguiente:  jej
+`Camino de Sirga https://es.wikipedia.org/wiki/Camino_de_sirga`_ Incorporando como nuevo artículo 1974 el siguiente:  jej
 
 .. note::
 	
@@ -33,7 +33,7 @@ públicos. Nuestros caminos costenos no serán más nuestros, ó de
 **dominio público** como se los conoce en la jerga jurídica, en cambio
 favorece al dueño y podrán cercar más el recurso natural , lo que sucede 
 en muchos lagos y ríos del país. Por ejemplo en Paraná tenemos `El caso 
-de los Arenales http://entreriosahora.com/los-arenales-como-el-agua-de-todos/`.
+de los Arenales http://entreriosahora.com/los-arenales-como-el-agua-de-todos/`_.
 
 Por ésto es importante investigar, leer y ver los detalles que el Congreso
 Nacional sanciona, involucrarse, tomar acciones (auto crítica hacia mí también)
