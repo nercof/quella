@@ -10,7 +10,11 @@
  </sitemap>
  <sitemap>
   <loc>http://miquella.com.ar/categories/alimentacion.xml</loc>
-  <lastmod>2015-07-16</lastmod>
+  <lastmod>2015-08-02</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://miquella.com.ar/categories/dieta.xml</loc>
+  <lastmod>2015-08-02</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://miquella.com.ar/categories/dulce.xml</loc>
@@ -26,11 +30,15 @@
  </sitemap>
  <sitemap>
   <loc>http://miquella.com.ar/categories/nutricion.xml</loc>
-  <lastmod>2015-07-16</lastmod>
+  <lastmod>2015-08-02</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://miquella.com.ar/categories/pensamientos.xml</loc>
   <lastmod>2015-07-16</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://miquella.com.ar/categories/proteina.xml</loc>
+  <lastmod>2015-08-02</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://miquella.com.ar/categories/sociedad.xml</loc>
@@ -38,10 +46,10 @@
  </sitemap>
  <sitemap>
   <loc>http://miquella.com.ar/rss.xml</loc>
-  <lastmod>2015-07-26</lastmod>
+  <lastmod>2015-08-02</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://miquella.com.ar/sitemap.xml</loc>
-  <lastmod>2015-07-26</lastmod>
+  <lastmod>2015-08-02</lastmod>
  </sitemap>
 </sitemapindex>
