@@ -2,13 +2,20 @@
 <html prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# " lang="en">
 <head>
 <meta charset="utf-8">
-<meta name="description" content="This is a demo site for Nikola.">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Posts for year 2015 | Quella</title>
+<title>galleries | Quella</title>
 <link href="../assets/css/all-nocdn.css" rel="stylesheet" type="text/css">
 <link rel="alternate" type="application/rss+xml" title="RSS" href="../rss.xml">
-<link rel="canonical" href="http://miquella.com.ar/2015/index.html">
-<!--[if lt IE 9]><script src="../assets/js/html5.js"></script><![endif]-->
+<link rel="canonical" href="http://miquella.com.ar/galleries/index.html">
+<!--[if lt IE 9]><script src="../assets/js/html5.js"></script><![endif]--><link rel="alternate" type="application/rss+xml" title="RSS" href="rss.xml">
+<style type="text/css">
+    .image-block {
+        display: inline-block;
+    }
+    .flowr_row {
+        width: 100%;
+    }
+    </style>
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Skip to main content</a>
@@ -55,34 +62,14 @@
         <div class="row">
             
             
-<article class="listpage"><header><h1>Posts for year 2015</h1>
-    </header><ul class="postlist">
-<li>
-<a href="../posts/hamburguesaveganlaa.html" class="listtitle">Hamburguesas Veganas Arroz Yamaní, Lenteja y Avena</a> <time class="listdate" datetime="2015-08-02T19:24:10-03:00" title="2015-08-02 19:24">2015-08-02 19:24</time>
-</li>
-        <li>
-<a href="../posts/porquecomemoscarne.html" class="listtitle">¿Por qué comemos Carne?</a> <time class="listdate" datetime="2015-08-01T18:56:59-03:00" title="2015-08-01 18:56">2015-08-01 18:56</time>
-</li>
-        <li>
-<a href="../posts/rio_publico_privato.html" class="listtitle">Dominio Público o Privado</a> <time class="listdate" datetime="2015-07-26T11:56:38-03:00" title="2015-07-26 11:56">2015-07-26 11:56</time>
-</li>
-        <li>
-<a href="../posts/naturaleza-de-la-salud.html" class="listtitle">La naturaleza de la salud</a> <time class="listdate" datetime="2015-07-19T10:51:25-03:00" title="2015-07-19 10:51">2015-07-19 10:51</time>
-</li>
-        <li>
-<a href="../posts/frase.html" class="listtitle">Frase</a> <time class="listdate" datetime="2015-07-03T22:24:12-03:00" title="2015-07-03 22:24">2015-07-03 22:24</time>
-</li>
-        <li>
-<a href="../posts/pieles_rojas_blancas.html" class="listtitle">Pieles rojas vs Pieles blancas</a> <time class="listdate" datetime="2015-04-14T15:44:48-03:00" title="2015-04-14 15:44">2015-04-14 15:44</time>
-</li>
-        <li>
-<a href="../posts/mi-dulzura-una-historia-no-tan-dulce-.html" class="listtitle">Mi dulzura -una historia no tan dulce-</a> <time class="listdate" datetime="2015-03-13T18:32:07-03:00" title="2015-03-13 18:32">2015-03-13 18:32</time>
-</li>
-        <li>
-<a href="../posts/el-palacio-de-la-memoria.html" class="listtitle">El palacio de la memoria</a> <time class="listdate" datetime="2015-03-13T09:10:49-03:00" title="2015-03-13 09:10">2015-03-13 09:10</time>
-</li>
-    </ul></article>
-</div>
+    
+<nav class="breadcrumbs"><ul class="breadcrumb">
+<li>galleries</li>
+</ul></nav><h1>galleries</h1>
+
+<div id="gallery_container"></div>
+
+        </div>
         <!--End of body content-->
 
         <footer id="footer">
@@ -98,6 +85,42 @@
             <script src="../assets/js/all-nocdn.js"></script><script>$('a.image-reference:not(.islink) img:not(.islink)').parent().colorbox({rel:"gal",maxWidth:"100%",maxHeight:"100%",scalePhotos:true});</script><!-- fancy dates --><script>
     moment.locale("");
     fancydates(0, "YYYY-MM-DD HH:mm");
-    </script><!-- end fancy dates -->
+    </script><!-- end fancy dates --><script src="../assets/js/flowr.plugin.js"></script><script>
+jsonContent = [];
+$("#gallery_container").flowr({
+        data : jsonContent,
+        height : 180*.6,
+        padding: 5,
+        rows: -1,
+        render : function(params) {
+            // Just return a div, string or a dom object, anything works fine
+            img = $("<img />").attr({
+                'src': params.itemData.url_thumb,
+                'width' : params.width,
+                'height' : params.height
+            }).css('max-width', '100%');
+            link = $( "<a></a>").attr({
+                'href': params.itemData.url,
+                'class': 'image-reference'
+            });
+            div = $("<div />").addClass('image-block').attr({
+                'title': params.itemData.title,
+                'data-toggle': "tooltip",
+            });
+            link.append(img);
+            div.append(link);
+            div.hover(div.tooltip());
+            return div;
+        },
+        itemWidth : function(data) { return data.size.w; },
+        itemHeight : function(data) { return data.size.h; },
+        complete : function(params) {
+            if( jsonContent.length > params.renderedItems ) {
+                nextRenderList = jsonContent.slice( params.renderedItems );
+            }
+        }
+    });
+$("a.image-reference").colorbox({rel:"gal", maxWidth:"100%",maxHeight:"100%",scalePhotos:true});
+</script>
 </body>
 </html>
