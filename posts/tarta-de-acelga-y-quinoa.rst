@@ -45,7 +45,7 @@ Ingredientes
 - 1 Paquete de acelga (puede ser espinaca también)
 - 1 Cebolla 
 - 2 Cebolla de verdeo
-- 1 Taza de `quinoa <https://es.wikipedia.org/wiki/Chenopodium_quinoa>`
+- 1 Taza de `quinoa <https://es.wikipedia.org/wiki/Chenopodium_quinoa>`_
 - Masa de Tarta
 - Sal marina
 - Condimentos a gusto
@@ -93,7 +93,7 @@ cristalino) le incorporamos la acelga, sal marina y dejamos que se cocinen ambas
 verdudas por unos 10 minutos. En este paso podemos incorporar los condimentos
 para que empiecen a desprender los aromas y se inunde nuestra cocina.
 
-Personalmente opté por Nuezo moscada, estragón y una pizca de `Merkén <https://es.wikipedia.org/wiki/Merk%C3%A9n>`
+Personalmente opté por Nuezo moscada, estragón y una pizca de `Merkén <https://es.wikipedia.org/wiki/Merk%C3%A9n>`_
 cuando la acelga tomo un color verde intenso le podemos incorporar la quinoa,
 las nueces (y el tofú), tapamos y dejamos cocinar por 15 minutos y relleno listo
 
