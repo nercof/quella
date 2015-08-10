@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Quella (recetas)</title><link>http://miquella.com.ar/</link><description></description><atom:link href="http://miquella.com.ar/categories/recetas.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Mon, 10 Aug 2015 01:11:04 GMT</lastBuildDate><generator>http://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Tarta de Acelga y Quinoa</title><link>http://miquella.com.ar/posts/tarta-de-acelga-y-quinoa.html</link><dc:creator>Heizenreder Guillermo</dc:creator><description>&lt;div&gt;&lt;p&gt;Ayer en la feria Agroecológica pude conseguir unos ricos paquetes de acelga
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Quella (recetas)</title><link>http://miquella.com.ar/</link><description></description><atom:link href="http://miquella.com.ar/categories/recetas.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Mon, 10 Aug 2015 01:14:57 GMT</lastBuildDate><generator>http://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Tarta de Acelga y Quinoa</title><link>http://miquella.com.ar/posts/tarta-de-acelga-y-quinoa.html</link><dc:creator>Heizenreder Guillermo</dc:creator><description>&lt;div&gt;&lt;p&gt;Ayer en la feria Agroecológica pude conseguir unos ricos paquetes de acelga
 para poder hacer un relleno (el relleno puede emplearse en canelones, sorrentinos
 o una tarta como la que hice hoy).&lt;/p&gt;
 
-&lt;div id="slides_6f9101add6d64b57a68ca33daad44f13" class="carousel slide"&gt;
+&lt;div id="slides_3ce5ed1488cb4d7b907d26c1725f786f" class="carousel slide"&gt;
     &lt;ol class="carousel-indicators"&gt;
-            &lt;li data-target="#slides_6f9101add6d64b57a68ca33daad44f13" data-slide-to="0" class="active"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_6f9101add6d64b57a68ca33daad44f13" data-slide-to="1"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_6f9101add6d64b57a68ca33daad44f13" data-slide-to="2"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_6f9101add6d64b57a68ca33daad44f13" data-slide-to="3"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_6f9101add6d64b57a68ca33daad44f13" data-slide-to="4"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_6f9101add6d64b57a68ca33daad44f13" data-slide-to="5"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_6f9101add6d64b57a68ca33daad44f13" data-slide-to="6"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_6f9101add6d64b57a68ca33daad44f13" data-slide-to="7"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_6f9101add6d64b57a68ca33daad44f13" data-slide-to="8"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_6f9101add6d64b57a68ca33daad44f13" data-slide-to="9"&gt;
+            &lt;li data-target="#slides_3ce5ed1488cb4d7b907d26c1725f786f" data-slide-to="0" class="active"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_3ce5ed1488cb4d7b907d26c1725f786f" data-slide-to="1"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_3ce5ed1488cb4d7b907d26c1725f786f" data-slide-to="2"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_3ce5ed1488cb4d7b907d26c1725f786f" data-slide-to="3"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_3ce5ed1488cb4d7b907d26c1725f786f" data-slide-to="4"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_3ce5ed1488cb4d7b907d26c1725f786f" data-slide-to="5"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_3ce5ed1488cb4d7b907d26c1725f786f" data-slide-to="6"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_3ce5ed1488cb4d7b907d26c1725f786f" data-slide-to="7"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_3ce5ed1488cb4d7b907d26c1725f786f" data-slide-to="8"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_3ce5ed1488cb4d7b907d26c1725f786f" data-slide-to="9"&gt;
     &lt;/li&gt;&lt;/ol&gt;
     &lt;div class="carousel-inner"&gt;
                 &lt;div class="item active"&gt;&lt;img src="http://miquella.com.ar/images/t001/DSC_0810.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
@@ -28,8 +28,8 @@ o una tarta como la que hice hoy).&lt;/p&gt;
                 &lt;div class="item"&gt;&lt;img src="http://miquella.com.ar/images/t001/DSC_0845.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
                 &lt;div class="item"&gt;&lt;img src="http://miquella.com.ar/images/t001/DSC_0846.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
     &lt;/div&gt;
-    &lt;a class="left carousel-control" href="http://miquella.com.ar/posts/tarta-de-acelga-y-quinoa.html#slides_6f9101add6d64b57a68ca33daad44f13" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
-    &lt;a class="right carousel-control" href="http://miquella.com.ar/posts/tarta-de-acelga-y-quinoa.html#slides_6f9101add6d64b57a68ca33daad44f13" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="left carousel-control" href="http://miquella.com.ar/posts/tarta-de-acelga-y-quinoa.html#slides_3ce5ed1488cb4d7b907d26c1725f786f" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="right carousel-control" href="http://miquella.com.ar/posts/tarta-de-acelga-y-quinoa.html#slides_3ce5ed1488cb4d7b907d26c1725f786f" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;
 
 &lt;p&gt;La quinoa no es más que una semilla, pero con características únicas al poder
@@ -68,14 +68,6 @@ apreciables y vitamina E con función antioxidante&lt;/p&gt;
 procedimiento que cualquier receta de quinoa.&lt;/p&gt;
 &lt;div class="section" id="como-preparar-la-quinoa"&gt;
 &lt;h3&gt;Cómo preparar la quinoa&lt;/h3&gt;
-&lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 56)&lt;/p&gt;
-&lt;p&gt;Title underline too short.&lt;/p&gt;
-&lt;pre class="literal-block"&gt;
-Cómo preparar la quinoa
-~~~~~~~~~~~~~~~~~~~~~~
-&lt;/pre&gt;
-&lt;/div&gt;
 &lt;p&gt;Para comenzar a emplear la quinoa es importante hacer un lavado previo de las
 semillas, frotando las mismas suavemente con las manos, bajo el agua,
 de manera que se quite la capa de saponinas que recubre las semillas y que
