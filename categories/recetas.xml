@@ -1,5 +1,125 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Quella (recetas)</title><link>http://miquella.com.ar/</link><description></description><atom:link href="http://miquella.com.ar/categories/recetas.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Mon, 10 Aug 2015 00:09:31 GMT</lastBuildDate><generator>http://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Budín vegano banana, algarroba y más!</title><link>http://miquella.com.ar/posts/budin-vegano-banana-algarroba-y-mas.html</link><dc:creator>Heizenreder Guillermo</dc:creator><description>&lt;div&gt;&lt;p&gt;Esta es la primera preparación que busque para hacer hace unos meses atrás
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Quella (recetas)</title><link>http://miquella.com.ar/</link><description></description><atom:link href="http://miquella.com.ar/categories/recetas.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Mon, 10 Aug 2015 01:11:04 GMT</lastBuildDate><generator>http://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Tarta de Acelga y Quinoa</title><link>http://miquella.com.ar/posts/tarta-de-acelga-y-quinoa.html</link><dc:creator>Heizenreder Guillermo</dc:creator><description>&lt;div&gt;&lt;p&gt;Ayer en la feria Agroecológica pude conseguir unos ricos paquetes de acelga
+para poder hacer un relleno (el relleno puede emplearse en canelones, sorrentinos
+o una tarta como la que hice hoy).&lt;/p&gt;
+
+&lt;div id="slides_6f9101add6d64b57a68ca33daad44f13" class="carousel slide"&gt;
+    &lt;ol class="carousel-indicators"&gt;
+            &lt;li data-target="#slides_6f9101add6d64b57a68ca33daad44f13" data-slide-to="0" class="active"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_6f9101add6d64b57a68ca33daad44f13" data-slide-to="1"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_6f9101add6d64b57a68ca33daad44f13" data-slide-to="2"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_6f9101add6d64b57a68ca33daad44f13" data-slide-to="3"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_6f9101add6d64b57a68ca33daad44f13" data-slide-to="4"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_6f9101add6d64b57a68ca33daad44f13" data-slide-to="5"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_6f9101add6d64b57a68ca33daad44f13" data-slide-to="6"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_6f9101add6d64b57a68ca33daad44f13" data-slide-to="7"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_6f9101add6d64b57a68ca33daad44f13" data-slide-to="8"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_6f9101add6d64b57a68ca33daad44f13" data-slide-to="9"&gt;
+    &lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="carousel-inner"&gt;
+                &lt;div class="item active"&gt;&lt;img src="http://miquella.com.ar/images/t001/DSC_0810.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://miquella.com.ar/images/t001/DSC_0819.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://miquella.com.ar/images/t001/DSC_0821.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://miquella.com.ar/images/t001/DSC_0826.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://miquella.com.ar/images/t001/DSC_0834.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://miquella.com.ar/images/t001/DSC_0837.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://miquella.com.ar/images/t001/DSC_0839.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://miquella.com.ar/images/t001/DSC_0843.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://miquella.com.ar/images/t001/DSC_0845.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://miquella.com.ar/images/t001/DSC_0846.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;a class="left carousel-control" href="http://miquella.com.ar/posts/tarta-de-acelga-y-quinoa.html#slides_6f9101add6d64b57a68ca33daad44f13" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="right carousel-control" href="http://miquella.com.ar/posts/tarta-de-acelga-y-quinoa.html#slides_6f9101add6d64b57a68ca33daad44f13" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;La quinoa no es más que una semilla, pero con características únicas al poder
+consumirse como un cereal, por eso, la llamamos también pseudocereal. Como tal,
+la quinoa provee la mayor parte de sus calorías en forma de hidratos complejos,
+pero también aporta cerca de 16 gramos de proteínas por cada 100 gramos y
+ofrece alrededor de 6 gramos de grasas en igual cantidad de alimento.&lt;/p&gt;
+&lt;p&gt;Si nos referimos a los micronutrientes, en la quinoa destaca el contenido de
+potasio, magnesio, calcio, fósforo, hierro y zinc entre los minerales,
+mientras que también ofrece vitaminas del complejo B en cantidades
+apreciables y vitamina E con función antioxidante&lt;/p&gt;
+&lt;p&gt;La acelga por otro lado nos da&lt;/p&gt;
+&lt;p&gt;A disfrutar!&lt;/p&gt;
+&lt;div class="section" id="ingredientes"&gt;
+&lt;h2&gt;Ingredientes&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;1 Paquete de acelga (puede ser espinaca también)&lt;/li&gt;
+&lt;li&gt;1 Cebolla&lt;/li&gt;
+&lt;li&gt;2 Cebolla de verdeo&lt;/li&gt;
+&lt;li&gt;1 Taza de &lt;cite&gt;quinoa &amp;lt;https://es.wikipedia.org/wiki/Chenopodium_quinoa&amp;gt;&lt;/cite&gt;&lt;/li&gt;
+&lt;li&gt;Masa de Tarta&lt;/li&gt;
+&lt;li&gt;Sal marina&lt;/li&gt;
+&lt;li&gt;Condimentos a gusto&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="section" id="opcionales"&gt;
+&lt;h3&gt;Opcionales&lt;/h3&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Nueces&lt;/li&gt;
+&lt;li&gt;Tofú: Podemos incorporarle cortado o procesado.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="preparacion"&gt;
+&lt;h2&gt;Preparación&lt;/h2&gt;
+&lt;p&gt;Por un lado tenemos el preparado de quinoa que lo explico a continuación, mismo
+procedimiento que cualquier receta de quinoa.&lt;/p&gt;
+&lt;div class="section" id="como-preparar-la-quinoa"&gt;
+&lt;h3&gt;Cómo preparar la quinoa&lt;/h3&gt;
+&lt;div class="system-message"&gt;
+&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 56)&lt;/p&gt;
+&lt;p&gt;Title underline too short.&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+Cómo preparar la quinoa
+~~~~~~~~~~~~~~~~~~~~~~
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;p&gt;Para comenzar a emplear la quinoa es importante hacer un lavado previo de las
+semillas, frotando las mismas suavemente con las manos, bajo el agua,
+de manera que se quite la capa de saponinas que recubre las semillas y que
+de quedarse allí, aportaría un sabor amargo y queda una capa gelatinosa que no
+es agradable.&lt;/p&gt;
+&lt;p&gt;No debemos remojar, sino lavar y enjuagar, por lo que ponemos la taza de quinoa
+en un colador y la vamos limpiando con las manos debajo del agua.&lt;/p&gt;
+&lt;p&gt;Posteriormente hervimos tal como si fuera arroz, por espacio de 15 a 20 minutos
+o hasta que se abra la semilla. Colamos y listo para usar.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="como-preparar-el-relleno"&gt;
+&lt;h3&gt;Cómo preparar el relleno&lt;/h3&gt;
+&lt;p&gt;Para el relleno solo tenemos que cortar las cebollas en cubos o láminas, como
+más les agrade y ponerla a reogar con un poco de sal para que traspire y permita
+usar esa agua para la cocción. También podes incorporar un poco de aceite de
+oliva en este paso.&lt;/p&gt;
+&lt;p&gt;Por otro lado cortamos la acelga en julianas (si no optamos por hacerla cruda
+directamente con la cebolla al wok podemos blanquear las hojas en un poco de
+agua hirviendo por unos minutos y picar), esta vez opto por la acelga cruda.&lt;/p&gt;
+&lt;p&gt;Como se aprecia en las fotos una vez que esta en su punto la cebolla (color
+cristalino) le incorporamos la acelga, sal marina y dejamos que se cocinen ambas
+verdudas por unos 10 minutos. En este paso podemos incorporar los condimentos
+para que empiecen a desprender los aromas y se inunde nuestra cocina.&lt;/p&gt;
+&lt;p&gt;Personalmente opté por Nuezo moscada, estragón y una pizca de &lt;cite&gt;Merkén &amp;lt;https://es.wikipedia.org/wiki/Merk%C3%A9n&amp;gt;&lt;/cite&gt;
+cuando la acelga tomo un color verde intenso le podemos incorporar la quinoa,
+las nueces (y el tofú), tapamos y dejamos cocinar por 15 minutos y relleno listo&lt;/p&gt;
+&lt;p&gt;Ahora solo falta estirar la masa para llevar al horno.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="como-preparar-la-masa"&gt;
+&lt;h3&gt;Cómo preparar la masa&lt;/h3&gt;
+&lt;p&gt;Una medida (unos 10cc) de aceite vegetal neutro, una medida de agua y una medida
+de leche vegetal (Avena, coco, soja) sino tenes podes sumar media medida de
+aceite y agua.&lt;/p&gt;
+&lt;p&gt;Mezclamos los ingredientes líquidos y le incorporamos unas semillas a gusto, una
+pizca de sal, orégano y vamos incorporando la harina integral necesaria para
+que se forme el bollo de la masa.&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+Tips: te recomiendo hacer la masa y almacenar en la heladera mientras haces
+el relleno, para que el amasado sea más ameno.
+&lt;/pre&gt;
+&lt;p&gt;Listo solo incorporamos el relleno a la masa y al horno.&lt;/p&gt;
+&lt;p&gt;Tiempo de horno: Hasta que la masa se dore (unos 20 minutos).&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</description><category>recetas</category><category>tartas</category><category>veganas</category><guid>http://miquella.com.ar/posts/tarta-de-acelga-y-quinoa.html</guid><pubDate>Mon, 10 Aug 2015 00:30:45 GMT</pubDate></item><item><title>Budín vegano banana, algarroba y más!</title><link>http://miquella.com.ar/posts/budin-vegano-banana-algarroba-y-mas.html</link><dc:creator>Heizenreder Guillermo</dc:creator><description>&lt;div&gt;&lt;p&gt;Esta es la primera preparación que busque para hacer hace unos meses atrás
 cuando tenía unas bananas muy negras que son las ideales porque son las que
 más azúzares tienen.&lt;/p&gt;
 &lt;p&gt;Ayer queria compartir con mis compañeros del profesorado de Yoga por lo que a la
