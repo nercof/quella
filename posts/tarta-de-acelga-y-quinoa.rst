@@ -62,7 +62,7 @@ Por un lado tenemos el preparado de quinoa que lo explico a continuación, mismo
 procedimiento que cualquier receta de quinoa.
 
 Cómo preparar la quinoa
-~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
 
 Para comenzar a emplear la quinoa es importante hacer un lavado previo de las 
 semillas, frotando las mismas suavemente con las manos, bajo el agua, 
