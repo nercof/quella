@@ -55,12 +55,12 @@ Ingredientes
 - 1/2 Taza de Harina de Algarroba (sino tienen sumen media mas de Harina integral)
 
 Opcionales
+~~~~~~~~~~
 - Pasas de Uva (Poner en remojo una media hora antes)
 - Nueces y Almendras
 - Cacao amargo
 - Semillas de Chía 
-- Harinas: podes incorporar o reemplazar la harina de algarroba por harina de
-  centeno, o harina de lino.
+- Harinas: podes incorporar o reemplazar la harina de algarroba por harina de centeno, o harina de lino.
 - Lo que quieras incorporar! Chips de chocolate, canela, fruta secas...
 
 Preparación
@@ -94,9 +94,9 @@ Y listo! Momento de poner aceite y un poco de harina a la budinera y llevar al h
 medio por 45' a 55' minutos.
 
 :: 
-                                  
-Tips: Para que no se forme tanta cáscara al budín podemos poner una asadera
-en el piso del horno para formar un vapor de cocción.
+                                 
+ Tips: Para que no se forme tanta cáscara al budín podemos poner una asadera
+ en el piso del horno para formar un vapor de cocción.
 
 Música para cocinar
 -------------------
