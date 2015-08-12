@@ -26,8 +26,7 @@ SITE_URL = "http://miquella.com.ar/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://getnikola.com/"
 BLOG_EMAIL = "gheize@gmail.com"
-BLOG_DESCRIPTION = "Sitio Personal de Heizenreder Guillermo " \ 
-                    "alimentación consciente, recetas, yoga, libros, pensamientos"  # (translatable)
+BLOG_DESCRIPTION = "Sitio Personal de Heizenreder Guillermo recetas, yoga, libros, pensamientos"  # (translatable)
 
 # Nikola is multilingual!
 #
