@@ -26,7 +26,8 @@ SITE_URL = "http://miquella.com.ar/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://getnikola.com/"
 BLOG_EMAIL = "gheize@gmail.com"
-BLOG_DESCRIPTION = "This is a demo site for Nikola."  # (translatable)
+BLOG_DESCRIPTION = "Sitio Personal de Heizenreder Guillermo " \ 
+                    "alimentación consciente, recetas, yoga, libros, pensamientos"  # (translatable)
 
 # Nikola is multilingual!
 #
@@ -121,6 +122,22 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
+        ('/pages/sobre-mi/', 'Sobre mí'),
+        (
+            (
+                ('/pages/doc_alimentacion/', 'Alimentación'),
+                ('/pages/doc_conciencia/', 'Para abrir la conciencia'),
+            ),
+            'Documentales',
+        ),
+        (
+            (
+                ('/pages/recetario_desayunos/', 'Desayunos'),
+                ('/pages/recetario_ppal/', 'Plato principal'),
+                ('/pages/recetario_postres/', 'Postres'),
+            ),
+            'Recetario',
+        ),
         ("/archive.html", "Archive"),
         ("/categories/index.html", "Tags"),
         ("/rss.xml", "RSS feed"),
@@ -204,9 +221,10 @@ POSTS = (
     ("posts/*.txt", "posts", "post.tmpl"),
 )
 PAGES = (
-    ("stories/*.rst", "stories", "story.tmpl"),
-    ("stories/*.txt", "stories", "story.tmpl"),
-)
+#    ("stories/*.rst", "stories", "story.tmpl"),
+#    ("stories/*.txt", "stories", "story.tmpl"),
+    ("pages/*.rst", "pages", "story.tmpl"),
+    )
 
 # One or more folders containing files to be copied as-is into the output.
 # The format is a dictionary of {source: relative destination}.
@@ -216,8 +234,7 @@ PAGES = (
 
 # One or more folders containing listings to be processed and stored into
 # the output. The format is a dictionary of {source: relative destination}.
-# Default is:
-# LISTINGS_FOLDERS = {'listings': 'listings'}
+
 # Which means process listings from 'listings' into 'output/listings'
 
 # A mapping of languages to file-extensions that represent that language.
@@ -370,7 +387,10 @@ WRITE_TAG_CLOUD = True
 # relative URL.
 #
 # If you don't need any of these, just set to []
-REDIRECTIONS = []
+REDIRECTIONS = [
+        
+        
+        ]
 
 # Presets of commands to execute to deploy. Can be anything, for
 # example, you may use rsync:
@@ -382,14 +402,14 @@ REDIRECTIONS = []
 # to `nikola deploy`.  If no arguments are specified, a preset
 # named `default` will be executed.  You can use as many presets
 # in a `nikola deploy` command as you like.
-DEPLOY_COMMANDS = [
+DEPLOY_COMMANDS = {"default": [
     "git checkout gh-pages",
     "rsync -rPv --delete-after --exclude .git --exclude .gitignore --exclude CNAME --exclude cache/ --exclude .doit.db.db output/ .",
     "git add -A",
     "git commit -a -m 'Updating blog content'",
     "git push",
     "git checkout master",
-]
+    ]}
 
 # For user.github.io OR organization.github.io pages, the DEPLOY branch
 # MUST be 'master', and 'gh-pages' for other repositories.
@@ -474,15 +494,16 @@ DEPLOY_COMMANDS = [
 # "source/" and the results will be located in
 # "OUTPUT_PATH/relative_destination/gallery_name"
 # Default is:
-# GALLERY_FOLDERS = {"galleries": "galleries"}
+GALLERY_FOLDERS = {"galleries": "galleries"}
 # More gallery options:
-# THUMBNAIL_SIZE = 180
-# MAX_IMAGE_SIZE = 1280
-# USE_FILENAME_AS_TITLE = True
-# EXTRA_IMAGE_EXTENSIONS = []
+THUMBNAIL_SIZE = 180
+#MAX_IMAGE_SIZE = 1280
+MAX_IMAGE_SIZE = 400
+USE_FILENAME_AS_TITLE = True
+EXTRA_IMAGE_EXTENSIONS = []
 #
 # If set to False, it will sort by filename instead. Defaults to True
-# GALLERY_SORT_BY_DATE = True
+GALLERY_SORT_BY_DATE = True
 #
 # Folders containing images to be used in normal posts or
 # pages. Images will be scaled down according to THUMBNAIL_SIZE and
@@ -490,7 +511,9 @@ DEPLOY_COMMANDS = [
 # be visible on the site. The format is a dictionary of {source:
 # relative destination}.
 #
-# IMAGE_FOLDERS = {'images': ''}
+IMAGE_FOLDERS = {'images': 'images'}
+IMAGE_THUMBNAIL_SIZE = 400
+
 
 # #############################################################################
 # HTML fragments and diverse things that are used by the templates
