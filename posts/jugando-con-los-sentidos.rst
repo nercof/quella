@@ -45,6 +45,7 @@ la proteína de la leche vacuna, por ejemplo), pero este experimento es justo lo
 necesito para tratar de germinar esa semilla de inquietud en cada uno de ustedes. 
 
 Preguntas que me empezaron hacer ruido este 2015
+
 - ¿Por qué nos comportamos como lo hacemos?
 - ¿Por qué comemos lo que comemos?. 
 - ¿Por qué hacemos las cosas de una manera y no de otra?.
@@ -120,7 +121,7 @@ Hasta el próximo post!
 
 Referencia:
 
-1. `Esto siempre ah sido asi <http://www.desdeelexilio.com/2015/01/28/esto-siempre-ha-sido-asi-dicen-parabola-de-los-cinco-monos/>`_
-2. `The five monkeys experiment with a new lesson <http://johnstepper.com/2013/10/26/the-five-monkeys-experiment-with-a-new-lesson/>`_
-3. `What Monkeys can teach us about human behavior <https://www.psychologytoday.com/blog/games-primates-play/201203/what-monkeys-can-teach-us-about-human-behavior-facts-fiction>`_
+- `Esto siempre ah sido asi <http://www.desdeelexilio.com/2015/01/28/esto-siempre-ha-sido-asi-dicen-parabola-de-los-cinco-monos/>`_
+- `The five monkeys experiment with a new lesson <http://johnstepper.com/2013/10/26/the-five-monkeys-experiment-with-a-new-lesson/>`_
+- `What Monkeys can teach us about human behavior <https://www.psychologytoday.com/blog/games-primates-play/201203/what-monkeys-can-teach-us-about-human-behavior-facts-fiction>`_
 

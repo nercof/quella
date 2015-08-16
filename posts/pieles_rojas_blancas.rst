@@ -34,13 +34,15 @@ Para leer más sobre la deforestación ponemos ir a `[1]`_ `[2]`_ `[3]`_ `[4]`_
 
 Necesitamos encariñarnos más con la madre tierra, necesitamos ser mas pieles rojas y no blancas en actitud, algo
 que encontre en mis lecturas hace mucho tiempo **31 de Julio de 2005** para ser más precisos, y es una maravillosa
-carta que voy a transcribir porque no la encuentro en la web tal cual y aun conservo
+carta que voy a transcribir porque no la encuentro en la web tal cual y aún conservo
 
-.. sidebar:: Cuando un indio Seattle le escribe una Carta al Presidente de EEUU
-
+.. epigraph::
+ 
+ Cuando un indio Seattle le escribe una Carta al Presidente de EEUU
+ 
  Seattle, jefe de la tribu Suwamish, envio en el año  1855 al presidente Franklin Pierce una carta en respuesta 
  a su oferta de compra de las tierras de los indios.  Aqui se reproducen tramos principales de la misma:
-
+ 
  El Gran jefe de Washington manda decir que desea comprar nuestras tierras. Vamos a considerar su oferta, 
  pues sabemos que, de no hacerlo, el hombre blanco podrá venir con sus armas de fuego y tomarse nuestras tierras.
  "¿Cómo podéis comprar o vender el cielo, el calor de la tierra? Esta idea nos parece extraña. No somos 
@@ -48,19 +50,19 @@ carta que voy a transcribir porque no la encuentro en la web tal cual y aun cons
  que cada particula de esta tierra es sagrada para mi pueblo. Cadoa hoja resplandeciente, cada playa arenosa 
  cada neblina en el oscuro bosque, cada claro y cada insecto con su zumbido son sagrados en la memoria
  y experiencia de mi pueblo. La savia que circula en los árboles porta las memorias del hombre de piel roja.
-
+ 
  Los ríos son nuestros hermanos, ellos calman nuestra sed. Los ríos llevan nuestras canoas y alimentan a nuestros 
  hijos. Si os vendemos nuestras tierras debereis en adelante dar a los rios el trato bodadoso que dareís a 
- cualquier hermano.
-
- *LO QUE VENDRÁ.* El hombre blanco es un extraño que llega en la noche a sacar de la tierra lo que necesita.
+ cualquier hermano. 
+ 
+ LO QUE VENDRÁ. El hombre blanco es un extraño que llega en la noche a sacar de la tierra lo que necesita.
  La tierra no es su hermano sino su enemigo. Cuando la ha conquistado la abandona y sigue su camino. Trata a su 
  madre, la tierra y a su hermano el cielo como si fuesen cosas que se pueden comprar, saquear y vender, como si 
  fuesen corderos y cuentas de vidrio. Su insaciable apetito devorará la tierra y dejara tras si solo un desierto.
-
+ 
  No lo comprendo. Nuestra manera de ser es diferente a la vuestra. La vista de vuestras ciudades hace doler los
  ojos al hombre de piel roja. Pero quiza es así porque el hombre de piel roja es un salvaje y no comprende las cosas...
-
+ 
  No hay ningun lugar tranquilo en las ciudades del hombre blanco, ningun lugar donde pueda escucharse desplegarse 
  de las hojas de primavera o el orzar de las alas de un insecto.
  
@@ -68,20 +70,20 @@ carta que voy a transcribir porque no la encuentro en la web tal cual y aun cons
  nocturna de las ranas alrededor de la laguna?. Soy un hombre de piel roja y no lo comprendo. Los indios preferimos 
  el suave sobido del viento que acaricia la cara del lago y el olor del mismo viento purificado por la lluvia 
  del mediodía o perfumado por la fragancia de los pinos.
-
- *"NO COMPRENDO".* Consideremos vuestra oferta de comprar nuestras tierras. Si decidimos aceparla, pondre una 
+ 
+ "NO COMPRENDO". Consideremos vuestra oferta de comprar nuestras tierras. Si decidimos aceparla, pondre una 
  condición: que el hombre blanco deberá tratar a los animales de esta tierra como hermanos. Soy un salvaje y no 
  comprendo otro modo de conducta. He visto miles de búfalos pudriéndose sobre las pradera abandonados allí por el 
  hombre blanco que les disparó desde un tren en marcha. Soy un salvaje y no comprendo cómo el humeante caballo
  a vapor puede ser mas importante que el búfalo al que matamos para poder vivir. **¿Qué es el hombre sin los animales?**
  Si todos los animales hubiesen desaparecido, el hombre moriría de una gran soledad de espíritu. Porque todo lo que 
  ocurre a los animales pronto nos habrá de ocurrir tambien al hombre. Todas las cosas estan relacionadas entre sí.
-
+ 
  Vosotros debereis enseñar a vuestros hijos lo que nosotros hemos enseñado a los nuestros: que la tierra es nuestra 
  madre. Todo lo que afecta a la tierra afecta a los hijos de la tierra. Cuando los hombres escupen el suelo se escupen 
  a sí mismo.
-
- *ALERTA:* Esto lo sabemos: la tierra no pertenece al hombre, sino que el hombre pertenece a la tierra. El hombre no 
+ 
+ ALERTA: Esto lo sabemos: la tierra no pertenece al hombre, sino que el hombre pertenece a la tierra. El hombre no 
  ha tejido la red de la vida: es solo una hebra de ella. Todo lo que haga a la red se lo hará a sí mismo. Lo que 
  ocurre a la tierra ocurrira a los hijos de la tierra. Lo sabemos. todas las cosas estan relacionadas como la sangre 
  que une a una familia.
@@ -91,17 +93,17 @@ carta que voy a transcribir porque no la encuentro en la web tal cual y aun cons
  tierra es preciosa para Él y el causarle daño significa mostrar desprecio hacia su Creador. Los hombre blancos 
  tambien pasaran, tal vez antes dque las demas tribus. Si contaminais vuestra cama, morirés alguna noche sofocados 
  por vuestros propios desperdicios.
-
+ 
  Pero aun en vuestra hora final os sentireis iluminados por la idea de que Dios os trajo a estas tierras y os dio el 
  dominio sobre ellas y sobre el hombre de piel roja con algún proposito especial.
-
+ 
  Tal destino es un misterio para nosotros porque no comprendemos lo que sera cuando los búfalos hayan sido 
  exterminados, cuando los caballos salvajes hayan sido domados, cuando los reconditos rincones de los bosques 
  exhalen el olor a muchos hombres y cuando la vista hacia las verdes colinas esté cerrada por un enjambre de alambres
  parlantes.
-
- ¿Dónde esta el espeso bosque?  *Desaparecio*
- ¿Donde esta el águila?         *Desaparecio*
+ 
+ ¿Dónde esta el espeso bosque?  Desapareció
+ ¿Donde esta el águila?         Desapareció
  Asi termina la vida y comienza el sobrevivir.
 
 Hoy más que nunca tenemos que pensar y sentir como pieles rojas si queremos un futuro para las generaciones que 

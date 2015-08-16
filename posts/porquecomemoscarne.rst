@@ -117,8 +117,8 @@ siguiendo tu conciencia.
 
 Rerencia:
 
-- `[1] <http://www.amazon.com/Proteins-Human-Nutrition-J-W-G-Porter/dp/0125629508>`_
-- `[2] <http://www.amazon.es/Comer-animales-Diversos-Jonathan-Safran/dp/8432210366/ref=pd_sim_14_1?ie=UTF8&refRID=1F69991EXYV44QSNFEW3>`_
-- `[3] <http://www.amazon.es/Libro-Prote%C3%ADnas-Vegetales-Salud-natural/dp/8475567487/ref=pd_sim_14_7?ie=UTF8&refRID=1F69991EXYV44QSNFEW3>`_
-- `[4] <http://www.amazon.es/El-Estudio-China-Colin-Campbell/dp/1935618784/ref=sr_1_1?s=books&ie=UTF8&qid=1438551451&sr=1-1&keywords=the+china+study>`_
-- `[5] <http://www.amazon.es/Omnivores-Dilemma-Search-Perfect-Fast-food-ebook/dp/B002TQKS14/ref=sr_1_4?ie=UTF8&qid=1438551535&sr=8-4&keywords=michael+pollan>`_
+- `Proteins Human Nutrition <http://www.amazon.com/Proteins-Human-Nutrition-J-W-G-Porter/dp/0125629508>`_
+- `Comer animales <http://www.amazon.es/Comer-animales-Diversos-Jonathan-Safran/dp/8432210366/ref=pd_sim_14_1?ie=UTF8&refRID=1F69991EXYV44QSNFEW3>`_
+- `Libro Proteínas vegetales <http://www.amazon.es/Libro-Prote%C3%ADnas-Vegetales-Salud-natural/dp/8475567487/ref=pd_sim_14_7?ie=UTF8&refRID=1F69991EXYV44QSNFEW3>`_
+- `El Estudio de China <http://www.amazon.es/El-Estudio-China-Colin-Campbell/dp/1935618784/ref=sr_1_1?s=books&ie=UTF8&qid=1438551451&sr=1-1&keywords=the+china+study>`_
+- `Omnivores Dilemma <http://www.amazon.es/Omnivores-Dilemma-Search-Perfect-Fast-food-ebook/dp/B002TQKS14/ref=sr_1_4?ie=UTF8&qid=1438551535&sr=8-4&keywords=michael+pollan>`_
