@@ -95,6 +95,14 @@ simplemente **La Historia de los Monos** `Stephenson (1966) - Cultural Acquisiti
 
 ¿Les suena familiar?.
 
+:: 
+   
+  ¿Triste época la nuestra! Es más fácil desintegrar un átomo que un prejuicio.
+  Albert Einstein, 
+                                    
+  La frase más perjudicial en el idioma es: "Siempre se ha hecho así"".
+  Grace Hopper 
+ 
 ¿Como sociedad cuántas veces hacemos lo mismo?, a cuántos les paso en su lugar 
 de trabajo escuchar la clásica frase *las cosas siempre se han hecho así* y las
 cosas funcionan, por qué cambiar?. 
@@ -106,16 +114,7 @@ la forma más fácil y la que siempre se utilizó?. ¿Por qué?.
 Debemos ser cada vez más consciente de lo que hacemos y de lo que no y si sabemos
 que algo esta mal, ¿por qué no cambiar nosotros para mostrar con el ejemplo y 
 no esperar a que alguien más lo haga?.
-
-
-.. Frases::
-   
-  ¿Triste época la nuestra! Es más fácil desintegrar un átomo que un prejuicio.
-  Albert Einstein, 
-                                    
-  La frase más perjudicial en el idioma es: "Siempre se ha hecho así"".
-  Grace Hopper 
-                                      
+                                     
 El tiempo de desearlo se termino, hágamoslo y listo.
 Hasta el próximo post!
 
