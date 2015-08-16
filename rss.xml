@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Quella</title><link>http://miquella.com.ar/</link><description>Sitio Personal de Heizenreder Guillermo recetas, yoga, libros, pensamientos</description><atom:link href="http://miquella.com.ar/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Sun, 16 Aug 2015 15:23:33 GMT</lastBuildDate><generator>http://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Jugando con los sentidos</title><link>http://miquella.com.ar/posts/jugando-con-los-sentidos.html</link><dc:creator>Heizenreder Guillermo</dc:creator><description>&lt;div&gt;&lt;p&gt;Antes de continuar a escribir cualquier otro post creo que debo compartir
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Quella</title><link>http://miquella.com.ar/</link><description>Sitio Personal de Heizenreder Guillermo recetas, yoga, libros, pensamientos</description><atom:link href="http://miquella.com.ar/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Sun, 16 Aug 2015 15:39:57 GMT</lastBuildDate><generator>http://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Jugando con los sentidos</title><link>http://miquella.com.ar/posts/jugando-con-los-sentidos.html</link><dc:creator>Heizenreder Guillermo</dc:creator><description>&lt;div&gt;&lt;p&gt;Antes de continuar a escribir cualquier otro post creo que debo compartir
 una historia con ustedes.&lt;/p&gt;
 &lt;p&gt;Es una historia que la conocí al finalizar un juego que hicimos
 el sábado con mis compañeros de Yoga (Desafío a la percepción, como para
@@ -28,99 +28,73 @@ en los últimos meses que voy a compartir en los siguiente post (para romper mit
 la proteína de la leche vacuna, por ejemplo), pero este experimento es justo lo que
 necesito para tratar de germinar esa semilla de inquietud en cada uno de ustedes.&lt;/p&gt;
 &lt;p&gt;Preguntas que me empezaron hacer ruido este 2015
-- ¿Por qué nos comportamos como lo hacemos?&lt;/p&gt;
-&lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 40)&lt;/p&gt;
-Unexpected indentation.&lt;/div&gt;
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p class="first"&gt;¿Por qué comemos lo que comemos?.
-- ¿Por qué hacemos las cosas de una manera y no de otra?.&lt;/p&gt;
-&lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 42)&lt;/p&gt;
-&lt;p&gt;Unexpected indentation.&lt;/p&gt;
-&lt;/div&gt;
-&lt;blockquote&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;¿Por qué no utilizamos los avances científicos para mejorar como especie?&lt;/li&gt;
-&lt;/ul&gt;
+- ¿Por qué nos comportamos como lo hacemos?
+- ¿Por qué comemos lo que comemos?.
+- ¿Por qué hacemos las cosas de una manera y no de otra?.
+- ¿Por qué no utilizamos los avances científicos para mejorar como sociedad?&lt;/p&gt;
 &lt;p&gt;La historia se conoce como &lt;strong&gt;Monos y Bananas&lt;/strong&gt;, &lt;strong&gt;Paradigma del Agua&lt;/strong&gt; ó
-simplemente &lt;strong&gt;La Historia de los Monos&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;This story originated with the research of G.R. Stephenson. (Stephenson, G. R. (1967)
-Stephenson (1966) - Cultural Acquisition of a Specific Learned Response Among Rhesus Monkeys
-&lt;a class="reference external" href="http://es.scribd.com/doc/106891948/Stephenson-G-R-1967-Cultural-Acquisition-of-a-Specific-Learned-Response-Among-Rhesus-Monkeys-in-Starek-D-Schneider-R-And-Kuhn-H-J-Eds"&gt;http://es.scribd.com/doc/106891948/Stephenson-G-R-1967-Cultural-Acquisition-of-a-Specific-Learned-Response-Among-Rhesus-Monkeys-in-Starek-D-Schneider-R-And-Kuhn-H-J-Eds&lt;/a&gt;&lt;/p&gt;
+simplemente &lt;strong&gt;La Historia de los Monos&lt;/strong&gt; &lt;a class="reference external" href="http://es.scribd.com/doc/106891948/Stephenson-G-R-1967-Cultural-Acquisition-of-a-Specific-Learned-Response-Among-Rhesus-Monkeys-in-Starek-D-Schneider-R-And-Kuhn-H-J-Eds"&gt;Stephenson (1966) - Cultural Acquisition of a Specific Learned Response Among Rhesus Monkeys&lt;/a&gt;&lt;/p&gt;
 &lt;pre class="literal-block"&gt;
 Un grupo de científicos encerró a cinco monos en una jaula, en cuyo centro
- colocaron una escalera y, sobre ella, un montón de bananas.
+colocaron una escalera y, sobre ella, un montón de bananas.
 
-  Cuando uno de los monos subía la escalera para agarrar los bananas los
-   científicos lanzaban un chorro de agua fría sobre los que se quedaban en el
-    suelo.
+Cuando uno de los monos subía la escalera para agarrar los bananas los
+científicos lanzaban un chorro de agua fría sobre los que se quedaban en el
+suelo.
 
-     Pasado algún tiempo, los monos aprendieron la relación entre la escalera y
-      el agua, de modo que cuando un mono iba a subir la escalera, los otros lo
-       molían a palos para que no subiera y así evitar el chapuzón de agua fría.
+Pasado algún tiempo, los monos aprendieron la relación entre la escalera y
+el agua, de modo que cuando un mono iba a subir la escalera, los otros lo
+molían a palos para que no subiera y así evitar el chapuzón de agua fría.
 
-        Después de haberse repetido varias veces la experiencia, ningún mono osaba
-         subir la escalera, a pesar de la tentación de los bananas. Entonces, los
-          científicos sustituyeron a uno de los monos por otro nuevo.
+Después de haberse repetido varias veces la experiencia, ningún mono osaba
+subir la escalera, a pesar de la tentación de los bananas. Entonces, los
+científicos sustituyeron a uno de los monos por otro nuevo.
 
-           Lo primero que hizo el mono novato nada más ver los bananas fue subir la
-            escalera (el tipotenía hambre). Los otros, rápidamente, lo atraparon y le
-             pegaron antes de que saliera el agua fría sobre ellos.
+Lo primero que hizo el mono novato nada más ver los bananas fue subir la
+escalera (el tipotenía hambre). Los otros, rápidamente, lo atraparon y le
+pegaron antes de que saliera el agua fría sobre ellos.
 
-              Después de algunas palizas, el nuevo integrante del grupo nunca más subió
-               por la escalera.
+Después de algunas palizas, el nuevo integrante del grupo nunca más subió
+por la escalera.
 
-                Un segundo mono fue sustituido, y ocurrió lo mismo con el que entró en su lugar.
-                 El primer sustituido participó con especial entusiasmo en la paliza al nuevo.
+Un segundo mono fue sustituido, y ocurrió lo mismo con el que entró en su lugar.
+El primer sustituido participó con especial entusiasmo en la paliza al nuevo.
 
-                  Un tercero fue cambiado, y se repitió el suceso.
-                   El cuarto, y finalmente el quinto de los monos originales fueron sustituidos
-                    también por otros nuevos.
+Un tercero fue cambiado, y se repitió el suceso.
+El cuarto, y finalmente el quinto de los monos originales fueron sustituidos
+también por otros nuevos.
 
-                     Los científicos se quedaron con un grupo de cinco monos que, a pesar de no
-                      haber recibido nunca una ducha de agua fría, continuaban golpeando a aquél
-                       que intentaba llegar hasta los bananas.
+Los científicos se quedaron con un grupo de cinco monos que, a pesar de no
+haber recibido nunca una ducha de agua fría, continuaban golpeando a aquél
+que intentaba llegar hasta los bananas.
 
-                        Si fuera posible preguntar a alguno de ellos por qué pegaban con tanto ímpetu
-                         al que subía a por los bananas, con certeza ésta sería la respuesta:
-                          «No lo sé. Aquí, las cosas siempre se han hecho así».
-
-                          ¿Les suena familiar?.
-
-                          ¿Como sociedad cuántas veces hacemos lo mismo?, a cuántos les paso en su lugar
-                          de trabajo escuchar la clásica frase *las cosas siempre se han hecho así* y las
-                          cosas funcionan, por qué cambiar?.
-
-                          En vez de tomar la iniciativa para mejorar cuántos de nosotros, como los monos,
-                          simplemente nos quedamos y reproducimos los que nos dicen o enseñan porque es
-                          la forma más fácil y la que siempre se utilizó?. ¿Por qué?.
-
-                          Los invito a reflexionar ésto, a ser cada vez más consciente de lo que hacemos y
-                          de lo que no. Si sabemos que algo esta mal, ¿por qué no cambiar nosotros para mostrar
-                          con el ejemplo y no esperar a que alguien más lo haga?.
-
-                          Frases para reflexionar
-                          ::
-
-                           ¿Triste época la nuestra! Es más fácil desintegrar un átomo que un prejuicio.
-                            Albert Einstein,
-
-                             La frase más perjudicial en el idioma es: "Siempre se ha hecho así"".
-                              Grace Hopper
-
-                              El tiempo de desearlo se termino, hágamoslo y listo.
-                              Hasta el próximo post!
-
-                              [1] http://www.desdeelexilio.com/2015/01/28/esto-siempre-ha-sido-asi-dicen-parabola-de-los-cinco-monos/
-                              [2] http://johnstepper.com/2013/10/26/the-five-monkeys-experiment-with-a-new-lesson/
-                              [3] https://www.psychologytoday.com/blog/games-primates-play/201203/what-monkeys-can-teach-us-about-human-behavior-facts-fiction
+Si fuera posible preguntar a alguno de ellos por qué pegaban con tanto ímpetu
+al que subía a por los bananas, con certeza ésta sería la respuesta:
+«No lo sé. Aquí, las cosas siempre se han hecho así».
 &lt;/pre&gt;
-&lt;/blockquote&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;&lt;/div&gt;</description><guid>http://miquella.com.ar/posts/jugando-con-los-sentidos.html</guid><pubDate>Wed, 12 Aug 2015 02:18:52 GMT</pubDate></item><item><title>Tarta de Acelga y Quinoa</title><link>http://miquella.com.ar/posts/tarta-de-acelga-y-quinoa.html</link><dc:creator>Heizenreder Guillermo</dc:creator><description>&lt;div&gt;&lt;p&gt;Ayer en la feria Agroecológica pude conseguir unos ricos paquetes de acelga
+&lt;p&gt;¿Les suena familiar?.&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+¿Triste época la nuestra! Es más fácil desintegrar un átomo que un prejuicio.
+Albert Einstein,
+
+La frase más perjudicial en el idioma es: "Siempre se ha hecho así"".
+Grace Hopper
+&lt;/pre&gt;
+&lt;p&gt;¿Como sociedad cuántas veces hacemos lo mismo?, a cuántos les paso en su lugar
+de trabajo escuchar la clásica frase &lt;em&gt;las cosas siempre se han hecho así&lt;/em&gt; y las
+cosas funcionan, por qué cambiar?.&lt;/p&gt;
+&lt;p&gt;En vez de tomar la iniciativa para mejorar cuántos de nosotros, como los monos,
+simplemente nos quedamos y reproducimos los que nos dicen o enseñan porque es
+la forma más fácil y la que siempre se utilizó?. ¿Por qué?.&lt;/p&gt;
+&lt;p&gt;Debemos ser cada vez más consciente de lo que hacemos y de lo que no y si sabemos
+que algo esta mal, ¿por qué no cambiar nosotros para mostrar con el ejemplo y
+no esperar a que alguien más lo haga?.&lt;/p&gt;
+&lt;p&gt;El tiempo de desearlo se termino, hágamoslo y listo.
+Hasta el próximo post!&lt;/p&gt;
+&lt;p&gt;Referencia:&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.desdeelexilio.com/2015/01/28/esto-siempre-ha-sido-asi-dicen-parabola-de-los-cinco-monos/"&gt;[1] Esto siempre ah sido asi&lt;/a&gt;
+&lt;a class="reference external" href="http://johnstepper.com/2013/10/26/the-five-monkeys-experiment-with-a-new-lesson/"&gt;[2] The five monkeys experiment with a new lesson&lt;/a&gt;
+&lt;a class="reference external" href="https://www.psychologytoday.com/blog/games-primates-play/201203/what-monkeys-can-teach-us-about-human-behavior-facts-fiction"&gt;[3] What Monkeys can teach us about human behavior&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid>http://miquella.com.ar/posts/jugando-con-los-sentidos.html</guid><pubDate>Wed, 12 Aug 2015 02:18:52 GMT</pubDate></item><item><title>Tarta de Acelga y Quinoa</title><link>http://miquella.com.ar/posts/tarta-de-acelga-y-quinoa.html</link><dc:creator>Heizenreder Guillermo</dc:creator><description>&lt;div&gt;&lt;p&gt;Ayer en la feria Agroecológica pude conseguir unos ricos paquetes de acelga
 para poder hacer un relleno (el relleno puede emplearse en canelones, sorrentinos
 o una tarta como la que hice hoy).&lt;/p&gt;
 

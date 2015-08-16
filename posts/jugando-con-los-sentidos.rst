@@ -46,83 +46,81 @@ necesito para tratar de germinar esa semilla de inquietud en cada uno de ustedes
 
 Preguntas que me empezaron hacer ruido este 2015
 - ¿Por qué nos comportamos como lo hacemos?
-  - ¿Por qué comemos lo que comemos?. 
-    - ¿Por qué hacemos las cosas de una manera y no de otra?.
-      - ¿Por qué no utilizamos los avances científicos para mejorar como especie?
+- ¿Por qué comemos lo que comemos?. 
+- ¿Por qué hacemos las cosas de una manera y no de otra?.
+- ¿Por qué no utilizamos los avances científicos para mejorar como sociedad?
 
-      La historia se conoce como **Monos y Bananas**, **Paradigma del Agua** ó 
-      simplemente **La Historia de los Monos**
+La historia se conoce como **Monos y Bananas**, **Paradigma del Agua** ó 
+simplemente **La Historia de los Monos** `Stephenson (1966) - Cultural Acquisition of a Specific Learned Response Among Rhesus Monkeys
+<http://es.scribd.com/doc/106891948/Stephenson-G-R-1967-Cultural-Acquisition-of-a-Specific-Learned-Response-Among-Rhesus-Monkeys-in-Starek-D-Schneider-R-And-Kuhn-H-J-Eds>`_
 
-      This story originated with the research of G.R. Stephenson. (Stephenson, G. R. (1967)
-      Stephenson (1966) - Cultural Acquisition of a Specific Learned Response Among Rhesus Monkeys
-      http://es.scribd.com/doc/106891948/Stephenson-G-R-1967-Cultural-Acquisition-of-a-Specific-Learned-Response-Among-Rhesus-Monkeys-in-Starek-D-Schneider-R-And-Kuhn-H-J-Eds
+::
 
-      ::
-       
-       Un grupo de científicos encerró a cinco monos en una jaula, en cuyo centro
-        colocaron una escalera y, sobre ella, un montón de bananas.
+  Un grupo de científicos encerró a cinco monos en una jaula, en cuyo centro
+  colocaron una escalera y, sobre ella, un montón de bananas.
          
-         Cuando uno de los monos subía la escalera para agarrar los bananas los
-          científicos lanzaban un chorro de agua fría sobre los que se quedaban en el 
-           suelo.
+  Cuando uno de los monos subía la escalera para agarrar los bananas los
+  científicos lanzaban un chorro de agua fría sobre los que se quedaban en el 
+  suelo.
             
-            Pasado algún tiempo, los monos aprendieron la relación entre la escalera y 
-             el agua, de modo que cuando un mono iba a subir la escalera, los otros lo 
-              molían a palos para que no subiera y así evitar el chapuzón de agua fría.
+  Pasado algún tiempo, los monos aprendieron la relación entre la escalera y 
+  el agua, de modo que cuando un mono iba a subir la escalera, los otros lo 
+  molían a palos para que no subiera y así evitar el chapuzón de agua fría.
                
-               Después de haberse repetido varias veces la experiencia, ningún mono osaba
-                subir la escalera, a pesar de la tentación de los bananas. Entonces, los 
-                 científicos sustituyeron a uno de los monos por otro nuevo.
-
-                  Lo primero que hizo el mono novato nada más ver los bananas fue subir la 
-                   escalera (el tipotenía hambre). Los otros, rápidamente, lo atraparon y le 
-                    pegaron antes de que saliera el agua fría sobre ellos.
+  Después de haberse repetido varias veces la experiencia, ningún mono osaba
+  subir la escalera, a pesar de la tentación de los bananas. Entonces, los 
+  científicos sustituyeron a uno de los monos por otro nuevo.
+  
+  Lo primero que hizo el mono novato nada más ver los bananas fue subir la 
+  escalera (el tipotenía hambre). Los otros, rápidamente, lo atraparon y le 
+  pegaron antes de que saliera el agua fría sobre ellos.
                      
-                     Después de algunas palizas, el nuevo integrante del grupo nunca más subió 
-                      por la escalera.
+  Después de algunas palizas, el nuevo integrante del grupo nunca más subió 
+  por la escalera.
                        
-                       Un segundo mono fue sustituido, y ocurrió lo mismo con el que entró en su lugar.
-                        El primer sustituido participó con especial entusiasmo en la paliza al nuevo.
-                         
-                         Un tercero fue cambiado, y se repitió el suceso.
-                          El cuarto, y finalmente el quinto de los monos originales fueron sustituidos 
-                           también por otros nuevos.
-                            
-                            Los científicos se quedaron con un grupo de cinco monos que, a pesar de no 
-                             haber recibido nunca una ducha de agua fría, continuaban golpeando a aquél 
-                              que intentaba llegar hasta los bananas.
+  Un segundo mono fue sustituido, y ocurrió lo mismo con el que entró en su lugar.
+  El primer sustituido participó con especial entusiasmo en la paliza al nuevo.
+                        
+  Un tercero fue cambiado, y se repitió el suceso.
+  El cuarto, y finalmente el quinto de los monos originales fueron sustituidos 
+  también por otros nuevos.
+                           
+  Los científicos se quedaron con un grupo de cinco monos que, a pesar de no 
+  haber recibido nunca una ducha de agua fría, continuaban golpeando a aquél 
+  que intentaba llegar hasta los bananas.
                                
-                               Si fuera posible preguntar a alguno de ellos por qué pegaban con tanto ímpetu
-                                al que subía a por los bananas, con certeza ésta sería la respuesta: 
-                                 «No lo sé. Aquí, las cosas siempre se han hecho así».
+  Si fuera posible preguntar a alguno de ellos por qué pegaban con tanto ímpetu
+  al que subía a por los bananas, con certeza ésta sería la respuesta: 
+  «No lo sé. Aquí, las cosas siempre se han hecho así».
 
-                                 ¿Les suena familiar?.
+¿Les suena familiar?.
 
-                                 ¿Como sociedad cuántas veces hacemos lo mismo?, a cuántos les paso en su lugar 
-                                 de trabajo escuchar la clásica frase *las cosas siempre se han hecho así* y las
-                                 cosas funcionan, por qué cambiar?. 
-
-                                 En vez de tomar la iniciativa para mejorar cuántos de nosotros, como los monos,
-                                 simplemente nos quedamos y reproducimos los que nos dicen o enseñan porque es 
-                                 la forma más fácil y la que siempre se utilizó?. ¿Por qué?.
-
-                                 Los invito a reflexionar ésto, a ser cada vez más consciente de lo que hacemos y 
-                                 de lo que no. Si sabemos que algo esta mal, ¿por qué no cambiar nosotros para mostrar
-                                 con el ejemplo y no esperar a que alguien más lo haga?.
-
-                                 Frases para reflexionar
-                                 ::
-
-                                  ¿Triste época la nuestra! Es más fácil desintegrar un átomo que un prejuicio.
-                                   Albert Einstein, 
+:: 
+   
+  ¿Triste época la nuestra! Es más fácil desintegrar un átomo que un prejuicio.
+  Albert Einstein, 
                                     
-                                    La frase más perjudicial en el idioma es: "Siempre se ha hecho así"".
-                                     Grace Hopper 
-                                      
-                                     El tiempo de desearlo se termino, hágamoslo y listo.
-                                     Hasta el próximo post!
+  La frase más perjudicial en el idioma es: "Siempre se ha hecho así"".
+  Grace Hopper 
+ 
+¿Como sociedad cuántas veces hacemos lo mismo?, a cuántos les paso en su lugar 
+de trabajo escuchar la clásica frase *las cosas siempre se han hecho así* y las
+cosas funcionan, por qué cambiar?. 
 
-                                     [1] http://www.desdeelexilio.com/2015/01/28/esto-siempre-ha-sido-asi-dicen-parabola-de-los-cinco-monos/
-                                     [2] http://johnstepper.com/2013/10/26/the-five-monkeys-experiment-with-a-new-lesson/
-                                     [3] https://www.psychologytoday.com/blog/games-primates-play/201203/what-monkeys-can-teach-us-about-human-behavior-facts-fiction
+En vez de tomar la iniciativa para mejorar cuántos de nosotros, como los monos,
+simplemente nos quedamos y reproducimos los que nos dicen o enseñan porque es 
+la forma más fácil y la que siempre se utilizó?. ¿Por qué?.
+
+Debemos ser cada vez más consciente de lo que hacemos y de lo que no y si sabemos
+que algo esta mal, ¿por qué no cambiar nosotros para mostrar con el ejemplo y 
+no esperar a que alguien más lo haga?.
+                                     
+El tiempo de desearlo se termino, hágamoslo y listo.
+Hasta el próximo post!
+
+Referencia:
+
+`[1] Esto siempre ah sido asi <http://www.desdeelexilio.com/2015/01/28/esto-siempre-ha-sido-asi-dicen-parabola-de-los-cinco-monos/>`_
+`[2] The five monkeys experiment with a new lesson <http://johnstepper.com/2013/10/26/the-five-monkeys-experiment-with-a-new-lesson/>`_
+`[3] What Monkeys can teach us about human behavior <https://www.psychologytoday.com/blog/games-primates-play/201203/what-monkeys-can-teach-us-about-human-behavior-facts-fiction>`_
 
