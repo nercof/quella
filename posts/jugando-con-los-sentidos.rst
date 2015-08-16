@@ -120,7 +120,7 @@ Hasta el próximo post!
 
 Referencia:
 
-`[1] Esto siempre ah sido asi <http://www.desdeelexilio.com/2015/01/28/esto-siempre-ha-sido-asi-dicen-parabola-de-los-cinco-monos/>`_
-`[2] The five monkeys experiment with a new lesson <http://johnstepper.com/2013/10/26/the-five-monkeys-experiment-with-a-new-lesson/>`_
-`[3] What Monkeys can teach us about human behavior <https://www.psychologytoday.com/blog/games-primates-play/201203/what-monkeys-can-teach-us-about-human-behavior-facts-fiction>`_
+1. `Esto siempre ah sido asi <http://www.desdeelexilio.com/2015/01/28/esto-siempre-ha-sido-asi-dicen-parabola-de-los-cinco-monos/>`_
+2. `The five monkeys experiment with a new lesson <http://johnstepper.com/2013/10/26/the-five-monkeys-experiment-with-a-new-lesson/>`_
+3. `What Monkeys can teach us about human behavior <https://www.psychologytoday.com/blog/games-primates-play/201203/what-monkeys-can-teach-us-about-human-behavior-facts-fiction>`_
 
