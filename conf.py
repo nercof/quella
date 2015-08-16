@@ -144,7 +144,8 @@ NAVIGATION_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "bootstrap3"
+#THEME = "bootstrap3"
+THEME = "srcco.de"
 
 # Below this point, everything is optional
 
@@ -386,10 +387,7 @@ WRITE_TAG_CLOUD = True
 # relative URL.
 #
 # If you don't need any of these, just set to []
-REDIRECTIONS = [
-        
-        
-        ]
+REDIRECTIONS = []
 
 # Presets of commands to execute to deploy. Can be anything, for
 # example, you may use rsync:
