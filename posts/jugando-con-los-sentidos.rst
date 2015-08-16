@@ -108,7 +108,7 @@ que algo esta mal, ¿por qué no cambiar nosotros para mostrar con el ejemplo y
 no esperar a que alguien más lo haga?.
 
 
-.. Frases ::
+.. Frases::
    
   ¿Triste época la nuestra! Es más fácil desintegrar un átomo que un prejuicio.
   Albert Einstein, 
