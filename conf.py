@@ -121,19 +121,19 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ('/pages/sobre-mi/', 'Sobre mí'),
+        ('/stories/sobre-mi/', 'Sobre mí'),
         (
             (
-                ('/pages/doc_alimentacion/', 'Alimentación'),
-                ('/pages/doc_conciencia/', 'Para abrir la conciencia'),
+                ('stories/doc_alimentacion/', 'Alimentación'),
+                ('stories/doc_conciencia/', 'Para abrir la conciencia'),
             ),
             'Documentales',
         ),
         (
             (
-                ('/pages/recetario_desayunos/', 'Desayunos'),
-                ('/pages/recetario_ppal/', 'Plato principal'),
-                ('/pages/recetario_postres/', 'Postres'),
+                ('/stories/recetario_desayunos/', 'Desayunos'),
+                ('/stories/recetario_ppal/', 'Plato principal'),
+                ('/stories/recetario_postres/', 'Postres'),
             ),
             'Recetario',
         ),
@@ -220,9 +220,9 @@ POSTS = (
     ("posts/*.txt", "posts", "post.tmpl"),
 )
 PAGES = (
-#    ("stories/*.rst", "stories", "story.tmpl"),
-#    ("stories/*.txt", "stories", "story.tmpl"),
-    ("pages/*.rst", "pages", "story.tmpl"),
+    ("stories/*.rst", "stories", "story.tmpl"),
+    ("stories/*.txt", "stories", "story.tmpl"),
+#    ("pages/*.rst", "pages", "story.tmpl"),
     )
 
 # One or more folders containing files to be copied as-is into the output.

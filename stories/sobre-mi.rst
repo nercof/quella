@@ -44,5 +44,14 @@ llama Charles Darwing
  género de imposturas. De tal modo que pensé que mi carácter tenía algún
  parentezco o familiaridad con la Verdad.
 
+Por lo que no te quedes con nada que leas. Pensá, experimentá, permítete
+sorprenderte y aprender de nuevo lo ya aprendido.
 
-
+Contacto:
+- Blog: http://miquella.com.ar
+- Email: gheize@gmail.com
+- Github: http://github.com/humitos
+- Facebook: https://www.facebook.com/guillermo.heizenreder.1
+- Twitter: https://twitter.com/nercof
+- IRC: nercof @ freenode.net
+- Skype: nercof
