@@ -120,32 +120,16 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 #          else they won’t be highlighted when active.
 
 NAVIGATION_LINKS = {
-    DEFAULT_LANG: (
-        ('/stories/sobre-mi/', 'Sobre mí'),
-        (
-            (
-                ('stories/doc_alimentacion/', 'Alimentación'),
-                ('stories/doc_conciencia/', 'Para abrir la conciencia'),
-            ),
-            'Documentales',
-        ),
-        (
-            (
-                ('/stories/recetario_desayunos/', 'Desayunos'),
-                ('/stories/recetario_ppal/', 'Plato principal'),
-                ('/stories/recetario_postres/', 'Postres'),
-            ),
-            'Recetario',
-        ),
+    DEFAULT_LANG: (    
         ("/archive.html", "Archive"),
         ("/categories/index.html", "Tags"),
         ("/rss.xml", "RSS feed"),
-    ),
+    ),        
 }
 
 # Name of the theme to use.
-#THEME = "bootstrap3"
-THEME = "srcco.de"
+THEME = "bootstrap3"
+#THEME = "srcco.de"
 
 # Below this point, everything is optional
 
@@ -216,15 +200,12 @@ TIMEZONE = "America/Argentina/Buenos_Aires"
 # just independent HTML pages.
 #
 
-POSTS = (
-    ("posts/*.rst", "posts", "post.tmpl"),
-    ("posts/*.txt", "posts", "post.tmpl"),
-)
-PAGES = (
-    ("stories/*.rst", "stories", "story.tmpl"),
-    ("stories/*.txt", "stories", "story.tmpl"),
-#    ("pages/*.rst", "pages", "story.tmpl"),
-    )
+POSTS = [("posts/*.txt", "blog", "post.tmpl"),
+         ("posts/*.rst", "blog", "post.tmpl")   
+        ]
+
+PAGES = [("stories/*.txt", "", "story.tmpl")]
+INDEX_PATH = "blog"
 
 # One or more folders containing files to be copied as-is into the output.
 # The format is a dictionary of {source: relative destination}.
@@ -767,13 +748,12 @@ COMMENT_SYSTEM_ID = "nikolademo"
 # Social buttons. This is sample code for AddThis (which was the default for a
 # long time). Insert anything you want here, or even make it empty.
 # (translatable)
-# SOCIAL_BUTTONS_CODE = """
+#SOCIAL_BUTTONS_CODE = """
 # <!-- Social buttons -->
 # <div id="addthisbox" class="addthis_toolbox addthis_peekaboo_style addthis_default_style addthis_label_style addthis_32x32_style">
 # <a class="addthis_button_more">Share</a>
 # <ul><li><a class="addthis_button_facebook"></a>
 # <li><a class="addthis_button_google_plusone_share"></a>
-# <li><a class="addthis_button_linkedin"></a>
 # <li><a class="addthis_button_twitter"></a>
 # </ul>
 # </div>
