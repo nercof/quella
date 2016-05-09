@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Quella (hamburguesas)</title><link>http://miquella.com.ar/</link><description></description><atom:link href="http://miquella.com.ar/categories/hamburguesas.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Sun, 16 Aug 2015 18:51:47 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Budín vegano banana, algarroba y más!</title><link>http://miquella.com.ar/posts/budin-vegano-banana-algarroba-y-mas.html</link><dc:creator>Heizenreder Guillermo</dc:creator><description>&lt;div&gt;&lt;p&gt;Esta es la primera preparación que busque para hacer hace unos meses atrás
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0"><channel><title>Quella (hamburguesas)</title><link>http://miquella.com.ar/</link><description></description><atom:link type="application/rss+xml" href="http://miquella.com.ar/categories/hamburguesas.xml" rel="self"></atom:link><language>en</language><lastBuildDate>Mon, 09 May 2016 00:08:35 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Budín vegano banana, algarroba y más!</title><link>http://miquella.com.ar/blog/budin-vegano-banana-algarroba-y-mas.html</link><dc:creator>Heizenreder Guillermo</dc:creator><description>&lt;div&gt;&lt;p&gt;Esta es la primera preparación que busque para hacer hace unos meses atrás
 cuando tenía unas bananas muy negras que son las ideales porque son las que
 más azúzares tienen.&lt;/p&gt;
 &lt;p&gt;Ayer queria compartir con mis compañeros del profesorado de Yoga por lo que a la
@@ -9,17 +9,17 @@ conseguir los ingredientes que falten y manos a la obra, que de un momento
 a otro lo tenes listo para cortar.&lt;/p&gt;
 &lt;p&gt;Especial para los días como hoy bien lluviosos y fríos!&lt;/p&gt;
 
-&lt;div id="slides_6dd40a7c158241628249c7c7834a4792" class="carousel slide"&gt;
+&lt;div id="slides_e345db7d382f4ae29d0027e20384928f" class="carousel slide"&gt;
     &lt;ol class="carousel-indicators"&gt;
-            &lt;li data-target="#slides_6dd40a7c158241628249c7c7834a4792" data-slide-to="0" class="active"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_6dd40a7c158241628249c7c7834a4792" data-slide-to="1"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_6dd40a7c158241628249c7c7834a4792" data-slide-to="2"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_6dd40a7c158241628249c7c7834a4792" data-slide-to="3"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_6dd40a7c158241628249c7c7834a4792" data-slide-to="4"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_6dd40a7c158241628249c7c7834a4792" data-slide-to="5"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_6dd40a7c158241628249c7c7834a4792" data-slide-to="6"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_6dd40a7c158241628249c7c7834a4792" data-slide-to="7"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_6dd40a7c158241628249c7c7834a4792" data-slide-to="8"&gt;
+            &lt;li data-target="#slides_e345db7d382f4ae29d0027e20384928f" data-slide-to="0" class="active"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_e345db7d382f4ae29d0027e20384928f" data-slide-to="1"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_e345db7d382f4ae29d0027e20384928f" data-slide-to="2"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_e345db7d382f4ae29d0027e20384928f" data-slide-to="3"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_e345db7d382f4ae29d0027e20384928f" data-slide-to="4"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_e345db7d382f4ae29d0027e20384928f" data-slide-to="5"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_e345db7d382f4ae29d0027e20384928f" data-slide-to="6"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_e345db7d382f4ae29d0027e20384928f" data-slide-to="7"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_e345db7d382f4ae29d0027e20384928f" data-slide-to="8"&gt;
     &lt;/li&gt;&lt;/ol&gt;
     &lt;div class="carousel-inner"&gt;
                 &lt;div class="item active"&gt;&lt;img src="http://miquella.com.ar/images/b001/DSC_0769.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
@@ -32,8 +32,8 @@ a otro lo tenes listo para cortar.&lt;/p&gt;
                 &lt;div class="item"&gt;&lt;img src="http://miquella.com.ar/images/b001/DSC_0789.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
                 &lt;div class="item"&gt;&lt;img src="http://miquella.com.ar/images/b001/DSC_0797.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
     &lt;/div&gt;
-    &lt;a class="left carousel-control" href="http://miquella.com.ar/posts/budin-vegano-banana-algarroba-y-mas.html#slides_6dd40a7c158241628249c7c7834a4792" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
-    &lt;a class="right carousel-control" href="http://miquella.com.ar/posts/budin-vegano-banana-algarroba-y-mas.html#slides_6dd40a7c158241628249c7c7834a4792" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="left carousel-control" href="http://miquella.com.ar/blog/budin-vegano-banana-algarroba-y-mas.html#slides_e345db7d382f4ae29d0027e20384928f" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="right carousel-control" href="http://miquella.com.ar/blog/budin-vegano-banana-algarroba-y-mas.html#slides_e345db7d382f4ae29d0027e20384928f" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;
 
 &lt;p&gt;Una receta fácil, nutritiva, con contenido proteíco (le incorporo semillas de
@@ -97,16 +97,18 @@ en el piso del horno para formar un vapor de cocción.
 &lt;/div&gt;
 &lt;div class="section" id="musica-para-cocinar"&gt;
 &lt;h2&gt;Música para cocinar&lt;/h2&gt;
-&lt;iframe width="425" height="344" src="//www.youtube.com/embed/M5sSUJoYnbk?rel=0&amp;amp;hd=1&amp;amp;wmode=transparent"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;</description><category>hamburguesas</category><category>recetas</category><category>veganas</category><guid>http://miquella.com.ar/posts/budin-vegano-banana-algarroba-y-mas.html</guid><pubDate>Sun, 09 Aug 2015 22:25:21 GMT</pubDate></item><item><title>Hamburguesas Veganas Arroz Yamaní, Lenteja y Avena</title><link>http://miquella.com.ar/posts/hamburguesaveganlaa.html</link><dc:creator>Heizenreder Guillermo</dc:creator><description>&lt;div&gt;&lt;p&gt;Si estas en un antojo de algo diferente un domingo al mediodía y solo tenes una
+&lt;div class="youtube-video"&gt;
+&lt;iframe width="425" height="344" src="https://www.youtube.com/embed/M5sSUJoYnbk?rel=0&amp;amp;hd=1&amp;amp;wmode=transparent"&gt;&lt;/iframe&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description><category>hamburguesas</category><category>recetas</category><category>veganas</category><guid>http://miquella.com.ar/blog/budin-vegano-banana-algarroba-y-mas.html</guid><pubDate>Sun, 09 Aug 2015 22:25:21 GMT</pubDate></item><item><title>Hamburguesas Veganas Arroz Yamaní, Lenteja y Avena</title><link>http://miquella.com.ar/blog/hamburguesaveganlaa.html</link><dc:creator>Heizenreder Guillermo</dc:creator><description>&lt;div&gt;&lt;p&gt;Si estas en un antojo de algo diferente un domingo al mediodía y solo tenes una
 cebolla, una zanahoria, una papa y un poco de lentejas cocidas en la heladera,
 esta es tu receta, porque es justo lo que tenía hoy y mira lo que salió:&lt;/p&gt;
 
-&lt;div id="slides_1043ec0e76a94f938d91844f92638c59" class="carousel slide"&gt;
+&lt;div id="slides_b2bfb35f59184f268476242b82feba78" class="carousel slide"&gt;
     &lt;ol class="carousel-indicators"&gt;
-            &lt;li data-target="#slides_1043ec0e76a94f938d91844f92638c59" data-slide-to="0" class="active"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_1043ec0e76a94f938d91844f92638c59" data-slide-to="1"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_1043ec0e76a94f938d91844f92638c59" data-slide-to="2"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_1043ec0e76a94f938d91844f92638c59" data-slide-to="3"&gt;
+            &lt;li data-target="#slides_b2bfb35f59184f268476242b82feba78" data-slide-to="0" class="active"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_b2bfb35f59184f268476242b82feba78" data-slide-to="1"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_b2bfb35f59184f268476242b82feba78" data-slide-to="2"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_b2bfb35f59184f268476242b82feba78" data-slide-to="3"&gt;
     &lt;/li&gt;&lt;/ol&gt;
     &lt;div class="carousel-inner"&gt;
                 &lt;div class="item active"&gt;&lt;img src="http://miquella.com.ar/images/plato_terminado.png" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
@@ -114,8 +116,8 @@ esta es tu receta, porque es justo lo que tenía hoy y mira lo que salió:&lt;/p
                 &lt;div class="item"&gt;&lt;img src="http://miquella.com.ar/images/cebolla_zanahoria.png" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
                 &lt;div class="item"&gt;&lt;img src="http://miquella.com.ar/images/arroz_lenteja.png" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
     &lt;/div&gt;
-    &lt;a class="left carousel-control" href="http://miquella.com.ar/posts/hamburguesaveganlaa.html#slides_1043ec0e76a94f938d91844f92638c59" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
-    &lt;a class="right carousel-control" href="http://miquella.com.ar/posts/hamburguesaveganlaa.html#slides_1043ec0e76a94f938d91844f92638c59" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="left carousel-control" href="http://miquella.com.ar/blog/hamburguesaveganlaa.html#slides_b2bfb35f59184f268476242b82feba78" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="right carousel-control" href="http://miquella.com.ar/blog/hamburguesaveganlaa.html#slides_b2bfb35f59184f268476242b82feba78" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;
 
 &lt;p&gt;Una receta fácil, nutritiva, alto contenido proteíco (las lentejas tienen un 30%
@@ -179,4 +181,6 @@ comenzando por vos!&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="musica-para-cocinar"&gt;
 &lt;h2&gt;Música para cocinar&lt;/h2&gt;
-&lt;iframe width="425" height="344" src="//www.youtube.com/embed/cfvIMTlM4sY?rel=0&amp;amp;hd=1&amp;amp;wmode=transparent"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;</description><category>hamburguesas</category><category>recetas</category><category>veganas</category><guid>http://miquella.com.ar/posts/hamburguesaveganlaa.html</guid><pubDate>Sun, 02 Aug 2015 22:24:10 GMT</pubDate></item></channel></rss>
+&lt;div class="youtube-video"&gt;
+&lt;iframe width="425" height="344" src="https://www.youtube.com/embed/cfvIMTlM4sY?rel=0&amp;amp;hd=1&amp;amp;wmode=transparent"&gt;&lt;/iframe&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description><category>hamburguesas</category><category>recetas</category><category>veganas</category><guid>http://miquella.com.ar/blog/hamburguesaveganlaa.html</guid><pubDate>Sun, 02 Aug 2015 22:24:10 GMT</pubDate></item></channel></rss>

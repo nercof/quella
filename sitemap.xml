@@ -1,151 +1,156 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://miquella.com.ar/2015/index.html</loc>
-  <lastmod>2015-08-16</lastmod>
+  <lastmod>2016-05-09T00:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://miquella.com.ar/2016/index.html</loc>
+  <lastmod>2016-05-09T00:08:00Z</lastmod>
  </url>
  <url>
   <loc>http://miquella.com.ar/archive.html</loc>
-  <lastmod>2015-08-16</lastmod>
+  <lastmod>2016-05-09T00:08:00Z</lastmod>
  </url>
  <url>
   <loc>http://miquella.com.ar/blog/budin-vegano-banana-algarroba-y-mas.html</loc>
-  <lastmod>2015-08-16</lastmod>
+  <lastmod>2016-05-09T00:08:00Z</lastmod>
  </url>
  <url>
   <loc>http://miquella.com.ar/blog/el-palacio-de-la-memoria.html</loc>
-  <lastmod>2015-08-16</lastmod>
+  <lastmod>2016-05-09T00:08:00Z</lastmod>
  </url>
  <url>
   <loc>http://miquella.com.ar/blog/frase.html</loc>
-  <lastmod>2015-08-16</lastmod>
+  <lastmod>2016-05-09T00:08:00Z</lastmod>
  </url>
  <url>
   <loc>http://miquella.com.ar/blog/hamburguesaveganlaa.html</loc>
-  <lastmod>2015-08-16</lastmod>
+  <lastmod>2016-05-09T00:08:00Z</lastmod>
  </url>
  <url>
   <loc>http://miquella.com.ar/blog/index-1.html</loc>
-  <lastmod>2015-08-16</lastmod>
+  <lastmod>2016-05-09T00:08:00Z</lastmod>
  </url>
  <url>
   <loc>http://miquella.com.ar/blog/index.html</loc>
-  <lastmod>2015-08-16</lastmod>
+  <lastmod>2016-05-09T00:08:00Z</lastmod>
  </url>
  <url>
   <loc>http://miquella.com.ar/blog/jugando-con-los-sentidos.html</loc>
-  <lastmod>2015-08-16</lastmod>
+  <lastmod>2016-05-09T00:08:00Z</lastmod>
  </url>
  <url>
   <loc>http://miquella.com.ar/blog/mi-dulzura-una-historia-no-tan-dulce-.html</loc>
-  <lastmod>2015-08-16</lastmod>
+  <lastmod>2016-05-09T00:08:00Z</lastmod>
  </url>
  <url>
   <loc>http://miquella.com.ar/blog/naturaleza-de-la-salud.html</loc>
-  <lastmod>2015-08-16</lastmod>
+  <lastmod>2016-05-09T00:08:00Z</lastmod>
  </url>
  <url>
   <loc>http://miquella.com.ar/blog/pieles_rojas_blancas.html</loc>
-  <lastmod>2015-08-16</lastmod>
+  <lastmod>2016-05-09T00:08:00Z</lastmod>
  </url>
  <url>
   <loc>http://miquella.com.ar/blog/porquecomemoscarne.html</loc>
-  <lastmod>2015-08-16</lastmod>
+  <lastmod>2016-05-09T00:08:00Z</lastmod>
  </url>
  <url>
   <loc>http://miquella.com.ar/blog/rio_publico_privato.html</loc>
-  <lastmod>2015-08-16</lastmod>
+  <lastmod>2016-05-09T00:08:00Z</lastmod>
  </url>
  <url>
   <loc>http://miquella.com.ar/blog/tarta-de-acelga-y-quinoa.html</loc>
-  <lastmod>2015-08-16</lastmod>
+  <lastmod>2016-05-09T00:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://miquella.com.ar/blog/test.html</loc>
+  <lastmod>2016-05-09T00:08:00Z</lastmod>
  </url>
  <url>
   <loc>http://miquella.com.ar/categories/aborigenes.html</loc>
-  <lastmod>2015-08-16</lastmod>
+  <lastmod>2016-05-09T00:08:00Z</lastmod>
  </url>
  <url>
   <loc>http://miquella.com.ar/categories/alimentacion.html</loc>
-  <lastmod>2015-08-16</lastmod>
+  <lastmod>2016-05-09T00:08:00Z</lastmod>
  </url>
  <url>
   <loc>http://miquella.com.ar/categories/dieta.html</loc>
-  <lastmod>2015-08-16</lastmod>
+  <lastmod>2016-05-09T00:08:00Z</lastmod>
  </url>
  <url>
   <loc>http://miquella.com.ar/categories/dulce.html</loc>
-  <lastmod>2015-08-16</lastmod>
+  <lastmod>2016-05-09T00:08:00Z</lastmod>
  </url>
  <url>
   <loc>http://miquella.com.ar/categories/ecologia.html</loc>
-  <lastmod>2015-08-16</lastmod>
+  <lastmod>2016-05-09T00:08:00Z</lastmod>
  </url>
  <url>
   <loc>http://miquella.com.ar/categories/hamburguesas.html</loc>
-  <lastmod>2015-08-16</lastmod>
+  <lastmod>2016-05-09T00:08:00Z</lastmod>
  </url>
  <url>
   <loc>http://miquella.com.ar/categories/index.html</loc>
-  <lastmod>2015-08-16</lastmod>
+  <lastmod>2016-05-09T00:08:00Z</lastmod>
  </url>
  <url>
   <loc>http://miquella.com.ar/categories/noticias.html</loc>
-  <lastmod>2015-08-16</lastmod>
+  <lastmod>2016-05-09T00:08:00Z</lastmod>
  </url>
  <url>
   <loc>http://miquella.com.ar/categories/nutricion.html</loc>
-  <lastmod>2015-08-16</lastmod>
+  <lastmod>2016-05-09T00:08:00Z</lastmod>
  </url>
  <url>
   <loc>http://miquella.com.ar/categories/pensamientos.html</loc>
-  <lastmod>2015-08-16</lastmod>
+  <lastmod>2016-05-09T00:08:00Z</lastmod>
  </url>
  <url>
   <loc>http://miquella.com.ar/categories/proteina.html</loc>
-  <lastmod>2015-08-16</lastmod>
+  <lastmod>2016-05-09T00:08:00Z</lastmod>
  </url>
  <url>
   <loc>http://miquella.com.ar/categories/recetas.html</loc>
-  <lastmod>2015-08-16</lastmod>
+  <lastmod>2016-05-09T00:08:00Z</lastmod>
  </url>
  <url>
   <loc>http://miquella.com.ar/categories/sociedad.html</loc>
-  <lastmod>2015-08-16</lastmod>
+  <lastmod>2016-05-09T00:08:00Z</lastmod>
  </url>
  <url>
   <loc>http://miquella.com.ar/categories/tartas.html</loc>
-  <lastmod>2015-08-16</lastmod>
+  <lastmod>2016-05-09T00:08:00Z</lastmod>
  </url>
  <url>
   <loc>http://miquella.com.ar/categories/veganas.html</loc>
-  <lastmod>2015-08-16</lastmod>
+  <lastmod>2016-05-09T00:08:00Z</lastmod>
  </url>
  <url>
   <loc>http://miquella.com.ar/documentales.html</loc>
-  <lastmod>2015-08-17</lastmod>
- </url>
- <url>
-  <loc>http://miquella.com.ar/galleries/index.html</loc>
-  <lastmod>2015-08-16</lastmod>
+  <lastmod>2016-05-09T00:08:00Z</lastmod>
  </url>
  <url>
   <loc>http://miquella.com.ar/index.html</loc>
-  <lastmod>2015-08-16</lastmod>
+  <lastmod>2016-05-09T00:08:00Z</lastmod>
  </url>
  <url>
   <loc>http://miquella.com.ar/recetas.html</loc>
-  <lastmod>2015-08-16</lastmod>
+  <lastmod>2016-05-09T00:08:00Z</lastmod>
  </url>
  <url>
   <loc>http://miquella.com.ar/sobre-mi.html</loc>
-  <lastmod>2015-08-17</lastmod>
+  <lastmod>2016-05-09T00:08:00Z</lastmod>
  </url>
  <url>
-  <loc>http://miquella.com.ar/tipue_search.html</loc>
-  <lastmod>2015-08-16</lastmod>
+  <loc>http://miquella.com.ar/tedx.html</loc>
+  <lastmod>2016-05-09T00:08:00Z</lastmod>
  </url>
 </urlset>

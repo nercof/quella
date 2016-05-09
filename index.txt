@@ -9,19 +9,26 @@
 
 .. class:: alert alert-success
 
-   **Atención**: Algunas funcionalidades aún en construcción.
+   **Atención**: Algunas funcionalidades del sitio aún en construcción.
 
 .. class:: lead
 
-  Proyecto personal de divulgación de ideas, pensamientos, noticias sobre beneficios 
-  de una alimentación más consciente. La pasión por la cocina me lleva a iniciar la  
-  búsqueda de nuevos sabores y alternativas a la dieta usual.
+  *¿Qué es Quella?*
+
+  Proyecto personal de divulgación de ideas, pensamientos y noticias alimentación 
+  consciente. A principios de este años opté por eliminar la caseína (proteína
+  animal de la leche de vaca) y sus derivados, con lo que la pasión por la 
+  cocina me lleva a iniciar la búsqueda de nuevos sabores y alternativas a la 
+  dieta usual.
   
   Creo en la cooperación y fomento la educación libre, en especial basada en el 
   autoaprendizaje, por lo que acá vas a encontrar reseñas de libros, artículos,
-  documentales, recetas, Yoga, mi blog personal y 
-  más material para expandir aún más tu consciencia.
+  documentales, recetas, Yoga, mi blog personal y más.
 
+  *¿Qué significa?*
+  **Quella** proviene de la palabra quechua *Ama Quella (No seas haragán)* es uno 
+  de los principios morales del pueblo incaico que marcó mi filosofía de vida. 
+  
 .. class:: lead
   
 .. raw:: html
