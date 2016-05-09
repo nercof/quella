@@ -7,15 +7,15 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://miquella.com.ar/2015/index.html</loc>
-  <lastmod>2016-05-09T00:08:00Z</lastmod>
+  <lastmod>2016-05-09T00:31:00Z</lastmod>
  </url>
  <url>
   <loc>http://miquella.com.ar/2016/index.html</loc>
-  <lastmod>2016-05-09T00:08:00Z</lastmod>
+  <lastmod>2016-05-09T00:31:00Z</lastmod>
  </url>
  <url>
   <loc>http://miquella.com.ar/archive.html</loc>
-  <lastmod>2016-05-09T00:08:00Z</lastmod>
+  <lastmod>2016-05-09T00:31:00Z</lastmod>
  </url>
  <url>
   <loc>http://miquella.com.ar/blog/budin-vegano-banana-algarroba-y-mas.html</loc>
@@ -35,11 +35,11 @@
  </url>
  <url>
   <loc>http://miquella.com.ar/blog/index-1.html</loc>
-  <lastmod>2016-05-09T00:08:00Z</lastmod>
+  <lastmod>2016-05-09T00:31:00Z</lastmod>
  </url>
  <url>
   <loc>http://miquella.com.ar/blog/index.html</loc>
-  <lastmod>2016-05-09T00:08:00Z</lastmod>
+  <lastmod>2016-05-09T00:31:00Z</lastmod>
  </url>
  <url>
   <loc>http://miquella.com.ar/blog/jugando-con-los-sentidos.html</loc>
@@ -70,8 +70,12 @@
   <lastmod>2016-05-09T00:08:00Z</lastmod>
  </url>
  <url>
+  <loc>http://miquella.com.ar/blog/test-10.html</loc>
+  <lastmod>2016-05-09T00:31:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://miquella.com.ar/blog/test.html</loc>
-  <lastmod>2016-05-09T00:08:00Z</lastmod>
+  <lastmod>2016-05-09T00:31:00Z</lastmod>
  </url>
  <url>
   <loc>http://miquella.com.ar/categories/aborigenes.html</loc>
