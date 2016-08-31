@@ -120,16 +120,15 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 #          else they won’t be highlighted when active.
 
 NAVIGATION_LINKS = {
-    DEFAULT_LANG: (    
+    DEFAULT_LANG: (
         ("/archive.html", "Archive"),
         ("/categories/index.html", "Tags"),
         ("/rss.xml", "RSS feed"),
-    ),        
+    ),
 }
 
 # Name of the theme to use.
 THEME = "bootstrap3"
-#THEME = "srcco.de"
 
 # Below this point, everything is optional
 
@@ -201,7 +200,7 @@ TIMEZONE = "America/Argentina/Buenos_Aires"
 #
 
 POSTS = [("posts/*.txt", "blog", "post.tmpl"),
-         ("posts/*.rst", "blog", "post.tmpl")   
+         ("posts/*.rst", "blog", "post.tmpl")
         ]
 
 PAGES = [("stories/*.txt", "", "story.tmpl")]
@@ -290,7 +289,6 @@ WRITE_TAG_CLOUD = True
 #        "open source": "My contributions to my many, varied, ever-changing, and eternal libre software projects."
 #    },
 #}
-
 # Only include tags on the tag list/overview page if there are at least
 # TAGLIST_MINIMUM_POSTS number of posts or more with every tag. Every tag
 # page is still generated, linked from posts, and included in the sitemap.
