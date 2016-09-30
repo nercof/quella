@@ -8,3 +8,7 @@
 .. type: text
 
 Write your post here.
+.. code-block:: python
+   :number-lines:
+
+   def sieve_of_eratosthenes():
