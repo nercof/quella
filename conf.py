@@ -205,7 +205,8 @@ TIMEZONE = "America/Argentina/Buenos_Aires"
 POSTS = [("posts/*.txt", "blog", "post.tmpl"),
          ("posts/*.rst", "blog", "post.tmpl"),
          ("posts/*.html", "posts", "post.tmpl"),
-        ]
+         ("posts/*.ipynb", "posts", "post.tmpl"), # <-- this one
+]
 
 PAGES = (
     ("stories/*.rst", "stories", "story.tmpl"),
