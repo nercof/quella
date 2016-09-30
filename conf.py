@@ -185,6 +185,9 @@ PAGES = (
 
 
 # Below this point, everything is optional
+# Primary color of your theme. This will be used to customize your theme and
+# auto-generate related colors in POSTS_SECTION_COLORS. Must be a HEX value.
+THEME_COLOR = '#5670d4'
 
 # Post's dates are considered in UTC by default, if you want to use
 # another time zone, please set TIMEZONE to match. Check the available
@@ -231,6 +234,44 @@ TIMEZONE = "America/Argentina/Cordoba"
 # LOCALES = {}
 # LOCALE_FALLBACK = None
 # LOCALE_DEFAULT = None
+# POSTS and PAGES contains (wildcard, destination, template) tuples.
+#
+# The wildcard is used to generate a list of reSt source files
+# (whatever/thing.txt).
+#
+# That fragment could have an associated metadata file (whatever/thing.meta),
+# and optionally translated files (example for Spanish, with code "es"):
+#     whatever/thing.es.txt and whatever/thing.es.meta
+#
+#     This assumes you use the default TRANSLATIONS_PATTERN.
+#
+# From those files, a set of HTML fragment files will be generated:
+# cache/whatever/thing.html (and maybe cache/whatever/thing.html.es)
+#
+# These files are combined with the template to produce rendered
+# pages, which will be placed at
+# output / TRANSLATIONS[lang] / destination / pagename.html
+#
+# where "pagename" is the "slug" specified in the metadata file.
+#
+# The difference between POSTS and PAGES is that POSTS are added
+# to feeds and are considered part of a blog, while PAGES are
+# just independent HTML pages.
+#
+
+POSTS = [("posts/*.txt", "blog", "post.tmpl"),
+         ("posts/*.rst", "blog", "post.tmpl"),
+         ("posts/*.html", "posts", "post.tmpl"),
+         ("posts/*.ipynb", "posts", "post.tmpl"), # <-- this one
+]
+
+PAGES = (
+    ("stories/*.rst", "stories", "story.tmpl"),
+    ("stories/*.txt", "stories", "story.tmpl"),
+    ("stories/*.html", "stories", "story.tmpl"),
+)
+
+INDEX_PATH = "blog"
 
 # One or more folders containing files to be copied as-is into the output.
 # The format is a dictionary of {source: relative destination}.
@@ -480,13 +521,17 @@ FRONT_INDEX_HEADER = {
 
 # Create per-month archives instead of per-year
 # CREATE_MONTHLY_ARCHIVE = False
+
 # Create one large archive instead of per-year
 # CREATE_SINGLE_ARCHIVE = False
+
 # Create year, month, and day archives each with a (long) list of posts
 # (overrides both CREATE_MONTHLY_ARCHIVE and CREATE_SINGLE_ARCHIVE)
 # CREATE_FULL_ARCHIVES = False
+
 # If monthly archives or full archives are created, adds also one archive per day
 # CREATE_DAILY_ARCHIVE = False
+
 # Final locations for the archives are:
 # output / TRANSLATION[lang] / ARCHIVE_PATH / ARCHIVE_FILENAME
 # output / TRANSLATION[lang] / ARCHIVE_PATH / YEAR / index.html
@@ -557,6 +602,17 @@ REDIRECTIONS = []
 # For more details, read the manual:
 # https://getnikola.com/handbook.html#deploying-to-github
 # You will need to configure the deployment branch on GitHub.
+DEPLOY_COMMANDS = {"default": [
+    "git checkout gh-pages",
+    "rsync -rPv --delete-after --exclude .git --exclude .gitignore --exclude CNAME --exclude cache/ --exclude .doit.db.db output/ .",
+    "git add -A",
+    "git commit -a -m 'Updating blog content'",
+    "git push",
+    "git checkout master",
+    ]}
+
+# For user.github.io OR organization.github.io pages, the DEPLOY branch
+# MUST be 'master', and 'gh-pages' for other repositories.
 GITHUB_SOURCE_BRANCH = 'source'
 GITHUB_DEPLOY_BRANCH = 'master'
 
@@ -648,6 +704,10 @@ THUMBNAIL_SIZE = 180
 MAX_IMAGE_SIZE = 1280
 USE_FILENAME_AS_TITLE = True
 # EXTRA_IMAGE_EXTENSIONS = []
+MAX_IMAGE_SIZE = 400
+USE_FILENAME_AS_TITLE = True
+EXTRA_IMAGE_EXTENSIONS = []
+
 #
 # If set to False, it will sort by filename instead. Defaults to True
 GALLERY_SORT_BY_DATE = True
@@ -661,6 +721,11 @@ GALLERY_SORT_BY_DATE = True
 #
 # For a full list of field names, please see here:
 # http://www.cipa.jp/std/documents/e/DC-008-2012_E.pdf
+# Folders containing images to be used in normal posts or
+# pages. Images will be scaled down according to THUMBNAIL_SIZE and
+# MAX_IMAGE_SIZE options, but will have to be referenced manually to
+# be visible on the site. The format is a dictionary of {source:
+# relative destination}.
 #
 # This is a dictionary of lists. Each key in the dictionary is the
 # name of a IDF, and each list item is a field you want to preserve.
@@ -776,6 +841,9 @@ IMAGE_THUMBNAIL_SIZE = 400
 # xcode
 # This list MAY be incomplete since pygments adds styles every now and then.
 # CODE_COLOR_SCHEME = 'default'
+# Can be any of autumn borland bw colorful default emacs friendly fruity manni
+# monokai murphy native pastie perldoc rrt tango trac vim vs
+CODE_COLOR_SCHEME = 'default'
 
 # If you use 'site-reveal' theme you can select several subthemes
 # THEME_REVEAL_CONFIG_SUBTHEME = 'sky'
@@ -822,6 +890,14 @@ FEED_READ_MORE_LINK = '<p><a href="{link}">{read_more}…</a> ({min_remaining_re
 # {feedFormat}                  The name of the syndication format.
 # Example using replacement for use with Google Analytics:
 # "utm_source={feedRelUri}&utm_medium=nikola_feed&utm_campaign={feedFormat}_feed"
+# 'Read more...' for the RSS_FEED, if RSS_TEASERS is True (translatable)
+FEED_READ_MORE_LINK = '<p><a href="{link}">{read_more}…</a> ({min_remaining_read})</p>'
+
+# Append a URL query to the RSS_READ_MORE_LINK and the //rss/item/link in
+# RSS feeds. Minimum example for Piwik "pk_campaign=rss" and Google Analytics
+# "utm_source=rss&utm_medium=rss&utm_campaign=rss". Advanced option used for
+# traffic source tracking.
+#RSS_LINKS_APPEND_QUERY = False
 FEED_LINKS_APPEND_QUERY = False
 
 # A HTML fragment describing the license, for the sidebar.
