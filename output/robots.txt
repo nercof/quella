@@ -1,0 +1,4 @@
+Sitemap: http://miquella.com.ar/sitemapindex.xml
+
+User-Agent: *
+Host: miquella.com.ar
