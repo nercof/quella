@@ -131,6 +131,9 @@ NAVIGATION_LINKS = {
 THEME = "bootstrap3"
 
 # Below this point, everything is optional
+# Primary color of your theme. This will be used to customize your theme and
+# auto-generate related colors in POSTS_SECTION_COLORS. Must be a HEX value.
+THEME_COLOR = '#5670d4'
 
 # Post's dates are considered in UTC by default, if you want to use
 # another time zone, please set TIMEZONE to match. Check the available
@@ -200,10 +203,16 @@ TIMEZONE = "America/Argentina/Buenos_Aires"
 #
 
 POSTS = [("posts/*.txt", "blog", "post.tmpl"),
-         ("posts/*.rst", "blog", "post.tmpl")
+         ("posts/*.rst", "blog", "post.tmpl"),
+         ("posts/*.html", "posts", "post.tmpl"),
         ]
 
-PAGES = [("stories/*.txt", "", "story.tmpl")]
+PAGES = (
+    ("stories/*.rst", "stories", "story.tmpl"),
+    ("stories/*.txt", "stories", "story.tmpl"),
+    ("stories/*.html", "stories", "story.tmpl"),
+)
+
 INDEX_PATH = "blog"
 
 # One or more folders containing files to be copied as-is into the output.
@@ -322,13 +331,17 @@ WRITE_TAG_CLOUD = True
 
 # Create per-month archives instead of per-year
 # CREATE_MONTHLY_ARCHIVE = False
+
 # Create one large archive instead of per-year
 # CREATE_SINGLE_ARCHIVE = False
+
 # Create year, month, and day archives each with a (long) list of posts
 # (overrides both CREATE_MONTHLY_ARCHIVE and CREATE_SINGLE_ARCHIVE)
 # CREATE_FULL_ARCHIVES = False
+
 # If monthly archives or full archives are created, adds also one archive per day
 # CREATE_DAILY_ARCHIVE = False
+
 # Final locations for the archives are:
 # output / TRANSLATION[lang] / ARCHIVE_PATH / ARCHIVE_FILENAME
 # output / TRANSLATION[lang] / ARCHIVE_PATH / YEAR / index.html
@@ -389,8 +402,8 @@ DEPLOY_COMMANDS = {"default": [
 
 # For user.github.io OR organization.github.io pages, the DEPLOY branch
 # MUST be 'master', and 'gh-pages' for other repositories.
-GITHUB_SOURCE_BRANCH = 'master'
-GITHUB_DEPLOY_BRANCH = 'gh-pages'
+GITHUB_SOURCE_BRANCH = 'source'
+GITHUB_DEPLOY_BRANCH = 'master'
 
 # The name of the remote where you wish to push to, using github_deploy.
 GITHUB_REMOTE_NAME = 'origin'
@@ -474,14 +487,15 @@ GITHUB_COMMIT_SOURCE = True
 GALLERY_FOLDERS = {"galleries": "galleries"}
 # More gallery options:
 THUMBNAIL_SIZE = 180
-#MAX_IMAGE_SIZE = 1280
+MAX_IMAGE_SIZE = 1280
 MAX_IMAGE_SIZE = 400
 USE_FILENAME_AS_TITLE = True
 EXTRA_IMAGE_EXTENSIONS = []
+
 #
 # If set to False, it will sort by filename instead. Defaults to True
 GALLERY_SORT_BY_DATE = True
-#
+
 # Folders containing images to be used in normal posts or
 # pages. Images will be scaled down according to THUMBNAIL_SIZE and
 # MAX_IMAGE_SIZE options, but will have to be referenced manually to
@@ -490,7 +504,6 @@ GALLERY_SORT_BY_DATE = True
 #
 IMAGE_FOLDERS = {'images': 'images'}
 IMAGE_THUMBNAIL_SIZE = 400
-
 
 # #############################################################################
 # HTML fragments and diverse things that are used by the templates
@@ -543,7 +556,7 @@ IMAGE_THUMBNAIL_SIZE = 400
 # "assets/css/code.css" this is ignored.
 # Can be any of autumn borland bw colorful default emacs friendly fruity manni
 # monokai murphy native pastie perldoc rrt tango trac vim vs
-# CODE_COLOR_SCHEME = 'default'
+CODE_COLOR_SCHEME = 'default'
 
 # If you use 'site-reveal' theme you can select several subthemes
 # THEME_REVEAL_CONFIG_SUBTHEME = 'sky'
@@ -580,13 +593,14 @@ IMAGE_THUMBNAIL_SIZE = 400
 # 'Read more...' for the index page, if INDEX_TEASERS is True (translatable)
 INDEX_READ_MORE_LINK = '<p class="more"><a href="{link}">{read_more}…</a></p>'
 # 'Read more...' for the RSS_FEED, if RSS_TEASERS is True (translatable)
-RSS_READ_MORE_LINK = '<p><a href="{link}">{read_more}…</a> ({min_remaining_read})</p>'
+FEED_READ_MORE_LINK = '<p><a href="{link}">{read_more}…</a> ({min_remaining_read})</p>'
 
 # Append a URL query to the RSS_READ_MORE_LINK and the //rss/item/link in
 # RSS feeds. Minimum example for Piwik "pk_campaign=rss" and Google Analytics
 # "utm_source=rss&utm_medium=rss&utm_campaign=rss". Advanced option used for
 # traffic source tracking.
-RSS_LINKS_APPEND_QUERY = False
+#RSS_LINKS_APPEND_QUERY = False
+FEED_LINKS_APPEND_QUERY = False
 
 # A HTML fragment describing the license, for the sidebar.
 # (translatable)
