@@ -1,2 +1,751 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Quella</title><link>http://miquella.com.ar/</link><description>This is a demo site for Nikola.</description><atom:link href="http://miquella.com.ar/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Fri, 06 Mar 2015 21:13:58 GMT</lastBuildDate><generator>http://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs></channel></rss>
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Quella</title><link>http://miquella.com.ar/</link><description>Prohibido prohibir.</description><atom:link rel="self" type="application/rss+xml" href="http://miquella.com.ar/rss.xml"></atom:link><language>en</language><lastBuildDate>Fri, 30 Sep 2016 13:37:19 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Otra vuelta al sol</title><link>http://miquella.com.ar/blog/otra-vuelta-al-sol/</link><dc:creator>Heizenreder Guillermo</dc:creator><description>&lt;p&gt;Write your post here.&lt;/p&gt;</description><guid>http://miquella.com.ar/blog/otra-vuelta-al-sol/</guid><pubDate>Fri, 30 Sep 2016 13:09:08 GMT</pubDate></item><item><title>Jugando con los sentidos</title><link>http://miquella.com.ar/blog/jugando-con-los-sentidos/</link><dc:creator>Heizenreder Guillermo</dc:creator><description>&lt;div&gt;&lt;p&gt;Antes de continuar a escribir cualquier otro post creo que debo compartir
+una historia con ustedes.&lt;/p&gt;
+&lt;p&gt;Es una historia que la conocí al finalizar un juego que hicimos
+el sábado con mis compañeros de Yoga (Desafío a la percepción, como para
+ponerle un título). Todos sentados &lt;strong&gt;con los ojos bendados&lt;/strong&gt; en una ronda,
+íbamos intercambiando objetos en sentido horario del reloj cada vez que pasaba
+un tiempo. El objetivo es adivinar qué es para nosotros el objeto que nos tocó,
+solamente utilizando sentidos de la audición, gusto, olfato, tacto cual niños
+tratabamos de buscar pistas, texturas, gustos, aromas para asociarlo con algún
+pensamiento.&lt;/p&gt;
+&lt;p&gt;Es muy divertido y simple, tenes que probar que no hay excusa!&lt;/p&gt;
+&lt;p&gt;¿Cuántas veces nos paso que asociamos un gusto a una situación en la vida?. En
+particular a cualquier alimento, piensa uno que no te aprecie. Es probable que
+ese alimento te lleve a una situación desagradable y por eso la mente emite
+automáticamente la señal no me gusta.&lt;/p&gt;
+&lt;p&gt;Si no sabemos que es y nos permitimos a descrubir nuevamente todo, es probable
+que nos empiecen a gustar de nuevo esos alimentos.&lt;/p&gt;
+&lt;p&gt;El mensaje de la historia lleva el claro ejemplo de la idea que quiero empezar a
+coompartir, estoy convencido que existe un cambio fuera de lo que nos enseñaron
+por generaciones acerca de la alimentación.&lt;/p&gt;
+&lt;p&gt;Es bueno tener presente que en los ultimos 60 años sabemos más que los últimos
+6 milenios acerca de la nutrición y en los últimos 6 años sabemos más que los
+últimos 60 años, por lo que la información estám solo tenemos que leer y probar.&lt;/p&gt;
+&lt;p&gt;¿Realmente necesitamos consumir alimentos de la industria animal? Yo digo que nó
+(por muchos factores y no solo los relacionados a la salud), hablo de mi experiencia
+en los últimos meses que voy a compartir en los siguiente post (para romper mitos sobre
+la proteína de la leche vacuna, por ejemplo), pero este experimento es justo lo que
+necesito para tratar de germinar esa semilla de inquietud en cada uno de ustedes.&lt;/p&gt;
+&lt;p&gt;Preguntas que me empezaron hacer ruido este 2015&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;¿Por qué nos comportamos como lo hacemos?&lt;/li&gt;
+&lt;li&gt;¿Por qué comemos lo que comemos?.&lt;/li&gt;
+&lt;li&gt;¿Por qué hacemos las cosas de una manera y no de otra?.&lt;/li&gt;
+&lt;li&gt;¿Por qué no utilizamos los avances científicos para mejorar como sociedad?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;La historia se conoce como &lt;strong&gt;Monos y Bananas&lt;/strong&gt;, &lt;strong&gt;Paradigma del Agua&lt;/strong&gt; ó
+simplemente &lt;strong&gt;La Historia de los Monos&lt;/strong&gt; &lt;a class="reference external" href="http://es.scribd.com/doc/106891948/Stephenson-G-R-1967-Cultural-Acquisition-of-a-Specific-Learned-Response-Among-Rhesus-Monkeys-in-Starek-D-Schneider-R-And-Kuhn-H-J-Eds"&gt;Stephenson (1966) - Cultural Acquisition of a Specific Learned Response Among Rhesus Monkeys&lt;/a&gt;&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+Un grupo de científicos encerró a cinco monos en una jaula, en cuyo centro
+colocaron una escalera y, sobre ella, un montón de bananas.
+
+Cuando uno de los monos subía la escalera para agarrar los bananas los
+científicos lanzaban un chorro de agua fría sobre los que se quedaban en el
+suelo.
+
+Pasado algún tiempo, los monos aprendieron la relación entre la escalera y
+el agua, de modo que cuando un mono iba a subir la escalera, los otros lo
+molían a palos para que no subiera y así evitar el chapuzón de agua fría.
+
+Después de haberse repetido varias veces la experiencia, ningún mono osaba
+subir la escalera, a pesar de la tentación de los bananas. Entonces, los
+científicos sustituyeron a uno de los monos por otro nuevo.
+
+Lo primero que hizo el mono novato nada más ver los bananas fue subir la
+escalera (el tipotenía hambre). Los otros, rápidamente, lo atraparon y le
+pegaron antes de que saliera el agua fría sobre ellos.
+
+Después de algunas palizas, el nuevo integrante del grupo nunca más subió
+por la escalera.
+
+Un segundo mono fue sustituido, y ocurrió lo mismo con el que entró en su lugar.
+El primer sustituido participó con especial entusiasmo en la paliza al nuevo.
+
+Un tercero fue cambiado, y se repitió el suceso.
+El cuarto, y finalmente el quinto de los monos originales fueron sustituidos
+también por otros nuevos.
+
+Los científicos se quedaron con un grupo de cinco monos que, a pesar de no
+haber recibido nunca una ducha de agua fría, continuaban golpeando a aquél
+que intentaba llegar hasta los bananas.
+
+Si fuera posible preguntar a alguno de ellos por qué pegaban con tanto ímpetu
+al que subía a por los bananas, con certeza ésta sería la respuesta:
+«No lo sé. Aquí, las cosas siempre se han hecho así».
+&lt;/pre&gt;
+&lt;p&gt;¿Les suena familiar?.&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+¿Triste época la nuestra! Es más fácil desintegrar un átomo que un prejuicio.
+Albert Einstein,
+
+La frase más perjudicial en el idioma es: "Siempre se ha hecho así"".
+Grace Hopper
+&lt;/pre&gt;
+&lt;p&gt;¿Como sociedad cuántas veces hacemos lo mismo?, a cuántos les paso en su lugar
+de trabajo escuchar la clásica frase &lt;em&gt;las cosas siempre se han hecho así&lt;/em&gt; y las
+cosas funcionan, por qué cambiar?.&lt;/p&gt;
+&lt;p&gt;En vez de tomar la iniciativa para mejorar cuántos de nosotros, como los monos,
+simplemente nos quedamos y reproducimos los que nos dicen o enseñan porque es
+la forma más fácil y la que siempre se utilizó?. ¿Por qué?.&lt;/p&gt;
+&lt;p&gt;Debemos ser cada vez más consciente de lo que hacemos y de lo que no y si sabemos
+que algo esta mal, ¿por qué no cambiar nosotros para mostrar con el ejemplo y
+no esperar a que alguien más lo haga?.&lt;/p&gt;
+&lt;p&gt;El tiempo de desearlo se termino, hágamoslo y listo.
+Hasta el próximo post!&lt;/p&gt;
+&lt;p&gt;Referencia:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.desdeelexilio.com/2015/01/28/esto-siempre-ha-sido-asi-dicen-parabola-de-los-cinco-monos/"&gt;Esto siempre ah sido asi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://johnstepper.com/2013/10/26/the-five-monkeys-experiment-with-a-new-lesson/"&gt;The five monkeys experiment with a new lesson&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.psychologytoday.com/blog/games-primates-play/201203/what-monkeys-can-teach-us-about-human-behavior-facts-fiction"&gt;What Monkeys can teach us about human behavior&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid>http://miquella.com.ar/blog/jugando-con-los-sentidos/</guid><pubDate>Wed, 12 Aug 2015 02:18:52 GMT</pubDate></item><item><title>Tarta de Acelga y Quinoa</title><link>http://miquella.com.ar/blog/tarta-de-acelga-y-quinoa/</link><dc:creator>Heizenreder Guillermo</dc:creator><description>&lt;div&gt;&lt;p&gt;Ayer en la feria Agroecológica pude conseguir unos ricos paquetes de acelga
+para poder hacer un relleno (el relleno puede emplearse en canelones, sorrentinos
+o una tarta como la que hice hoy).&lt;/p&gt;
+
+&lt;div id="slides_dcfc06b2bc3143f0a2e12c62ffc6bb5b" class="carousel slide"&gt;
+    &lt;ol class="carousel-indicators"&gt;
+            &lt;li data-target="#slides_dcfc06b2bc3143f0a2e12c62ffc6bb5b" data-slide-to="0" class="active"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_dcfc06b2bc3143f0a2e12c62ffc6bb5b" data-slide-to="1"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_dcfc06b2bc3143f0a2e12c62ffc6bb5b" data-slide-to="2"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_dcfc06b2bc3143f0a2e12c62ffc6bb5b" data-slide-to="3"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_dcfc06b2bc3143f0a2e12c62ffc6bb5b" data-slide-to="4"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_dcfc06b2bc3143f0a2e12c62ffc6bb5b" data-slide-to="5"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_dcfc06b2bc3143f0a2e12c62ffc6bb5b" data-slide-to="6"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_dcfc06b2bc3143f0a2e12c62ffc6bb5b" data-slide-to="7"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_dcfc06b2bc3143f0a2e12c62ffc6bb5b" data-slide-to="8"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_dcfc06b2bc3143f0a2e12c62ffc6bb5b" data-slide-to="9"&gt;
+    &lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="carousel-inner"&gt;
+                &lt;div class="item active"&gt;&lt;img src="http://miquella.com.ar/images/t001/DSC_0810.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://miquella.com.ar/images/t001/DSC_0819.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://miquella.com.ar/images/t001/DSC_0821.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://miquella.com.ar/images/t001/DSC_0826.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://miquella.com.ar/images/t001/DSC_0834.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://miquella.com.ar/images/t001/DSC_0837.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://miquella.com.ar/images/t001/DSC_0839.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://miquella.com.ar/images/t001/DSC_0843.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://miquella.com.ar/images/t001/DSC_0845.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://miquella.com.ar/images/t001/DSC_0846.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;a class="left carousel-control" href="http://miquella.com.ar/blog/tarta-de-acelga-y-quinoa/#slides_dcfc06b2bc3143f0a2e12c62ffc6bb5b" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="right carousel-control" href="http://miquella.com.ar/blog/tarta-de-acelga-y-quinoa/#slides_dcfc06b2bc3143f0a2e12c62ffc6bb5b" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;La quinoa no es más que una semilla, pero con características únicas al poder
+consumirse como un cereal, por eso, la llamamos también pseudocereal. Como tal,
+la quinoa provee la mayor parte de sus calorías en forma de hidratos complejos,
+pero también aporta cerca de 16 gramos de proteínas por cada 100 gramos y
+ofrece alrededor de 6 gramos de grasas en igual cantidad de alimento.&lt;/p&gt;
+&lt;p&gt;Si nos referimos a los micronutrientes, en la quinoa destaca el contenido de
+potasio, magnesio, calcio, fósforo, hierro y zinc entre los minerales,
+mientras que también ofrece vitaminas del complejo B en cantidades
+apreciables y vitamina E con función antioxidante&lt;/p&gt;
+&lt;p&gt;La acelga por otro lado nos da&lt;/p&gt;
+&lt;p&gt;A disfrutar!&lt;/p&gt;
+&lt;div class="section" id="ingredientes"&gt;
+&lt;h2&gt;Ingredientes&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;1 Paquete de acelga (puede ser espinaca también)&lt;/li&gt;
+&lt;li&gt;1 Cebolla&lt;/li&gt;
+&lt;li&gt;2 Cebolla de verdeo&lt;/li&gt;
+&lt;li&gt;1 Taza de &lt;a class="reference external" href="https://es.wikipedia.org/wiki/Chenopodium_quinoa"&gt;quinoa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Masa de Tarta&lt;/li&gt;
+&lt;li&gt;Sal marina&lt;/li&gt;
+&lt;li&gt;Condimentos a gusto&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="section" id="opcionales"&gt;
+&lt;h3&gt;Opcionales&lt;/h3&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Nueces&lt;/li&gt;
+&lt;li&gt;Tofú: Podemos incorporarle cortado o procesado.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="preparacion"&gt;
+&lt;h2&gt;Preparación&lt;/h2&gt;
+&lt;p&gt;Por un lado tenemos el preparado de quinoa que lo explico a continuación, mismo
+procedimiento que cualquier receta de quinoa.&lt;/p&gt;
+&lt;div class="section" id="como-preparar-la-quinoa"&gt;
+&lt;h3&gt;Cómo preparar la quinoa&lt;/h3&gt;
+&lt;p&gt;Para comenzar a emplear la quinoa es importante hacer un lavado previo de las
+semillas, frotando las mismas suavemente con las manos, bajo el agua,
+de manera que se quite la capa de saponinas que recubre las semillas y que
+de quedarse allí, aportaría un sabor amargo y queda una capa gelatinosa que no
+es agradable.&lt;/p&gt;
+&lt;p&gt;No debemos remojar, sino lavar y enjuagar, por lo que ponemos la taza de quinoa
+en un colador y la vamos limpiando con las manos debajo del agua.&lt;/p&gt;
+&lt;p&gt;Posteriormente hervimos tal como si fuera arroz, por espacio de 15 a 20 minutos
+o hasta que se abra la semilla. Colamos y listo para usar.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="como-preparar-el-relleno"&gt;
+&lt;h3&gt;Cómo preparar el relleno&lt;/h3&gt;
+&lt;p&gt;Para el relleno solo tenemos que cortar las cebollas en cubos o láminas, como
+más les agrade y ponerla a reogar con un poco de sal para que traspire y permita
+usar esa agua para la cocción. También podes incorporar un poco de aceite de
+oliva en este paso.&lt;/p&gt;
+&lt;p&gt;Por otro lado cortamos la acelga en julianas (si no optamos por hacerla cruda
+directamente con la cebolla al wok podemos blanquear las hojas en un poco de
+agua hirviendo por unos minutos y picar), esta vez opto por la acelga cruda.&lt;/p&gt;
+&lt;p&gt;Como se aprecia en las fotos una vez que esta en su punto la cebolla (color
+cristalino) le incorporamos la acelga, sal marina y dejamos que se cocinen ambas
+verdudas por unos 10 minutos. En este paso podemos incorporar los condimentos
+para que empiecen a desprender los aromas y se inunde nuestra cocina.&lt;/p&gt;
+&lt;p&gt;Personalmente opté por Nuezo moscada, estragón y una pizca de &lt;a class="reference external" href="https://es.wikipedia.org/wiki/Merk%C3%A9n"&gt;Merkén&lt;/a&gt;
+cuando la acelga tomo un color verde intenso le podemos incorporar la quinoa,
+las nueces (y el tofú), tapamos y dejamos cocinar por 15 minutos y relleno listo&lt;/p&gt;
+&lt;p&gt;Ahora solo falta estirar la masa para llevar al horno.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="como-preparar-la-masa"&gt;
+&lt;h3&gt;Cómo preparar la masa&lt;/h3&gt;
+&lt;p&gt;Una medida (unos 10cc) de aceite vegetal neutro, una medida de agua y una medida
+de leche vegetal (Avena, coco, soja) sino tenes podes sumar media medida de
+aceite y agua.&lt;/p&gt;
+&lt;p&gt;Mezclamos los ingredientes líquidos y le incorporamos unas semillas a gusto, una
+pizca de sal, orégano y vamos incorporando la harina integral necesaria para
+que se forme el bollo de la masa.&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+Tips: te recomiendo hacer la masa y almacenar en la heladera mientras haces
+el relleno, para que el amasado sea más ameno.
+&lt;/pre&gt;
+&lt;p&gt;Listo solo incorporamos el relleno a la masa y al horno.&lt;/p&gt;
+&lt;p&gt;Tiempo de horno: Hasta que la masa se dore (unos 20 minutos).&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</description><category>recetas</category><category>tartas</category><category>veganas</category><guid>http://miquella.com.ar/blog/tarta-de-acelga-y-quinoa/</guid><pubDate>Mon, 10 Aug 2015 00:30:45 GMT</pubDate></item><item><title>Budín vegano banana, algarroba y más!</title><link>http://miquella.com.ar/blog/budin-vegano-banana-algarroba-y-mas/</link><dc:creator>Heizenreder Guillermo</dc:creator><description>&lt;div&gt;&lt;p&gt;Esta es la primera preparación que busque para hacer hace unos meses atrás
+cuando tenía unas bananas muy negras que son las ideales porque son las que
+más azúzares tienen.&lt;/p&gt;
+&lt;p&gt;Ayer queria compartir con mis compañeros del profesorado de Yoga por lo que a la
+mañana me puse a prepararlo es muy simple y aporta muchas energías y sonrisas!&lt;/p&gt;
+&lt;p&gt;Si queres sorprenderte deja lo que estás haciendo y tomate unos minutos para
+conseguir los ingredientes que falten y manos a la obra, que de un momento
+a otro lo tenes listo para cortar.&lt;/p&gt;
+&lt;p&gt;Especial para los días como hoy bien lluviosos y fríos!&lt;/p&gt;
+
+&lt;div id="slides_9cfe2124337c46ba8c66ee05d10b535f" class="carousel slide"&gt;
+    &lt;ol class="carousel-indicators"&gt;
+            &lt;li data-target="#slides_9cfe2124337c46ba8c66ee05d10b535f" data-slide-to="0" class="active"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_9cfe2124337c46ba8c66ee05d10b535f" data-slide-to="1"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_9cfe2124337c46ba8c66ee05d10b535f" data-slide-to="2"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_9cfe2124337c46ba8c66ee05d10b535f" data-slide-to="3"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_9cfe2124337c46ba8c66ee05d10b535f" data-slide-to="4"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_9cfe2124337c46ba8c66ee05d10b535f" data-slide-to="5"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_9cfe2124337c46ba8c66ee05d10b535f" data-slide-to="6"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_9cfe2124337c46ba8c66ee05d10b535f" data-slide-to="7"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_9cfe2124337c46ba8c66ee05d10b535f" data-slide-to="8"&gt;
+    &lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="carousel-inner"&gt;
+                &lt;div class="item active"&gt;&lt;img src="http://miquella.com.ar/images/b001/DSC_0769.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://miquella.com.ar/images/b001/DSC_0772.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://miquella.com.ar/images/b001/DSC_0773.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://miquella.com.ar/images/b001/DSC_0776.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://miquella.com.ar/images/b001/DSC_0777.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://miquella.com.ar/images/b001/DSC_0779.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://miquella.com.ar/images/b001/DSC_0781.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://miquella.com.ar/images/b001/DSC_0789.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://miquella.com.ar/images/b001/DSC_0797.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;a class="left carousel-control" href="http://miquella.com.ar/blog/budin-vegano-banana-algarroba-y-mas/#slides_9cfe2124337c46ba8c66ee05d10b535f" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="right carousel-control" href="http://miquella.com.ar/blog/budin-vegano-banana-algarroba-y-mas/#slides_9cfe2124337c46ba8c66ee05d10b535f" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Una receta fácil, nutritiva, con contenido proteíco (le incorporo semillas de
+amaranto), alto contenido en fibra, hidratos de carbono, potasio, calcio, zinc,
+fósforo Vitamina C, Vitaminas del grupo B, Vitamina E&lt;/p&gt;
+&lt;p&gt;Mejorar el estado de ánimo e incluso las depresiones leves debido a su contenido
+en triptófano. Facilitar la relajación muscular y su recuperación depués de
+practicar cualquier actividad.&lt;/p&gt;
+&lt;p&gt;A disfrutar!&lt;/p&gt;
+&lt;div class="section" id="ingredientes"&gt;
+&lt;h2&gt;Ingredientes&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;4   Bananas (cuánto más maduras mejor)&lt;/li&gt;
+&lt;li&gt;1/3 Taza de Aceite vegetal&lt;/li&gt;
+&lt;li&gt;2   Cucharadas de Semillas de lino con 6 Cucharadas de Agua tibia * Suple el huevo.&lt;/li&gt;
+&lt;li&gt;3/4 Taza de Azúcar Mascabo&lt;/li&gt;
+&lt;li&gt;1   Cucharita de té Polvo para hornear&lt;/li&gt;
+&lt;li&gt;1   Cucharita de té de Bicarbonato de Sodio&lt;/li&gt;
+&lt;li&gt;1   Pizca de sal&lt;/li&gt;
+&lt;li&gt;1   Taza de Harina Integral&lt;/li&gt;
+&lt;li&gt;1/2 Taza de Harina de Algarroba (sino tienen sumen media mas de Harina integral)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="section" id="opcionales"&gt;
+&lt;h3&gt;Opcionales&lt;/h3&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Pasas de Uva (Poner en remojo una media hora antes)&lt;/li&gt;
+&lt;li&gt;Nueces y Almendras&lt;/li&gt;
+&lt;li&gt;Cacao amargo&lt;/li&gt;
+&lt;li&gt;Semillas de Chía&lt;/li&gt;
+&lt;li&gt;Harinas: podes incorporar o reemplazar la harina de algarroba por harina de centeno, o harina de lino.&lt;/li&gt;
+&lt;li&gt;Lo que quieras incorporar! Chips de chocolate, canela, fruta secas...&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="preparacion"&gt;
+&lt;h2&gt;Preparación&lt;/h2&gt;
+&lt;p&gt;La preparación es simple y rápida. Antes de comenzar a leer cómo hacerlo podes
+ganar tiempo y prender el horno para que vaya tomando temperatura.&lt;/p&gt;
+&lt;p&gt;Por un lado tenemos los ingredientes líquidos como el agua tibia, que le incorporamos
+las 2 cucharadas de lino, y las dejamos apartadas para usarlas más tarde. El lino
+larga una especie de &lt;em&gt;gelatina&lt;/em&gt; que nos va a servir para mantener unida la
+preparación y para darle humedad sin usar huevo.&lt;/p&gt;
+&lt;p&gt;Mientras pisamos las bananas con un tenedor hasta hacer un puré y reservamos.&lt;/p&gt;
+&lt;p&gt;Por otro lado mezclamos todo lo seco: la harina integral y la harina de algarroba,
+el azúcar mascabo, la sal, bicarbonato de sodio y polvo para hornear uniendo
+todos los ingredientes y reservar.&lt;/p&gt;
+&lt;p&gt;Para finalizar con los ingredientes húmedos, con una licuadora de man ó mixer,
+liquiamos las semillas de lino con el agua y el aceite. Luego incorporamos
+la banana picada y procesamos juntos unos minutos y listo estamos para unir
+todo.&lt;/p&gt;
+&lt;p&gt;Para terminar suelo hacer una clásica corono con los ingredientes secos, y voy
+incorporando la preparación líquida para ir uniendo ambos. Cuando se vaya formando
+la masa es el momento de incorporar los agregados (en mi caso incorpore nueces,
+almendras, cacao amargo y semillas de amaranto).&lt;/p&gt;
+&lt;p&gt;Y listo! Momento de poner aceite y un poco de harina a la budinera y llevar al horno
+medio por 45' a 55' minutos.&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+Tips: Para que no se forme tanta cáscara al budín podemos poner una asadera
+en el piso del horno para formar un vapor de cocción.
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div class="section" id="musica-para-cocinar"&gt;
+&lt;h2&gt;Música para cocinar&lt;/h2&gt;
+&lt;div class="youtube-video"&gt;
+&lt;iframe width="425" height="344" src="https://www.youtube.com/embed/M5sSUJoYnbk?rel=0&amp;amp;hd=1&amp;amp;wmode=transparent"&gt;&lt;/iframe&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description><category>hamburguesas</category><category>recetas</category><category>veganas</category><guid>http://miquella.com.ar/blog/budin-vegano-banana-algarroba-y-mas/</guid><pubDate>Sun, 09 Aug 2015 22:25:21 GMT</pubDate></item><item><title>Hamburguesas Veganas Arroz Yamaní, Lenteja y Avena</title><link>http://miquella.com.ar/blog/hamburguesaveganlaa/</link><dc:creator>Heizenreder Guillermo</dc:creator><description>&lt;div&gt;&lt;p&gt;Si estas en un antojo de algo diferente un domingo al mediodía y solo tenes una
+cebolla, una zanahoria, una papa y un poco de lentejas cocidas en la heladera,
+esta es tu receta, porque es justo lo que tenía hoy y mira lo que salió:&lt;/p&gt;
+
+&lt;div id="slides_3657afb4f9d54ff09b76d3dc8163ddac" class="carousel slide"&gt;
+    &lt;ol class="carousel-indicators"&gt;
+            &lt;li data-target="#slides_3657afb4f9d54ff09b76d3dc8163ddac" data-slide-to="0" class="active"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_3657afb4f9d54ff09b76d3dc8163ddac" data-slide-to="1"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_3657afb4f9d54ff09b76d3dc8163ddac" data-slide-to="2"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_3657afb4f9d54ff09b76d3dc8163ddac" data-slide-to="3"&gt;
+    &lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="carousel-inner"&gt;
+                &lt;div class="item active"&gt;&lt;img src="http://miquella.com.ar/images/plato_terminado.png" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://miquella.com.ar/images/cebolla_zanahoria_con_arroz_lenteja.png" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://miquella.com.ar/images/cebolla_zanahoria.png" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://miquella.com.ar/images/arroz_lenteja.png" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;a class="left carousel-control" href="http://miquella.com.ar/blog/hamburguesaveganlaa/#slides_3657afb4f9d54ff09b76d3dc8163ddac" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="right carousel-control" href="http://miquella.com.ar/blog/hamburguesaveganlaa/#slides_3657afb4f9d54ff09b76d3dc8163ddac" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Una receta fácil, nutritiva, alto contenido proteíco (las lentejas tienen un 30%
+de proteínas), alto contenido en fibra, hierro, magnesio, calcio, zinc, fósforo
+Vitamina C, Vitaminas del grupo B, Vitamina E&lt;/p&gt;
+&lt;p&gt;Las lentejas son especialmente beneficiosas nutricionalmente cuando se combinan en el mismo
+plato con cereales integrales como por ejemplo arroz, trigo, maíz, avena,
+centeno, sarraceno, quinoa, amaranto, etc.&lt;/p&gt;
+&lt;p&gt;Por lo que podes sumar un cereal (nosotros incorporamos arroz yamaní y avena).
+Solo me falto mencionar la lechuga y tomate que incorporé para dar un toque
+de frescura a la preparación.&lt;/p&gt;
+&lt;p&gt;A disfrutar!&lt;/p&gt;
+&lt;div class="section" id="ingredientes"&gt;
+&lt;h2&gt;Ingredientes&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;1/2 taza arroz yamaní&lt;/li&gt;
+&lt;li&gt;1/2 taza lentejas cocidas (dejar en remojo la noche anterior)&lt;/li&gt;
+&lt;li&gt;3 cucharas soperas de Avena&lt;/li&gt;
+&lt;li&gt;Pan rallado&lt;/li&gt;
+&lt;li&gt;Cebolla&lt;/li&gt;
+&lt;li&gt;Zanahoria&lt;/li&gt;
+&lt;li&gt;Papas&lt;/li&gt;
+&lt;li&gt;Semillas (lino, sésamo, amaranto) las que tengas!&lt;/li&gt;
+&lt;li&gt;Sal, pimienta, lo que se te ocurra!.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="preparacion"&gt;
+&lt;h2&gt;Preparación&lt;/h2&gt;
+&lt;p&gt;Lo primero que tenemos que tenes en cuenta es el activado de las lentejas al menos
+4hs antes de empezar la preparación y llevar a fuego fuerte hasta que esten bien
+cocidas.&lt;/p&gt;
+&lt;p&gt;Por un lado vamos a preparar el arroz yamaní como siempre preparamos, doble de
+agua a hervir por cada medida de arroz y cuando rompa el hervor 15-20 minutos es
+suficiente. Te comento un tips, mientras se hace el arroz podemos poner la papa
+a que se cocine en la vaporera para darle una primer cocción antes de llevarla
+al horno. Cuando esté el arroz lo apagamos y reservamos.&lt;/p&gt;
+&lt;p&gt;Cortamos la papa en finas tiras (en julianas diría mi abuela) y la llevamos a fuego
+fuerte (al cocinarlas al vapor antes nos dará una consistencia suave por dentro
+y bien crocante por fuera).&lt;/p&gt;
+&lt;p&gt;Solo nos resta cortar la cebolla y la zanahoria, que la filetee con el mismo
+pelador de papas como se ve en la imagen y llevamos a fuego fuerte hasta que las
+cebollas esten a punto (se vean transparentes), al este preparado le incorporé,
+sal marina, pimienta y curry. Luego introducimos las lentejas y el arroz previamente
+cocido y lo mezclamos para terminar de armar el preparado para las hamburguesas.&lt;/p&gt;
+&lt;p&gt;Si podemos aprovechar una batidora de mano para sintetizar aún mas el relleno y
+que nos quede mas maleable la preparación. Solo con 15' minutos de cocción es
+suficiente (recuerden que lleva horno luego). Para finalizar el relleno tenemos
+que incorporar la avena (fijate la consistencia luego de tres cucharadas de avena
+si aún esta muy líquido el relleno podes agregar más para espesar) y luego
+a rebozar y listo!&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+Te aconsejo que al pan rallado lo mejores mezclandolo con el mix de semillas que mas te gusten,
+particularmente prefiero uno con Lino, Sésamo, Chía y Amaranto.
+
+También podes probar si te gusta con un poco de pimentón dulce y mezclar todo.
+&lt;/pre&gt;
+&lt;p&gt;Luego de rebozar solo necesitamos llevarlo al horno unos 15 minutos más y listo,
+ya tenemos un almuerzo diferente en pocos minutos para sorprender a quien quieras
+comenzando por vos!&lt;/p&gt;
+&lt;p&gt;Nota: Le misma preparación sirve para hacer albóndigas.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="musica-para-cocinar"&gt;
+&lt;h2&gt;Música para cocinar&lt;/h2&gt;
+&lt;div class="youtube-video"&gt;
+&lt;iframe width="425" height="344" src="https://www.youtube.com/embed/cfvIMTlM4sY?rel=0&amp;amp;hd=1&amp;amp;wmode=transparent"&gt;&lt;/iframe&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description><category>hamburguesas</category><category>recetas</category><category>veganas</category><guid>http://miquella.com.ar/blog/hamburguesaveganlaa/</guid><pubDate>Sun, 02 Aug 2015 22:24:10 GMT</pubDate></item><item><title>¿Por qué comemos Carne?</title><link>http://miquella.com.ar/blog/porquecomemoscarne/</link><dc:creator>Heizenreder Guillermo</dc:creator><description>&lt;div&gt;&lt;p&gt;A principios de este año al terminar de leer &lt;a class="reference external" href="http://www.amazon.com/Fotos%C3%ADntesis-Isaac-Asimov/dp/B00D08M1JW/ref=sr_1_2?ie=UTF8&amp;amp;qid=1438466553&amp;amp;sr=8-2&amp;amp;keywords=fotosintesis+asimov"&gt;Fotosíntesis de Asimmov&lt;/a&gt;
+comence a reflexionar más en la alimentación. Maravillado desde siempre con el
+reino vegetal, pero era la primera vez que analice en detalle el proceso mágico
+de producción de glucosa (alimento para vivir) solo recibiendo energía de la luz
+solar gracias a la reacción fotosintética. &lt;strong&gt;Qué generoso Sol!&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Comencé a experimentar respuestas malas de mi cuerpo luego de ingerir alimentos
+del reino animal. Disfrutaba mucho de un asado argentino, pero cada vez me era
+más difícil digerirlo rápidamente y me generaba pesadez por varios días. Eso no
+me permitía relizar mi práctica de Hatha Yoga Dinámico, asique era momento de
+investigar por qué comía carne y qué pasa dentro nuestro cuando ese alimento es
+ingerido por nosotros.&lt;/p&gt;
+&lt;p&gt;¿Por qué comemos carne?. La respuesta es porque comemos lo que nos parece sabroso
+o práctico ó lo que nuestros padres nos enseñaron a preferir.&lt;/p&gt;
+&lt;p&gt;¿Somos carnívoros?, ¿Somos hervíboros? ¿Ómnivoros?. Si fuéramos carnívoros por
+naturaleza, tendríamos garras y dientes para triturar la carne.
+Si lo fuéramos, nuestro intestino no sería excesivamente largo (mide 12 veces la
+longitud de nuestro cuerpo), ya que la carne debe pasar rápidamente por el
+organismo debido a la velocidad de su putrefacción. Si nos informamos, veremos
+que nuestro aparato digestivo comparte más carácteristicas con el de
+una vaca que con el de un león.&lt;/p&gt;
+&lt;p&gt;Por otra parte, la carne contiene grandes acumulaciones de pesticidas y de otros
+productos. Sino –por ejemplo-, no sería posible mantener el aspecto rojizo
+de la carne durante días considerando la rapidez de la putrefacción de un cadáver.
+Para ello se utiliza nitrito sódico, compuesto altamente cancerígeno (de otra forma,
+la carne que compras en el supermercado tendría un color gris-verdoso).&lt;/p&gt;
+&lt;p&gt;Asi como los vegetales nosotros necesitamos macronutrientes y micronutrientes. Las
+proteínas, las grasas, hidratos de carbono y alcohol nos proporcionan todas las
+calorías que consumimos.&lt;/p&gt;
+&lt;p&gt;Por lo que la carne ya en el siglo XIX era sinónimo de proteína y proteína era
+sinónimo de carne. Un gran científico dijo:&lt;/p&gt;
+&lt;div class="note"&gt;
+&lt;p class="first admonition-title"&gt;Note&lt;/p&gt;
+&lt;p class="last"&gt;El hombre civilizado tiene derecho a consumir una gran cantidad de proteínas
+Max Rubner (1854-1932)&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Esta tendencia cultural llegó a arraigarse firmemente, si eras una persona
+civilizada, consumías una enorme cantidad de proteínas. Si eras rico comías carne
+y si eras pobre te contentabas con los alimentos básicos, como la papa y el pan.
+Antigüamente se creía que las clases sociales inferiores eran perezosas e ineptas
+por el hecho dee no comer suficiente carne o proteína.&lt;/p&gt;
+&lt;p&gt;¿Entonces?. ¿Cómo hacen los animales para obetener proteínas?. Se me ocurre
+imaginar que un elefante necesita mucha proteína y no abundan las vacas en la
+Sabana. ¿Será que los vegetales también tienen?. Parece una pregunta sin sentido
+común pero la respuesta nos va a decir mucho, o en particular nos vamos a dar
+cuenta que nosotros &lt;strong&gt;los seres humanos&lt;/strong&gt; "Somos los mejores en ocultar todas
+aquellas cosas que estan a la vista" y juzgar una proteína contra la otra.&lt;/p&gt;
+&lt;p&gt;La proteína es el más sagrado de todos los nutrientes, es un componente vital
+de nuestro organismo. Hay cientos de miles de tipos diferentes de proteínas.
+Funcionan como enzimas, hormonas, tejido estructural y móleculas de transporte
+que hacen posible la vida. Como todo, las proteínas se desgastan y es preciso
+reemplazarlas. Esto se logra mediante el consumo de alimentos que las contengan.&lt;/p&gt;
+&lt;p&gt;¿Puedes adivinar qué alimentos deberíamos consumir a fin de desarrollar efizcazmente
+los bloques de formación para nuestras proteínas de reemplazo? La respuesta es
+solo una: carne humana. Su proteína contiene precisamente la cantidad exacta de
+los aminoácidos que necesitamos. Pero, dado que no podemos alimentarnos de
+nuestros prójimos, obtenemos de otos animales las proteínas que le siguen en calidad.
+Las proteínas animales son muy similares a las nuestras porque contienen una
+cantidad idónea de los aminoácidos escenciales, por eso se dice que es de &lt;strong&gt;Gran Calidad&lt;/strong&gt;
+Las proteínas vegetales fueron catalogadas como de &lt;strong&gt;calidad inferior&lt;/strong&gt; pero ahora
+se comprobó que a travez de sistemas metabólicos complejos, el cuerpo humano
+puede obtener todos los aminoácidos esenciales de la variedad natural de
+proteínas vegetales ingeridas cada día.&lt;/p&gt;
+&lt;p&gt;En los últimos 50 años la producción Industrial de alimento de origen animal
+se transformo en una maquinaria y pocos conocen los detalles de las industrias
+de la carne y pescado actuales. Base de la alimentación occidental, y sus aún
+temidas enfermedades crónicas (Obesidad, Ataques cardíacos, Colesterol,
+Cáncer de mama y próstata, Hipertensión, Diabetes).&lt;/p&gt;
+&lt;p&gt;La ganadería industrial realiza una constribución al calentamiento global que
+es un 40% mayor que todo el sector de transporte juntos, lo que la convierte
+en la responsable número uno del cambio climático. Por lo que sostenemos que
+necesitamos de este cambio climático para obtener proteínas.&lt;/p&gt;
+&lt;p&gt;Por lo que tenemos que tener siempre en memoria los viejos consejos:&lt;/p&gt;
+&lt;div class="note"&gt;
+&lt;p class="first admonition-title"&gt;Note&lt;/p&gt;
+&lt;p class="last"&gt;Quien no conoce los alimentos, ¿Cómo puede comprender las enfermedades de
+los hombres. Hipócrates, padre de la medicina (460-357 a.de C.)&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Todas las dolencias y algunas otras aflecciones se producen por el mismo motivo:
+una dieta exesicamente tóxica y poco saludable y un estilo de vida en el que imperan
+factores que favorecen la enfermedad y escasean los que promueven la salud. Yo a
+traves de una dieta Vegetariana y alimentos integrales alcance una salud óptima&lt;/p&gt;
+&lt;p&gt;Los alimentos no están solamente para sostener el cuerpo. Ellos se convierten
+en vibraciones a través de la digestión.
+La energía y las calorías son todas vibraciones que cambian nuestra manera de
+pensar. Los pensamientos son vibraciones. Así que, si nos alimentamos de una
+forma, nos volvemos más competitivos, materialistas o agresivos y si lo hacemos
+de otra manera, podemos volvernos más pacíficos y espirituales, especialmente
+si esto se mantiene por generaciones&lt;/p&gt;
+&lt;p&gt;¿Por qué nos exponemos a ésto?. ¿Por qué nos alimentamos de ésta manera?. Yo no
+voy a decir no comer carne, solo voy a compartir información de que existe otra
+salida para no hacerlo, así vos desde tu lado puedas elegir (entre ambas)
+siguiendo tu conciencia.&lt;/p&gt;
+&lt;p&gt;Rerencia:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.amazon.com/Proteins-Human-Nutrition-J-W-G-Porter/dp/0125629508"&gt;Proteins Human Nutrition&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.amazon.es/Comer-animales-Diversos-Jonathan-Safran/dp/8432210366/ref=pd_sim_14_1?ie=UTF8&amp;amp;refRID=1F69991EXYV44QSNFEW3"&gt;Comer animales&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.amazon.es/Libro-Prote%C3%ADnas-Vegetales-Salud-natural/dp/8475567487/ref=pd_sim_14_7?ie=UTF8&amp;amp;refRID=1F69991EXYV44QSNFEW3"&gt;Libro Proteínas vegetales&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.amazon.es/El-Estudio-China-Colin-Campbell/dp/1935618784/ref=sr_1_1?s=books&amp;amp;ie=UTF8&amp;amp;qid=1438551451&amp;amp;sr=1-1&amp;amp;keywords=the+china+study"&gt;El Estudio de China&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.amazon.es/Omnivores-Dilemma-Search-Perfect-Fast-food-ebook/dp/B002TQKS14/ref=sr_1_4?ie=UTF8&amp;amp;qid=1438551535&amp;amp;sr=8-4&amp;amp;keywords=michael+pollan"&gt;Omnivores Dilemma&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><category>alimentación</category><category>dieta</category><category>nutricion</category><category>proteína</category><guid>http://miquella.com.ar/blog/porquecomemoscarne/</guid><pubDate>Sat, 01 Aug 2015 21:56:59 GMT</pubDate></item><item><title>Dominio Público o Privado</title><link>http://miquella.com.ar/blog/rio_publico_privato/</link><dc:creator>Heizenreder Guillermo</dc:creator><description>&lt;div&gt;&lt;p&gt;La polémica es también por la naturaleza: por el acceso a los lagos y
+a los ríos, y por el control, finalmente, de la tierra y el agua&lt;/p&gt;
+&lt;p&gt;Particularmente hoy siento que el 01 de Agosto está cada vez más cerca,
+éste día será una fecha a la que debemos prestar atención, ya que entra
+en vigencia el proyecto de Reforma y Actualización del Código Civil Argentino,
+&lt;strong&gt;una obra para los próximos 100 años&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Dentro de los cambios más polémicos está la limitación aún más del
+&lt;a class="reference external" href="https://es.wikipedia.org/wiki/Camino_de_sirga"&gt;Camino de Sirga&lt;/a&gt; Incorporando como nuevo artículo 1974 el siguiente:  jej&lt;/p&gt;
+&lt;div class="note"&gt;
+&lt;p class="first admonition-title"&gt;Note&lt;/p&gt;
+&lt;p class="last"&gt;El dueño de un inmueble colindante con cualquiera de las orillas de
+los cauces o sus riberas, aptos para el transporte por agua, debe
+dejar libre una franja de terreno de QUINCE (15) metros de ancho
+en toda la extensión del curso, en la que no puede hacer ningún
+acto que menoscabe aquella actividad. Todo perjudicado puede pedir
+que se remuevan los efectos de los actos violatorios de este artículo.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Lo cierto es que la problemática de las costas ha venido demostrando en
+nuestro país el avance de los intereses privados por sobre los intereses
+públicos. Nuestros caminos costenos no serán más nuestros, ó de
+&lt;strong&gt;dominio público&lt;/strong&gt; como se los conoce en la jerga jurídica, en cambio
+favorece al dueño y podrán cercar más el recurso natural , lo que sucede
+en muchos lagos y ríos del país. Por ejemplo en Paraná tenemos &lt;a class="reference external" href="http://entreriosahora.com/los-arenales-como-el-agua-de-todos/"&gt;El caso
+de los Arenales&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Por ésto es importante investigar, leer y ver los detalles que el Congreso
+Nacional sanciona, involucrarse, tomar acciones (auto crítica hacia mí también)&lt;/p&gt;
+&lt;div class="note"&gt;
+&lt;p class="first admonition-title"&gt;Note&lt;/p&gt;
+&lt;p&gt;Eduardo Galeano en Los hijos de los días&lt;/p&gt;
+&lt;p class="last"&gt;De agua somos. Del agua brotó la vida. Los ríos son la sangre que
+nutre la tierra, y están hechas de agua las células que nos piensan,
+las lágrimas que nos lloran y la memoria que nos recuerda.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Protegamos a nuestros ríos, protegamos a nuestra madre tierra!. Los ríos son
+nuestros hermanos, ellos calman nuestra sed. ¿Los dueños de las propiedades
+privadas tratarán a los ríos trato bodadoso que dareís a cualquier hermano?&lt;/p&gt;
+&lt;p&gt;Hagamos fuerza para que el hombre y la naturaleza vuelva a un armonioso equilibrio.&lt;/p&gt;
+&lt;p&gt;Referencia:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.radiofmdellago.com.ar/?p=383"&gt;Radio fmdellago&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://adnrionegro.com.ar/2014/10/nuevo-codigo-civil-y-el-acceso-a-las-costas-%E2%97%8F-magdalena-odarda/"&gt;Nuevo Código Civil y el acceso a las costas&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://enriqueviale.blogspot.com.ar/2015/03/nuevo-codigo-civil-chau-acceso-los-rios.html"&gt;Nuevo Código Civil - Chau acceso a los rios&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.derechoenzapatillas.org/2014/la-privatizacion-del-acceso-a-los-rios-y-lagos/"&gt;La provatizacion del acceso a los rios y lagos&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.resumenlatinoamericano.org/2015/07/21/argentina-por-el-nuevo-codigo-civil-se-complicaria-el-acceso-a-los-rios/"&gt;Argentina por el nuevo codigo civil&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.analisisdigital.com.ar/noticias.php?ed=1&amp;amp;di=0&amp;amp;no=209307"&gt;Análisis digital&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.noticiasentrerios.com.ar/2014/10/el-nuevo-codigo-civil-y-la.html"&gt;El Nuevo Código civil y la&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid>http://miquella.com.ar/blog/rio_publico_privato/</guid><pubDate>Sun, 26 Jul 2015 14:56:38 GMT</pubDate></item><item><title>La naturaleza de la salud</title><link>http://miquella.com.ar/blog/naturaleza-de-la-salud/</link><dc:creator>Heizenreder Guillermo</dc:creator><description>&lt;div&gt;&lt;p&gt;Para comenzar a comprender cómo nos comportamos, creo que debemos cuestinar
+ciertos hábitos de vida e investigar si la violencia actual es consecuencia de
+una alimentación ó simplemente una manifestación del instinto animal que posee
+cada ser humano.&lt;/p&gt;
+&lt;p&gt;Ciertamente nuestros cerebros cuando nos enojamos se ve casi como la siguiente
+animación. Perdemos el control y atacamos a nuestra &lt;strong&gt;presa&lt;/strong&gt;. Algo que me
+impacto fue ver desde el balcón de mi departamento como dos personas se bajaron
+a pelear porque ninguno cedia espacio en la congestionada calle de un viernes por la tarde.&lt;/p&gt;
+&lt;div class="figure"&gt;
+&lt;img alt="http://tvblogs.nationalgeographic.com/files/2014/08/madbrain.gif" src="http://tvblogs.nationalgeographic.com/files/2014/08/madbrain.gif"&gt;
+&lt;/div&gt;
+&lt;p&gt;¿Por qué llegamos a una sociedad tan violenta?. ¿Por qué fomentar la competencia y no la cooperación?.
+En mi camino de investigación sobre evolución,
+alimentación consciente, nutrición y yoga di con qué estas preguntas se vienen
+formulando desde la antigüedad por los grandes académicos Griegos &lt;a class="footnote-reference" href="http://miquella.com.ar/blog/naturaleza-de-la-salud/#id4" id="id1"&gt;[1]&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Hace casi dos mil años, Platón escribió un diálogo entre dos personas, Sócrates
+y Glauco, que discuten sobre el futuro de sus ciudades.&lt;/p&gt;
+&lt;p&gt;Diálogo:&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+Sócrates afirma que las ciudades deben ser simples y que los ciudadanos han de subsistir a base de cebada
+y trigo, acompañados de sabores de aceite, aceitunas, queso y comidas campesinas
+a base de cebolla y col hervidas, y de postre higos, habas y guisantes, bayas
+de mirto, y hayucos y vino con moderación. Sócrates afirma: Y, con toda probabilidad,
+pasando sus días en calma y gozando de buena salud, los ciudadanos vivirán hasta
+una edad avanzada.
+
+Pero Glauco responde que una dieta semejante solo sería apropiada para una
+comunidad de cerdos, y que los ciudadanos deben vivir de una forma civilizada.
+Y continúa, Deben reclinarse en sus asientos y disfrutar de los platos y postres habituales
+de una cena moderna. En otras palabras, los ciudadanos deben gozar del lujo
+de comer carne.
+
+Sócrates replica: "Si lo que deseas es que contemplemos una ciudad que sufre
+de inflamación [...] También necesitaríamos grandes cantidades de todo tipo
+de ganado para todos aquellos a quienes les apeteciera alimentarse con ellos,
+¿no es así?".
+
+Glauco responde: "Por supuesto que es así". Entonces, Sócrates añade: Y no
+crees que con la dieta que tú propones tendríamos mayor necesidad de visitar
+al médico que con la que yo mencionaba?. Glauco no puede negarlo: "Sí, así es,
+en efecto". Sócrates continúa diciendo que en esa ciudad de lujos escasearía la
+tierra, porque necesitarían muchas más hectáreas para criar a los animales necesarios para
+alimentar a todos los ciudadanos. Esa escasez provocaría que se robaran las tierras
+entre sí, lo cuál podría precipitar conatos de violencia e incluso una guerra y,
+en consecuencia, la neceisdad de hacer justicia.
+
+Más aún, continua Sócrates: ¿No es cierto que cuando la dejadez y las enfermedades
+abundan en una ciudad, los tribunales y consultas médicas trabajan más que nunca,
+y que a medida que montones de personas, incluso de buena cuna, se dedican ávidamente
+a ejercer estas profesiones, la ley y la medicina empiezan a mantener la cabeza
+bien alta?. En otras palabras, en esta lujosa ciudad de dolencias y enfermedades,
+los abogados y los médicos serán la norma.
+&lt;/pre&gt;
+&lt;p&gt;En el pasaje anterior Platón deja las cosas muy claras: comeremos animales solamente
+por nuestra cuenta y riesgo. Es realmente admirable que uno de los mayores
+intelectuales de la historia del mundo occidental condenara el consumo de carne
+hace casi dos mil quinientos años, pero los es todavía más que tan pocas personas
+conozcan esta historia (desconocida para mí también) &lt;a class="footnote-reference" href="http://miquella.com.ar/blog/naturaleza-de-la-salud/#id5" id="id2"&gt;[2]&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;¿Cómo pudo Platón predecir el futuro con tanta precisión?. Él era consciente de que
+consumir alimentos de origen animal no conducía a la salud ni a la prosperidad
+verdadera. Por el contrario, creia que ese lujo falso basado en la posibilidad de
+consumir animales solo daba lugar a una cultura de enfermedad, de disputas de
+algunos de los desafíos que afrontamos en la actualidad.&lt;/p&gt;
+&lt;p&gt;¿Cómo pudo Sénaca, un gran erudito, tutor y consejero del emperador romano Nerón
+saber con tanta certeza cuál era el problema de consumir animales?.&lt;/p&gt;
+&lt;p&gt;El gran filósofo escribió:&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+Un buey satisface su hambre pastando en una superficie de alrededor de media
+hectárea; un bosque es suficiente para varios elefantes. El hombre, sin embargo,
+solo puede autoabastecerse mediante el pillaje de tierra y del mar. ¡Caramba!
+¿Acaso la naturaleza nos ha dado estómago tan insaciable y, al mismo tiempo, un
+cuerpo tan insignificante? [...] Los esclavos de la barriga (como dice Salustio)
+se deben contar entre los animales inferiores pero no entre los hombres. Mejor
+dicho no entre los hombres sino más bien entre los muertos [...] Podas escribir
+en la puerta de sus casas: "Estos tienen una muerte anticipada".
+&lt;/pre&gt;
+&lt;p&gt;Cualquier similitud con la realidad es pura coincidencia. ¿Cómo hemos podido olvidar
+estas lecciones que ya se conocian en el pasado?. ¿Cómo hemos llegado a preocuparnos
+por que los vegetarianos quizá no ingieran suficientes proteínas cuando en el
+pasado sabíamos que los mejores atletas de los antiguos juegos Olímpicos griegos
+debían consumir una dieta vegetariana? ¿Cómo hemos llegado aceptar con sano juicio
+que tomar leche de otro animal es el único medio para ingerir Calcio, sin pensar
+siquiera en el misterio de la naturaleza que hacer crecer fuertes sanos y robustos
+a los animales sin consumir leche vacuna? ¿Cómo hemos llegado a una situación en la
+cual los encargados de curar la sociedad, nuestras instituciones médicas denigran
+al individuo y la tercera causa principal de mortalidad es por el uso de fármacos
+y hospitalización?. ¿Cómo hemos llegado a convivir con la polución de enfermedades?
+¿Cómo hemos llegado a una situación en la cual defender una dieta vegetariana es
+juzgado por la sociedad, mientras que científicos gastan más tiempo y dinero intentando
+dominar la naturaleza que respetándola? ¿Cómo hemos llegado a una situación en la
+que las empresas que se benefician de nuestras enfermedades son las mismas que
+nos dan consejos para estar sanos y las compañias cuyos ingresos se basan en los
+alimentos que elegimos son las que nos indican qué debemos comer; una situación
+en la que el gobierno gasta dinero público, que tanto cuesta a todos, en fomentar
+ingresos de la industria farmacéutica, en la que impera la desconfianza en las
+políticas gubernamentales sobre alimentación, medicina y salud?. &lt;strong&gt;¿Cómo hemos
+llegado a una situación en la cual los ciudadanos están tan confundidos respecto
+a los que es sano y lo que no es que ya ni se ocupan de ello?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Nunca se vieron índices tan alto de obesidad y diabetes, enfermedades vinculadas
+con la "prosperidad económica". Nunca antes habíamos afectado tanto al medio ambiente
+natural hasta perder la capa superior del suelo, los enormes acuíferos y selvas
+tropicales. Nunca antes habíamos eliminado tantas plantas y animales de la faz
+de la tierra como lo estamos haciendo ahora. Nunca antes habíamos introducido
+tantas variadades de plantas modificadas genéticamente a tan gran escala, sin
+saber cuáles serán las repercusiones. Todos estos cambios en nuestro ambiente
+están influenciados por los alimentos que decidimos consumir &lt;a class="footnote-reference" href="http://miquella.com.ar/blog/naturaleza-de-la-salud/#id6" id="id3"&gt;[3]&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Por lo que debemos replantearnos nuestras tradiciones y estar dispuestos de cambiar,
+de borrar todo lo que aprendimos y volver a aprender todo nuevamente. Por mi parte
+llevo 6 meses bajo esta nueva perspectiva, no solo me siento más fuerte que nunca,
+sino que no necesito ningún medicamento, ni suplemento y siento otro tipo de
+conección con el medio, por lo que iré escribiendo mis experiencias para coompartir
+y profundizar aún mas este estudio para mostrar que hay una alternativa mas sustentable
+que la que nuestra Cultura fomenta sin perder calidad de vida.&lt;/p&gt;
+&lt;table class="docutils footnote" frame="void" id="id4" rules="none"&gt;
+&lt;colgroup&gt;&lt;col class="label"&gt;&lt;col&gt;&lt;/colgroup&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="http://miquella.com.ar/blog/naturaleza-de-la-salud/#id1"&gt;[1]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;China Study Comprehensive Nutrition Implications &lt;a class="reference external" href="http://www.amazon.com/China-Study-Comprehensive-Nutrition-Implications/dp/1932100660/ref=sr_1_1?s=books&amp;amp;ie=UTF8&amp;amp;qid=1437319809&amp;amp;sr=1-1&amp;amp;keywords=study+of+chin"&gt;ref1&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table class="docutils footnote" frame="void" id="id5" rules="none"&gt;
+&lt;colgroup&gt;&lt;col class="label"&gt;&lt;col&gt;&lt;/colgroup&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="http://miquella.com.ar/blog/naturaleza-de-la-salud/#id2"&gt;[2]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;The Ethics Diet Authorities Flesh Eating &lt;a class="reference external" href="http://www.amazon.com/The-Ethics-Diet-Authorities-Flesh-Eating/dp/0252071301"&gt;ref2&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table class="docutils footnote" frame="void" id="id6" rules="none"&gt;
+&lt;colgroup&gt;&lt;col class="label"&gt;&lt;col&gt;&lt;/colgroup&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="http://miquella.com.ar/blog/naturaleza-de-la-salud/#id3"&gt;[3]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Food Revolution Your Diet World &lt;a class="reference external" href="http://www.amazon.com/Food-Revolution-Your-Diet-World/dp/1573244872/ref=sr_1_1?s=books&amp;amp;ie=UTF8&amp;amp;qid=1437320019&amp;amp;sr=1-1&amp;amp;keywords=the+food+revolutioni"&gt;ref3&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;/div&gt;</description><guid>http://miquella.com.ar/blog/naturaleza-de-la-salud/</guid><pubDate>Sun, 19 Jul 2015 13:51:25 GMT</pubDate></item><item><title>Frase</title><link>http://miquella.com.ar/blog/frase/</link><dc:creator>Heizenreder Guillermo</dc:creator><description>&lt;p&gt;Acepta lo que venga tejido en el diseño de tu destino porque, ¿qué podría acomodarse más adecuadamente a tus necesidades?. Marco Aurelio.&lt;/p&gt;</description><guid>http://miquella.com.ar/blog/frase/</guid><pubDate>Sat, 04 Jul 2015 01:24:12 GMT</pubDate></item><item><title>Pieles rojas vs Pieles blancas</title><link>http://miquella.com.ar/blog/pieles_rojas_blancas/</link><dc:creator>Heizenreder Guillermo</dc:creator><description>&lt;div&gt;&lt;p&gt;Volviendo a casa desde la oficina me sorprendio una lluvia otoñal que se anunciaba desde hace unos
+días pero que no se presentaba y hoy de un momento a otro se armó.&lt;/p&gt;
+&lt;p&gt;Me animo a escribir las siguientes líneas y a medida que pasen las lineas vamos a descubrir el por qué
+del título. Caminando, sintiendo como las gotas acariciaban mi frente empiezo a experimentar mucha violencia
+en el ambiente, la gente corriendo para no mojarse, los automóviles circulando con mucha velocidad, empujando el aguna
+hacia las veredas sin importar si los pasajeros que &lt;strong&gt;cual animales hacia el matadero&lt;/strong&gt; esperaban su momento
+para subir al colectivo e ir a destino, sufrían incesantes chapuzones de los autos. Solo se escuchaba malas palabras,
+ruidos, bocinas un caos! por unas gotas de agua.&lt;/p&gt;
+&lt;p&gt;Cuando vamos aceptar que la violencia solo engendra violencia. ¿Cuándo vamos a aceptar a los cambios climáticos
+como cambios corporales tal y cual nos suceden a los seres humanos cuando vamos envejeciendo?. ¿Cuándo vamos a tratarnos
+como si fueramos hermanos?. ¿Cuándo vamos a dejar a la naturaleza tranquila?.&lt;/p&gt;
+&lt;p&gt;Son muchas preguntas sin respuesta, o en realidad con muchas respuestas que tiene una sola raíz, que es el &lt;em&gt;Conflicto&lt;/em&gt;
+esa palabra que nacio cuando la moral y la religión crearon el concepto de lo bueno y lo malo.&lt;/p&gt;
+&lt;p&gt;No sé que es lo bueno o lo malo, pero sí se que las lluvias no lo son, y en particular es un fenómeno que aumenta
+en una zona que antes no había. Soy del Litoral y allí sí que hay lluvias nutridas por el hermoso río Paraná. Pero aquí solo
+falta ver la siguiente imagen de lo que ocurrió con los bosques nativos de Córdona&lt;/p&gt;
+&lt;div class="figure"&gt;
+&lt;img alt="http://staticf5a.lavozdelinterior.com.ar/sites/default/files/file_attachments/nota_periodistica/bosque.jpg" src="http://staticf5a.lavozdelinterior.com.ar/sites/default/files/file_attachments/nota_periodistica/bosque.jpg"&gt;
+&lt;/div&gt;
+&lt;p&gt;Para leer más sobre la deforestación ponemos ir a &lt;a class="reference external" href="http://www.lavoz.com.ar/ciudadanos/reforestar-cordoba-un-debate-que-el-diluvio-reactualiza"&gt;[1]&lt;/a&gt; &lt;a class="reference external" href="http://www.lavoz.com.ar/ciudadanos/adios-los-bosques-nativos-de-cordoba"&gt;[2]&lt;/a&gt; &lt;a class="reference external" href="http://www.lavoz.com.ar/suplementos/temas/cordobasigue-perdiendo-%EF%BF%BDbosques-nativos"&gt;[3]&lt;/a&gt; &lt;a class="reference external" href="http://www.lavoz.com.ar/ciudadanos/ambiente/6-anos-se-redujo-40-bosque-nativo-cordoba"&gt;[4]&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Necesitamos encariñarnos más con la madre tierra, necesitamos ser mas pieles rojas y no blancas en actitud, algo
+que encontre en mis lecturas hace mucho tiempo &lt;strong&gt;31 de Julio de 2005&lt;/strong&gt; para ser más precisos, y es una maravillosa
+carta que voy a transcribir porque no la encuentro en la web tal cual y aún conservo&lt;/p&gt;
+&lt;blockquote class="epigraph"&gt;
+&lt;p&gt;Cuando un indio Seattle le escribe una Carta al Presidente de EEUU&lt;/p&gt;
+&lt;p&gt;Seattle, jefe de la tribu Suwamish, envio en el año  1855 al presidente Franklin Pierce una carta en respuesta
+a su oferta de compra de las tierras de los indios.  Aqui se reproducen tramos principales de la misma:&lt;/p&gt;
+&lt;p&gt;El Gran jefe de Washington manda decir que desea comprar nuestras tierras. Vamos a considerar su oferta,
+pues sabemos que, de no hacerlo, el hombre blanco podrá venir con sus armas de fuego y tomarse nuestras tierras.
+"¿Cómo podéis comprar o vender el cielo, el calor de la tierra? Esta idea nos parece extraña. No somos
+dueños de la frescura del aire ni del centelleo del agua. ¿Cómo podrías comprarlos a nosotos?. "Habeis de saber
+que cada particula de esta tierra es sagrada para mi pueblo. Cadoa hoja resplandeciente, cada playa arenosa
+cada neblina en el oscuro bosque, cada claro y cada insecto con su zumbido son sagrados en la memoria
+y experiencia de mi pueblo. La savia que circula en los árboles porta las memorias del hombre de piel roja.&lt;/p&gt;
+&lt;p&gt;Los ríos son nuestros hermanos, ellos calman nuestra sed. Los ríos llevan nuestras canoas y alimentan a nuestros
+hijos. Si os vendemos nuestras tierras debereis en adelante dar a los rios el trato bodadoso que dareís a
+cualquier hermano.&lt;/p&gt;
+&lt;p&gt;LO QUE VENDRÁ. El hombre blanco es un extraño que llega en la noche a sacar de la tierra lo que necesita.
+La tierra no es su hermano sino su enemigo. Cuando la ha conquistado la abandona y sigue su camino. Trata a su
+madre, la tierra y a su hermano el cielo como si fuesen cosas que se pueden comprar, saquear y vender, como si
+fuesen corderos y cuentas de vidrio. Su insaciable apetito devorará la tierra y dejara tras si solo un desierto.&lt;/p&gt;
+&lt;p&gt;No lo comprendo. Nuestra manera de ser es diferente a la vuestra. La vista de vuestras ciudades hace doler los
+ojos al hombre de piel roja. Pero quiza es así porque el hombre de piel roja es un salvaje y no comprende las cosas...&lt;/p&gt;
+&lt;p&gt;No hay ningun lugar tranquilo en las ciudades del hombre blanco, ningun lugar donde pueda escucharse desplegarse
+de las hojas de primavera o el orzar de las alas de un insecto.&lt;/p&gt;
+&lt;p&gt;"Y qué clase de vida es cuando el hombre no es capaz de escuchar el solitario grito de la garza o la discusión
+nocturna de las ranas alrededor de la laguna?. Soy un hombre de piel roja y no lo comprendo. Los indios preferimos
+el suave sobido del viento que acaricia la cara del lago y el olor del mismo viento purificado por la lluvia
+del mediodía o perfumado por la fragancia de los pinos.&lt;/p&gt;
+&lt;p&gt;"NO COMPRENDO". Consideremos vuestra oferta de comprar nuestras tierras. Si decidimos aceparla, pondre una
+condición: que el hombre blanco deberá tratar a los animales de esta tierra como hermanos. Soy un salvaje y no
+comprendo otro modo de conducta. He visto miles de búfalos pudriéndose sobre las pradera abandonados allí por el
+hombre blanco que les disparó desde un tren en marcha. Soy un salvaje y no comprendo cómo el humeante caballo
+a vapor puede ser mas importante que el búfalo al que matamos para poder vivir. &lt;strong&gt;¿Qué es el hombre sin los animales?&lt;/strong&gt;
+Si todos los animales hubiesen desaparecido, el hombre moriría de una gran soledad de espíritu. Porque todo lo que
+ocurre a los animales pronto nos habrá de ocurrir tambien al hombre. Todas las cosas estan relacionadas entre sí.&lt;/p&gt;
+&lt;p&gt;Vosotros debereis enseñar a vuestros hijos lo que nosotros hemos enseñado a los nuestros: que la tierra es nuestra
+madre. Todo lo que afecta a la tierra afecta a los hijos de la tierra. Cuando los hombres escupen el suelo se escupen
+a sí mismo.&lt;/p&gt;
+&lt;p&gt;ALERTA: Esto lo sabemos: la tierra no pertenece al hombre, sino que el hombre pertenece a la tierra. El hombre no
+ha tejido la red de la vida: es solo una hebra de ella. Todo lo que haga a la red se lo hará a sí mismo. Lo que
+ocurre a la tierra ocurrira a los hijos de la tierra. Lo sabemos. todas las cosas estan relacionadas como la sangre
+que une a una familia.&lt;/p&gt;
+&lt;p&gt;El hombre blanco descubrirá algún dia que nuestro Dios es su mismo Dios. Ahora pensais quizá que sois dueño de nuestra
+tierras, pero no pedes serlo. Él es el Dios de la humanidad y su compasión es igual al para el hombre blanco. Esta
+tierra es preciosa para Él y el causarle daño significa mostrar desprecio hacia su Creador. Los hombre blancos
+tambien pasaran, tal vez antes dque las demas tribus. Si contaminais vuestra cama, morirés alguna noche sofocados
+por vuestros propios desperdicios.&lt;/p&gt;
+&lt;p&gt;Pero aun en vuestra hora final os sentireis iluminados por la idea de que Dios os trajo a estas tierras y os dio el
+dominio sobre ellas y sobre el hombre de piel roja con algún proposito especial.&lt;/p&gt;
+&lt;p&gt;Tal destino es un misterio para nosotros porque no comprendemos lo que sera cuando los búfalos hayan sido
+exterminados, cuando los caballos salvajes hayan sido domados, cuando los reconditos rincones de los bosques
+exhalen el olor a muchos hombres y cuando la vista hacia las verdes colinas esté cerrada por un enjambre de alambres
+parlantes.&lt;/p&gt;
+&lt;p&gt;¿Dónde esta el espeso bosque?  Desapareció
+¿Donde esta el águila?         Desapareció
+Asi termina la vida y comienza el sobrevivir.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Hoy más que nunca tenemos que pensar y sentir como pieles rojas si queremos un futuro para las generaciones que
+nos suceden, esto se escribió hace mucho tiempo y aún es vigente, solo hay que abrir los ojos.&lt;/p&gt;&lt;/div&gt;</description><category>aborígenes</category><category>ecología</category><category>pensamientos</category><category>sociedad</category><guid>http://miquella.com.ar/blog/pieles_rojas_blancas/</guid><pubDate>Tue, 14 Apr 2015 18:44:48 GMT</pubDate></item></channel></rss>
