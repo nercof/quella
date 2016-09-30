@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Quella</title><link>http://miquella.com.ar/</link><description>Sitio Personal de Heizenreder Guillermo recetas, yoga, libros, pensamientos</description><atom:link href="http://miquella.com.ar/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Wed, 31 Aug 2016 03:55:55 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Test 1.0</title><link>http://miquella.com.ar/blog/test-10.html</link><dc:creator>Heizenreder Guillermo</dc:creator><description>&lt;p&gt;Write your post here.&lt;/p&gt;</description><guid>http://miquella.com.ar/blog/test-10.html</guid><pubDate>Mon, 09 May 2016 00:31:13 GMT</pubDate></item><item><title>Test</title><link>http://miquella.com.ar/blog/test.html</link><dc:creator>Heizenreder Guillermo</dc:creator><description>&lt;p&gt;Write your post here.&lt;/p&gt;</description><guid>http://miquella.com.ar/blog/test.html</guid><pubDate>Mon, 09 May 2016 00:06:53 GMT</pubDate></item><item><title>Jugando con los sentidos</title><link>http://miquella.com.ar/blog/jugando-con-los-sentidos.html</link><dc:creator>Heizenreder Guillermo</dc:creator><description>&lt;div&gt;&lt;p&gt;Antes de continuar a escribir cualquier otro post creo que debo compartir
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Quella</title><link>http://miquella.com.ar/</link><description>Prohibido prohibir.</description><atom:link rel="self" href="http://miquella.com.ar/rss.xml" type="application/rss+xml"></atom:link><language>en</language><lastBuildDate>Fri, 30 Sep 2016 13:41:21 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Otra vuelta al sol</title><link>http://miquella.com.ar/blog/otra-vuelta-al-sol/</link><dc:creator>Heizenreder Guillermo</dc:creator><description>&lt;div&gt;&lt;p&gt;Write your post here.
+.. code-block:: python&lt;/p&gt;
+&lt;div class="system-message"&gt;
+&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 3)&lt;/p&gt;
+Unexpected indentation.&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;table class="docutils field-list" frame="void" rules="none"&gt;
+&lt;col class="field-name"&gt;
+&lt;col class="field-body"&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr class="field"&gt;&lt;th class="field-name"&gt;number-lines:&lt;/th&gt;&lt;td class="field-body"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;def sieve_of_eratosthenes():&lt;/p&gt;
+&lt;/blockquote&gt;&lt;/div&gt;</description><guid>http://miquella.com.ar/blog/otra-vuelta-al-sol/</guid><pubDate>Fri, 30 Sep 2016 13:09:08 GMT</pubDate></item><item><title>Jugando con los sentidos</title><link>http://miquella.com.ar/blog/jugando-con-los-sentidos/</link><dc:creator>Heizenreder Guillermo</dc:creator><description>&lt;div&gt;&lt;p&gt;Antes de continuar a escribir cualquier otro post creo que debo compartir
 una historia con ustedes.&lt;/p&gt;
 &lt;p&gt;Es una historia que la conocí al finalizar un juego que hicimos
 el sábado con mis compañeros de Yoga (Desafío a la percepción, como para
@@ -98,22 +113,22 @@ Hasta el próximo post!&lt;/p&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.desdeelexilio.com/2015/01/28/esto-siempre-ha-sido-asi-dicen-parabola-de-los-cinco-monos/"&gt;Esto siempre ah sido asi&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://johnstepper.com/2013/10/26/the-five-monkeys-experiment-with-a-new-lesson/"&gt;The five monkeys experiment with a new lesson&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="https://www.psychologytoday.com/blog/games-primates-play/201203/what-monkeys-can-teach-us-about-human-behavior-facts-fiction"&gt;What Monkeys can teach us about human behavior&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid>http://miquella.com.ar/blog/jugando-con-los-sentidos.html</guid><pubDate>Wed, 12 Aug 2015 02:18:52 GMT</pubDate></item><item><title>Tarta de Acelga y Quinoa</title><link>http://miquella.com.ar/blog/tarta-de-acelga-y-quinoa.html</link><dc:creator>Heizenreder Guillermo</dc:creator><description>&lt;div&gt;&lt;p&gt;Ayer en la feria Agroecológica pude conseguir unos ricos paquetes de acelga
+&lt;/ul&gt;&lt;/div&gt;</description><guid>http://miquella.com.ar/blog/jugando-con-los-sentidos/</guid><pubDate>Wed, 12 Aug 2015 02:18:52 GMT</pubDate></item><item><title>Tarta de Acelga y Quinoa</title><link>http://miquella.com.ar/blog/tarta-de-acelga-y-quinoa/</link><dc:creator>Heizenreder Guillermo</dc:creator><description>&lt;div&gt;&lt;p&gt;Ayer en la feria Agroecológica pude conseguir unos ricos paquetes de acelga
 para poder hacer un relleno (el relleno puede emplearse en canelones, sorrentinos
 o una tarta como la que hice hoy).&lt;/p&gt;
 
-&lt;div id="slides_824cd20ba4124a02bd77c907fbe5454d" class="carousel slide"&gt;
+&lt;div id="slides_dcfc06b2bc3143f0a2e12c62ffc6bb5b" class="carousel slide"&gt;
     &lt;ol class="carousel-indicators"&gt;
-            &lt;li data-target="#slides_824cd20ba4124a02bd77c907fbe5454d" data-slide-to="0" class="active"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_824cd20ba4124a02bd77c907fbe5454d" data-slide-to="1"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_824cd20ba4124a02bd77c907fbe5454d" data-slide-to="2"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_824cd20ba4124a02bd77c907fbe5454d" data-slide-to="3"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_824cd20ba4124a02bd77c907fbe5454d" data-slide-to="4"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_824cd20ba4124a02bd77c907fbe5454d" data-slide-to="5"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_824cd20ba4124a02bd77c907fbe5454d" data-slide-to="6"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_824cd20ba4124a02bd77c907fbe5454d" data-slide-to="7"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_824cd20ba4124a02bd77c907fbe5454d" data-slide-to="8"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_824cd20ba4124a02bd77c907fbe5454d" data-slide-to="9"&gt;
+            &lt;li data-target="#slides_dcfc06b2bc3143f0a2e12c62ffc6bb5b" data-slide-to="0" class="active"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_dcfc06b2bc3143f0a2e12c62ffc6bb5b" data-slide-to="1"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_dcfc06b2bc3143f0a2e12c62ffc6bb5b" data-slide-to="2"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_dcfc06b2bc3143f0a2e12c62ffc6bb5b" data-slide-to="3"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_dcfc06b2bc3143f0a2e12c62ffc6bb5b" data-slide-to="4"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_dcfc06b2bc3143f0a2e12c62ffc6bb5b" data-slide-to="5"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_dcfc06b2bc3143f0a2e12c62ffc6bb5b" data-slide-to="6"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_dcfc06b2bc3143f0a2e12c62ffc6bb5b" data-slide-to="7"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_dcfc06b2bc3143f0a2e12c62ffc6bb5b" data-slide-to="8"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_dcfc06b2bc3143f0a2e12c62ffc6bb5b" data-slide-to="9"&gt;
     &lt;/li&gt;&lt;/ol&gt;
     &lt;div class="carousel-inner"&gt;
                 &lt;div class="item active"&gt;&lt;img src="http://miquella.com.ar/images/t001/DSC_0810.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
@@ -127,8 +142,8 @@ o una tarta como la que hice hoy).&lt;/p&gt;
                 &lt;div class="item"&gt;&lt;img src="http://miquella.com.ar/images/t001/DSC_0845.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
                 &lt;div class="item"&gt;&lt;img src="http://miquella.com.ar/images/t001/DSC_0846.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
     &lt;/div&gt;
-    &lt;a class="left carousel-control" href="http://miquella.com.ar/blog/tarta-de-acelga-y-quinoa.html#slides_824cd20ba4124a02bd77c907fbe5454d" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
-    &lt;a class="right carousel-control" href="http://miquella.com.ar/blog/tarta-de-acelga-y-quinoa.html#slides_824cd20ba4124a02bd77c907fbe5454d" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="left carousel-control" href="http://miquella.com.ar/blog/tarta-de-acelga-y-quinoa/#slides_dcfc06b2bc3143f0a2e12c62ffc6bb5b" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="right carousel-control" href="http://miquella.com.ar/blog/tarta-de-acelga-y-quinoa/#slides_dcfc06b2bc3143f0a2e12c62ffc6bb5b" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;
 
 &lt;p&gt;La quinoa no es más que una semilla, pero con características únicas al poder
@@ -210,7 +225,7 @@ el relleno, para que el amasado sea más ameno.
 &lt;p&gt;Listo solo incorporamos el relleno a la masa y al horno.&lt;/p&gt;
 &lt;p&gt;Tiempo de horno: Hasta que la masa se dore (unos 20 minutos).&lt;/p&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>recetas</category><category>tartas</category><category>veganas</category><guid>http://miquella.com.ar/blog/tarta-de-acelga-y-quinoa.html</guid><pubDate>Mon, 10 Aug 2015 00:30:45 GMT</pubDate></item><item><title>Budín vegano banana, algarroba y más!</title><link>http://miquella.com.ar/blog/budin-vegano-banana-algarroba-y-mas.html</link><dc:creator>Heizenreder Guillermo</dc:creator><description>&lt;div&gt;&lt;p&gt;Esta es la primera preparación que busque para hacer hace unos meses atrás
+&lt;/div&gt;&lt;/div&gt;</description><category>recetas</category><category>tartas</category><category>veganas</category><guid>http://miquella.com.ar/blog/tarta-de-acelga-y-quinoa/</guid><pubDate>Mon, 10 Aug 2015 00:30:45 GMT</pubDate></item><item><title>Budín vegano banana, algarroba y más!</title><link>http://miquella.com.ar/blog/budin-vegano-banana-algarroba-y-mas/</link><dc:creator>Heizenreder Guillermo</dc:creator><description>&lt;div&gt;&lt;p&gt;Esta es la primera preparación que busque para hacer hace unos meses atrás
 cuando tenía unas bananas muy negras que son las ideales porque son las que
 más azúzares tienen.&lt;/p&gt;
 &lt;p&gt;Ayer queria compartir con mis compañeros del profesorado de Yoga por lo que a la
@@ -220,17 +235,17 @@ conseguir los ingredientes que falten y manos a la obra, que de un momento
 a otro lo tenes listo para cortar.&lt;/p&gt;
 &lt;p&gt;Especial para los días como hoy bien lluviosos y fríos!&lt;/p&gt;
 
-&lt;div id="slides_e289b650bb784663a84ef1f68e5605bb" class="carousel slide"&gt;
+&lt;div id="slides_9cfe2124337c46ba8c66ee05d10b535f" class="carousel slide"&gt;
     &lt;ol class="carousel-indicators"&gt;
-            &lt;li data-target="#slides_e289b650bb784663a84ef1f68e5605bb" data-slide-to="0" class="active"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_e289b650bb784663a84ef1f68e5605bb" data-slide-to="1"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_e289b650bb784663a84ef1f68e5605bb" data-slide-to="2"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_e289b650bb784663a84ef1f68e5605bb" data-slide-to="3"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_e289b650bb784663a84ef1f68e5605bb" data-slide-to="4"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_e289b650bb784663a84ef1f68e5605bb" data-slide-to="5"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_e289b650bb784663a84ef1f68e5605bb" data-slide-to="6"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_e289b650bb784663a84ef1f68e5605bb" data-slide-to="7"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_e289b650bb784663a84ef1f68e5605bb" data-slide-to="8"&gt;
+            &lt;li data-target="#slides_9cfe2124337c46ba8c66ee05d10b535f" data-slide-to="0" class="active"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_9cfe2124337c46ba8c66ee05d10b535f" data-slide-to="1"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_9cfe2124337c46ba8c66ee05d10b535f" data-slide-to="2"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_9cfe2124337c46ba8c66ee05d10b535f" data-slide-to="3"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_9cfe2124337c46ba8c66ee05d10b535f" data-slide-to="4"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_9cfe2124337c46ba8c66ee05d10b535f" data-slide-to="5"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_9cfe2124337c46ba8c66ee05d10b535f" data-slide-to="6"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_9cfe2124337c46ba8c66ee05d10b535f" data-slide-to="7"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_9cfe2124337c46ba8c66ee05d10b535f" data-slide-to="8"&gt;
     &lt;/li&gt;&lt;/ol&gt;
     &lt;div class="carousel-inner"&gt;
                 &lt;div class="item active"&gt;&lt;img src="http://miquella.com.ar/images/b001/DSC_0769.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
@@ -243,8 +258,8 @@ a otro lo tenes listo para cortar.&lt;/p&gt;
                 &lt;div class="item"&gt;&lt;img src="http://miquella.com.ar/images/b001/DSC_0789.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
                 &lt;div class="item"&gt;&lt;img src="http://miquella.com.ar/images/b001/DSC_0797.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
     &lt;/div&gt;
-    &lt;a class="left carousel-control" href="http://miquella.com.ar/blog/budin-vegano-banana-algarroba-y-mas.html#slides_e289b650bb784663a84ef1f68e5605bb" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
-    &lt;a class="right carousel-control" href="http://miquella.com.ar/blog/budin-vegano-banana-algarroba-y-mas.html#slides_e289b650bb784663a84ef1f68e5605bb" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="left carousel-control" href="http://miquella.com.ar/blog/budin-vegano-banana-algarroba-y-mas/#slides_9cfe2124337c46ba8c66ee05d10b535f" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="right carousel-control" href="http://miquella.com.ar/blog/budin-vegano-banana-algarroba-y-mas/#slides_9cfe2124337c46ba8c66ee05d10b535f" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;
 
 &lt;p&gt;Una receta fácil, nutritiva, con contenido proteíco (le incorporo semillas de
@@ -310,16 +325,16 @@ en el piso del horno para formar un vapor de cocción.
 &lt;h2&gt;Música para cocinar&lt;/h2&gt;
 &lt;div class="youtube-video"&gt;
 &lt;iframe width="425" height="344" src="https://www.youtube.com/embed/M5sSUJoYnbk?rel=0&amp;amp;hd=1&amp;amp;wmode=transparent"&gt;&lt;/iframe&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description><category>hamburguesas</category><category>recetas</category><category>veganas</category><guid>http://miquella.com.ar/blog/budin-vegano-banana-algarroba-y-mas.html</guid><pubDate>Sun, 09 Aug 2015 22:25:21 GMT</pubDate></item><item><title>Hamburguesas Veganas Arroz Yamaní, Lenteja y Avena</title><link>http://miquella.com.ar/blog/hamburguesaveganlaa.html</link><dc:creator>Heizenreder Guillermo</dc:creator><description>&lt;div&gt;&lt;p&gt;Si estas en un antojo de algo diferente un domingo al mediodía y solo tenes una
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description><category>hamburguesas</category><category>recetas</category><category>veganas</category><guid>http://miquella.com.ar/blog/budin-vegano-banana-algarroba-y-mas/</guid><pubDate>Sun, 09 Aug 2015 22:25:21 GMT</pubDate></item><item><title>Hamburguesas Veganas Arroz Yamaní, Lenteja y Avena</title><link>http://miquella.com.ar/blog/hamburguesaveganlaa/</link><dc:creator>Heizenreder Guillermo</dc:creator><description>&lt;div&gt;&lt;p&gt;Si estas en un antojo de algo diferente un domingo al mediodía y solo tenes una
 cebolla, una zanahoria, una papa y un poco de lentejas cocidas en la heladera,
 esta es tu receta, porque es justo lo que tenía hoy y mira lo que salió:&lt;/p&gt;
 
-&lt;div id="slides_86616f295d4e4b73978e93096d1ba874" class="carousel slide"&gt;
+&lt;div id="slides_3657afb4f9d54ff09b76d3dc8163ddac" class="carousel slide"&gt;
     &lt;ol class="carousel-indicators"&gt;
-            &lt;li data-target="#slides_86616f295d4e4b73978e93096d1ba874" data-slide-to="0" class="active"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_86616f295d4e4b73978e93096d1ba874" data-slide-to="1"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_86616f295d4e4b73978e93096d1ba874" data-slide-to="2"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_86616f295d4e4b73978e93096d1ba874" data-slide-to="3"&gt;
+            &lt;li data-target="#slides_3657afb4f9d54ff09b76d3dc8163ddac" data-slide-to="0" class="active"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_3657afb4f9d54ff09b76d3dc8163ddac" data-slide-to="1"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_3657afb4f9d54ff09b76d3dc8163ddac" data-slide-to="2"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_3657afb4f9d54ff09b76d3dc8163ddac" data-slide-to="3"&gt;
     &lt;/li&gt;&lt;/ol&gt;
     &lt;div class="carousel-inner"&gt;
                 &lt;div class="item active"&gt;&lt;img src="http://miquella.com.ar/images/plato_terminado.png" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
@@ -327,8 +342,8 @@ esta es tu receta, porque es justo lo que tenía hoy y mira lo que salió:&lt;/p
                 &lt;div class="item"&gt;&lt;img src="http://miquella.com.ar/images/cebolla_zanahoria.png" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
                 &lt;div class="item"&gt;&lt;img src="http://miquella.com.ar/images/arroz_lenteja.png" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
     &lt;/div&gt;
-    &lt;a class="left carousel-control" href="http://miquella.com.ar/blog/hamburguesaveganlaa.html#slides_86616f295d4e4b73978e93096d1ba874" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
-    &lt;a class="right carousel-control" href="http://miquella.com.ar/blog/hamburguesaveganlaa.html#slides_86616f295d4e4b73978e93096d1ba874" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="left carousel-control" href="http://miquella.com.ar/blog/hamburguesaveganlaa/#slides_3657afb4f9d54ff09b76d3dc8163ddac" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="right carousel-control" href="http://miquella.com.ar/blog/hamburguesaveganlaa/#slides_3657afb4f9d54ff09b76d3dc8163ddac" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;
 
 &lt;p&gt;Una receta fácil, nutritiva, alto contenido proteíco (las lentejas tienen un 30%
@@ -394,7 +409,7 @@ comenzando por vos!&lt;/p&gt;
 &lt;h2&gt;Música para cocinar&lt;/h2&gt;
 &lt;div class="youtube-video"&gt;
 &lt;iframe width="425" height="344" src="https://www.youtube.com/embed/cfvIMTlM4sY?rel=0&amp;amp;hd=1&amp;amp;wmode=transparent"&gt;&lt;/iframe&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description><category>hamburguesas</category><category>recetas</category><category>veganas</category><guid>http://miquella.com.ar/blog/hamburguesaveganlaa.html</guid><pubDate>Sun, 02 Aug 2015 22:24:10 GMT</pubDate></item><item><title>¿Por qué comemos Carne?</title><link>http://miquella.com.ar/blog/porquecomemoscarne.html</link><dc:creator>Heizenreder Guillermo</dc:creator><description>&lt;div&gt;&lt;p&gt;A principios de este año al terminar de leer &lt;a class="reference external" href="http://www.amazon.com/Fotos%C3%ADntesis-Isaac-Asimov/dp/B00D08M1JW/ref=sr_1_2?ie=UTF8&amp;amp;qid=1438466553&amp;amp;sr=8-2&amp;amp;keywords=fotosintesis+asimov"&gt;Fotosíntesis de Asimmov&lt;/a&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description><category>hamburguesas</category><category>recetas</category><category>veganas</category><guid>http://miquella.com.ar/blog/hamburguesaveganlaa/</guid><pubDate>Sun, 02 Aug 2015 22:24:10 GMT</pubDate></item><item><title>¿Por qué comemos Carne?</title><link>http://miquella.com.ar/blog/porquecomemoscarne/</link><dc:creator>Heizenreder Guillermo</dc:creator><description>&lt;div&gt;&lt;p&gt;A principios de este año al terminar de leer &lt;a class="reference external" href="http://www.amazon.com/Fotos%C3%ADntesis-Isaac-Asimov/dp/B00D08M1JW/ref=sr_1_2?ie=UTF8&amp;amp;qid=1438466553&amp;amp;sr=8-2&amp;amp;keywords=fotosintesis+asimov"&gt;Fotosíntesis de Asimmov&lt;/a&gt;
 comence a reflexionar más en la alimentación. Maravillado desde siempre con el
 reino vegetal, pero era la primera vez que analice en detalle el proceso mágico
 de producción de glucosa (alimento para vivir) solo recibiendo energía de la luz
@@ -493,7 +508,7 @@ siguiendo tu conciencia.&lt;/p&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.amazon.es/Libro-Prote%C3%ADnas-Vegetales-Salud-natural/dp/8475567487/ref=pd_sim_14_7?ie=UTF8&amp;amp;refRID=1F69991EXYV44QSNFEW3"&gt;Libro Proteínas vegetales&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.amazon.es/El-Estudio-China-Colin-Campbell/dp/1935618784/ref=sr_1_1?s=books&amp;amp;ie=UTF8&amp;amp;qid=1438551451&amp;amp;sr=1-1&amp;amp;keywords=the+china+study"&gt;El Estudio de China&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.amazon.es/Omnivores-Dilemma-Search-Perfect-Fast-food-ebook/dp/B002TQKS14/ref=sr_1_4?ie=UTF8&amp;amp;qid=1438551535&amp;amp;sr=8-4&amp;amp;keywords=michael+pollan"&gt;Omnivores Dilemma&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><category>alimentación</category><category>dieta</category><category>nutricion</category><category>proteína</category><guid>http://miquella.com.ar/blog/porquecomemoscarne.html</guid><pubDate>Sat, 01 Aug 2015 21:56:59 GMT</pubDate></item><item><title>Dominio Público o Privado</title><link>http://miquella.com.ar/blog/rio_publico_privato.html</link><dc:creator>Heizenreder Guillermo</dc:creator><description>&lt;div&gt;&lt;p&gt;La polémica es también por la naturaleza: por el acceso a los lagos y
+&lt;/ul&gt;&lt;/div&gt;</description><category>alimentación</category><category>dieta</category><category>nutricion</category><category>proteína</category><guid>http://miquella.com.ar/blog/porquecomemoscarne/</guid><pubDate>Sat, 01 Aug 2015 21:56:59 GMT</pubDate></item><item><title>Dominio Público o Privado</title><link>http://miquella.com.ar/blog/rio_publico_privato/</link><dc:creator>Heizenreder Guillermo</dc:creator><description>&lt;div&gt;&lt;p&gt;La polémica es también por la naturaleza: por el acceso a los lagos y
 a los ríos, y por el control, finalmente, de la tierra y el agua&lt;/p&gt;
 &lt;p&gt;Particularmente hoy siento que el 01 de Agosto está cada vez más cerca,
 éste día será una fecha a la que debemos prestar atención, ya que entra
@@ -539,7 +554,7 @@ privadas tratarán a los ríos trato bodadoso que dareís a cualquier hermano?&l
 &lt;li&gt;&lt;a class="reference external" href="http://www.resumenlatinoamericano.org/2015/07/21/argentina-por-el-nuevo-codigo-civil-se-complicaria-el-acceso-a-los-rios/"&gt;Argentina por el nuevo codigo civil&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.analisisdigital.com.ar/noticias.php?ed=1&amp;amp;di=0&amp;amp;no=209307"&gt;Análisis digital&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://www.noticiasentrerios.com.ar/2014/10/el-nuevo-codigo-civil-y-la.html"&gt;El Nuevo Código civil y la&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><guid>http://miquella.com.ar/blog/rio_publico_privato.html</guid><pubDate>Sun, 26 Jul 2015 14:56:38 GMT</pubDate></item><item><title>La naturaleza de la salud</title><link>http://miquella.com.ar/blog/naturaleza-de-la-salud.html</link><dc:creator>Heizenreder Guillermo</dc:creator><description>&lt;div&gt;&lt;p&gt;Para comenzar a comprender cómo nos comportamos, creo que debemos cuestinar
+&lt;/ul&gt;&lt;/div&gt;</description><guid>http://miquella.com.ar/blog/rio_publico_privato/</guid><pubDate>Sun, 26 Jul 2015 14:56:38 GMT</pubDate></item><item><title>La naturaleza de la salud</title><link>http://miquella.com.ar/blog/naturaleza-de-la-salud/</link><dc:creator>Heizenreder Guillermo</dc:creator><description>&lt;div&gt;&lt;p&gt;Para comenzar a comprender cómo nos comportamos, creo que debemos cuestinar
 ciertos hábitos de vida e investigar si la violencia actual es consecuencia de
 una alimentación ó simplemente una manifestación del instinto animal que posee
 cada ser humano.&lt;/p&gt;
@@ -553,7 +568,7 @@ a pelear porque ninguno cedia espacio en la congestionada calle de un viernes po
 &lt;p&gt;¿Por qué llegamos a una sociedad tan violenta?. ¿Por qué fomentar la competencia y no la cooperación?.
 En mi camino de investigación sobre evolución,
 alimentación consciente, nutrición y yoga di con qué estas preguntas se vienen
-formulando desde la antigüedad por los grandes académicos Griegos &lt;a class="footnote-reference" href="http://miquella.com.ar/blog/naturaleza-de-la-salud.html#id4" id="id1"&gt;[1]&lt;/a&gt;.&lt;/p&gt;
+formulando desde la antigüedad por los grandes académicos Griegos &lt;a class="footnote-reference" href="http://miquella.com.ar/blog/naturaleza-de-la-salud/#id4" id="id1"&gt;[1]&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Hace casi dos mil años, Platón escribió un diálogo entre dos personas, Sócrates
 y Glauco, que discuten sobre el futuro de sus ciudades.&lt;/p&gt;
 &lt;p&gt;Diálogo:&lt;/p&gt;
@@ -596,7 +611,7 @@ los abogados y los médicos serán la norma.
 por nuestra cuenta y riesgo. Es realmente admirable que uno de los mayores
 intelectuales de la historia del mundo occidental condenara el consumo de carne
 hace casi dos mil quinientos años, pero los es todavía más que tan pocas personas
-conozcan esta historia (desconocida para mí también) &lt;a class="footnote-reference" href="http://miquella.com.ar/blog/naturaleza-de-la-salud.html#id5" id="id2"&gt;[2]&lt;/a&gt;.&lt;/p&gt;
+conozcan esta historia (desconocida para mí también) &lt;a class="footnote-reference" href="http://miquella.com.ar/blog/naturaleza-de-la-salud/#id5" id="id2"&gt;[2]&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;¿Cómo pudo Platón predecir el futuro con tanta precisión?. Él era consciente de que
 consumir alimentos de origen animal no conducía a la salud ni a la prosperidad
 verdadera. Por el contrario, creia que ese lujo falso basado en la posibilidad de
@@ -644,7 +659,7 @@ tropicales. Nunca antes habíamos eliminado tantas plantas y animales de la faz
 de la tierra como lo estamos haciendo ahora. Nunca antes habíamos introducido
 tantas variadades de plantas modificadas genéticamente a tan gran escala, sin
 saber cuáles serán las repercusiones. Todos estos cambios en nuestro ambiente
-están influenciados por los alimentos que decidimos consumir &lt;a class="footnote-reference" href="http://miquella.com.ar/blog/naturaleza-de-la-salud.html#id6" id="id3"&gt;[3]&lt;/a&gt;.&lt;/p&gt;
+están influenciados por los alimentos que decidimos consumir &lt;a class="footnote-reference" href="http://miquella.com.ar/blog/naturaleza-de-la-salud/#id6" id="id3"&gt;[3]&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Por lo que debemos replantearnos nuestras tradiciones y estar dispuestos de cambiar,
 de borrar todo lo que aprendimos y volver a aprender todo nuevamente. Por mi parte
 llevo 6 meses bajo esta nueva perspectiva, no solo me siento más fuerte que nunca,
@@ -655,18 +670,97 @@ que la que nuestra Cultura fomenta sin perder calidad de vida.&lt;/p&gt;
 &lt;table class="docutils footnote" frame="void" id="id4" rules="none"&gt;
 &lt;colgroup&gt;&lt;col class="label"&gt;&lt;col&gt;&lt;/colgroup&gt;
 &lt;tbody valign="top"&gt;
-&lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="http://miquella.com.ar/blog/naturaleza-de-la-salud.html#id1"&gt;[1]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;China Study Comprehensive Nutrition Implications &lt;a class="reference external" href="http://www.amazon.com/China-Study-Comprehensive-Nutrition-Implications/dp/1932100660/ref=sr_1_1?s=books&amp;amp;ie=UTF8&amp;amp;qid=1437319809&amp;amp;sr=1-1&amp;amp;keywords=study+of+chin"&gt;ref1&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="http://miquella.com.ar/blog/naturaleza-de-la-salud/#id1"&gt;[1]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;China Study Comprehensive Nutrition Implications &lt;a class="reference external" href="http://www.amazon.com/China-Study-Comprehensive-Nutrition-Implications/dp/1932100660/ref=sr_1_1?s=books&amp;amp;ie=UTF8&amp;amp;qid=1437319809&amp;amp;sr=1-1&amp;amp;keywords=study+of+chin"&gt;ref1&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;table class="docutils footnote" frame="void" id="id5" rules="none"&gt;
 &lt;colgroup&gt;&lt;col class="label"&gt;&lt;col&gt;&lt;/colgroup&gt;
 &lt;tbody valign="top"&gt;
-&lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="http://miquella.com.ar/blog/naturaleza-de-la-salud.html#id2"&gt;[2]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;The Ethics Diet Authorities Flesh Eating &lt;a class="reference external" href="http://www.amazon.com/The-Ethics-Diet-Authorities-Flesh-Eating/dp/0252071301"&gt;ref2&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="http://miquella.com.ar/blog/naturaleza-de-la-salud/#id2"&gt;[2]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;The Ethics Diet Authorities Flesh Eating &lt;a class="reference external" href="http://www.amazon.com/The-Ethics-Diet-Authorities-Flesh-Eating/dp/0252071301"&gt;ref2&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;table class="docutils footnote" frame="void" id="id6" rules="none"&gt;
 &lt;colgroup&gt;&lt;col class="label"&gt;&lt;col&gt;&lt;/colgroup&gt;
 &lt;tbody valign="top"&gt;
-&lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="http://miquella.com.ar/blog/naturaleza-de-la-salud.html#id3"&gt;[3]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Food Revolution Your Diet World &lt;a class="reference external" href="http://www.amazon.com/Food-Revolution-Your-Diet-World/dp/1573244872/ref=sr_1_1?s=books&amp;amp;ie=UTF8&amp;amp;qid=1437320019&amp;amp;sr=1-1&amp;amp;keywords=the+food+revolutioni"&gt;ref3&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class="label"&gt;&lt;a class="fn-backref" href="http://miquella.com.ar/blog/naturaleza-de-la-salud/#id3"&gt;[3]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;Food Revolution Your Diet World &lt;a class="reference external" href="http://www.amazon.com/Food-Revolution-Your-Diet-World/dp/1573244872/ref=sr_1_1?s=books&amp;amp;ie=UTF8&amp;amp;qid=1437320019&amp;amp;sr=1-1&amp;amp;keywords=the+food+revolutioni"&gt;ref3&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;&lt;/div&gt;</description><guid>http://miquella.com.ar/blog/naturaleza-de-la-salud.html</guid><pubDate>Sun, 19 Jul 2015 13:51:25 GMT</pubDate></item><item><title>Frase</title><link>http://miquella.com.ar/blog/frase.html</link><dc:creator>Heizenreder Guillermo</dc:creator><description>&lt;p&gt;Acepta lo que venga tejido en el diseño de tu destino porque, ¿qué podría acomodarse más adecuadamente a tus necesidades?. Marco Aurelio.&lt;/p&gt;</description><guid>http://miquella.com.ar/blog/frase.html</guid><pubDate>Sat, 04 Jul 2015 01:24:12 GMT</pubDate></item></channel></rss>
+&lt;/table&gt;&lt;/div&gt;</description><guid>http://miquella.com.ar/blog/naturaleza-de-la-salud/</guid><pubDate>Sun, 19 Jul 2015 13:51:25 GMT</pubDate></item><item><title>Frase</title><link>http://miquella.com.ar/blog/frase/</link><dc:creator>Heizenreder Guillermo</dc:creator><description>&lt;p&gt;Acepta lo que venga tejido en el diseño de tu destino porque, ¿qué podría acomodarse más adecuadamente a tus necesidades?. Marco Aurelio.&lt;/p&gt;</description><guid>http://miquella.com.ar/blog/frase/</guid><pubDate>Sat, 04 Jul 2015 01:24:12 GMT</pubDate></item><item><title>Pieles rojas vs Pieles blancas</title><link>http://miquella.com.ar/blog/pieles_rojas_blancas/</link><dc:creator>Heizenreder Guillermo</dc:creator><description>&lt;div&gt;&lt;p&gt;Volviendo a casa desde la oficina me sorprendio una lluvia otoñal que se anunciaba desde hace unos
+días pero que no se presentaba y hoy de un momento a otro se armó.&lt;/p&gt;
+&lt;p&gt;Me animo a escribir las siguientes líneas y a medida que pasen las lineas vamos a descubrir el por qué
+del título. Caminando, sintiendo como las gotas acariciaban mi frente empiezo a experimentar mucha violencia
+en el ambiente, la gente corriendo para no mojarse, los automóviles circulando con mucha velocidad, empujando el aguna
+hacia las veredas sin importar si los pasajeros que &lt;strong&gt;cual animales hacia el matadero&lt;/strong&gt; esperaban su momento
+para subir al colectivo e ir a destino, sufrían incesantes chapuzones de los autos. Solo se escuchaba malas palabras,
+ruidos, bocinas un caos! por unas gotas de agua.&lt;/p&gt;
+&lt;p&gt;Cuando vamos aceptar que la violencia solo engendra violencia. ¿Cuándo vamos a aceptar a los cambios climáticos
+como cambios corporales tal y cual nos suceden a los seres humanos cuando vamos envejeciendo?. ¿Cuándo vamos a tratarnos
+como si fueramos hermanos?. ¿Cuándo vamos a dejar a la naturaleza tranquila?.&lt;/p&gt;
+&lt;p&gt;Son muchas preguntas sin respuesta, o en realidad con muchas respuestas que tiene una sola raíz, que es el &lt;em&gt;Conflicto&lt;/em&gt;
+esa palabra que nacio cuando la moral y la religión crearon el concepto de lo bueno y lo malo.&lt;/p&gt;
+&lt;p&gt;No sé que es lo bueno o lo malo, pero sí se que las lluvias no lo son, y en particular es un fenómeno que aumenta
+en una zona que antes no había. Soy del Litoral y allí sí que hay lluvias nutridas por el hermoso río Paraná. Pero aquí solo
+falta ver la siguiente imagen de lo que ocurrió con los bosques nativos de Córdona&lt;/p&gt;
+&lt;div class="figure"&gt;
+&lt;img alt="http://staticf5a.lavozdelinterior.com.ar/sites/default/files/file_attachments/nota_periodistica/bosque.jpg" src="http://staticf5a.lavozdelinterior.com.ar/sites/default/files/file_attachments/nota_periodistica/bosque.jpg"&gt;
+&lt;/div&gt;
+&lt;p&gt;Para leer más sobre la deforestación ponemos ir a &lt;a class="reference external" href="http://www.lavoz.com.ar/ciudadanos/reforestar-cordoba-un-debate-que-el-diluvio-reactualiza"&gt;[1]&lt;/a&gt; &lt;a class="reference external" href="http://www.lavoz.com.ar/ciudadanos/adios-los-bosques-nativos-de-cordoba"&gt;[2]&lt;/a&gt; &lt;a class="reference external" href="http://www.lavoz.com.ar/suplementos/temas/cordobasigue-perdiendo-%EF%BF%BDbosques-nativos"&gt;[3]&lt;/a&gt; &lt;a class="reference external" href="http://www.lavoz.com.ar/ciudadanos/ambiente/6-anos-se-redujo-40-bosque-nativo-cordoba"&gt;[4]&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Necesitamos encariñarnos más con la madre tierra, necesitamos ser mas pieles rojas y no blancas en actitud, algo
+que encontre en mis lecturas hace mucho tiempo &lt;strong&gt;31 de Julio de 2005&lt;/strong&gt; para ser más precisos, y es una maravillosa
+carta que voy a transcribir porque no la encuentro en la web tal cual y aún conservo&lt;/p&gt;
+&lt;blockquote class="epigraph"&gt;
+&lt;p&gt;Cuando un indio Seattle le escribe una Carta al Presidente de EEUU&lt;/p&gt;
+&lt;p&gt;Seattle, jefe de la tribu Suwamish, envio en el año  1855 al presidente Franklin Pierce una carta en respuesta
+a su oferta de compra de las tierras de los indios.  Aqui se reproducen tramos principales de la misma:&lt;/p&gt;
+&lt;p&gt;El Gran jefe de Washington manda decir que desea comprar nuestras tierras. Vamos a considerar su oferta,
+pues sabemos que, de no hacerlo, el hombre blanco podrá venir con sus armas de fuego y tomarse nuestras tierras.
+"¿Cómo podéis comprar o vender el cielo, el calor de la tierra? Esta idea nos parece extraña. No somos
+dueños de la frescura del aire ni del centelleo del agua. ¿Cómo podrías comprarlos a nosotos?. "Habeis de saber
+que cada particula de esta tierra es sagrada para mi pueblo. Cadoa hoja resplandeciente, cada playa arenosa
+cada neblina en el oscuro bosque, cada claro y cada insecto con su zumbido son sagrados en la memoria
+y experiencia de mi pueblo. La savia que circula en los árboles porta las memorias del hombre de piel roja.&lt;/p&gt;
+&lt;p&gt;Los ríos son nuestros hermanos, ellos calman nuestra sed. Los ríos llevan nuestras canoas y alimentan a nuestros
+hijos. Si os vendemos nuestras tierras debereis en adelante dar a los rios el trato bodadoso que dareís a
+cualquier hermano.&lt;/p&gt;
+&lt;p&gt;LO QUE VENDRÁ. El hombre blanco es un extraño que llega en la noche a sacar de la tierra lo que necesita.
+La tierra no es su hermano sino su enemigo. Cuando la ha conquistado la abandona y sigue su camino. Trata a su
+madre, la tierra y a su hermano el cielo como si fuesen cosas que se pueden comprar, saquear y vender, como si
+fuesen corderos y cuentas de vidrio. Su insaciable apetito devorará la tierra y dejara tras si solo un desierto.&lt;/p&gt;
+&lt;p&gt;No lo comprendo. Nuestra manera de ser es diferente a la vuestra. La vista de vuestras ciudades hace doler los
+ojos al hombre de piel roja. Pero quiza es así porque el hombre de piel roja es un salvaje y no comprende las cosas...&lt;/p&gt;
+&lt;p&gt;No hay ningun lugar tranquilo en las ciudades del hombre blanco, ningun lugar donde pueda escucharse desplegarse
+de las hojas de primavera o el orzar de las alas de un insecto.&lt;/p&gt;
+&lt;p&gt;"Y qué clase de vida es cuando el hombre no es capaz de escuchar el solitario grito de la garza o la discusión
+nocturna de las ranas alrededor de la laguna?. Soy un hombre de piel roja y no lo comprendo. Los indios preferimos
+el suave sobido del viento que acaricia la cara del lago y el olor del mismo viento purificado por la lluvia
+del mediodía o perfumado por la fragancia de los pinos.&lt;/p&gt;
+&lt;p&gt;"NO COMPRENDO". Consideremos vuestra oferta de comprar nuestras tierras. Si decidimos aceparla, pondre una
+condición: que el hombre blanco deberá tratar a los animales de esta tierra como hermanos. Soy un salvaje y no
+comprendo otro modo de conducta. He visto miles de búfalos pudriéndose sobre las pradera abandonados allí por el
+hombre blanco que les disparó desde un tren en marcha. Soy un salvaje y no comprendo cómo el humeante caballo
+a vapor puede ser mas importante que el búfalo al que matamos para poder vivir. &lt;strong&gt;¿Qué es el hombre sin los animales?&lt;/strong&gt;
+Si todos los animales hubiesen desaparecido, el hombre moriría de una gran soledad de espíritu. Porque todo lo que
+ocurre a los animales pronto nos habrá de ocurrir tambien al hombre. Todas las cosas estan relacionadas entre sí.&lt;/p&gt;
+&lt;p&gt;Vosotros debereis enseñar a vuestros hijos lo que nosotros hemos enseñado a los nuestros: que la tierra es nuestra
+madre. Todo lo que afecta a la tierra afecta a los hijos de la tierra. Cuando los hombres escupen el suelo se escupen
+a sí mismo.&lt;/p&gt;
+&lt;p&gt;ALERTA: Esto lo sabemos: la tierra no pertenece al hombre, sino que el hombre pertenece a la tierra. El hombre no
+ha tejido la red de la vida: es solo una hebra de ella. Todo lo que haga a la red se lo hará a sí mismo. Lo que
+ocurre a la tierra ocurrira a los hijos de la tierra. Lo sabemos. todas las cosas estan relacionadas como la sangre
+que une a una familia.&lt;/p&gt;
+&lt;p&gt;El hombre blanco descubrirá algún dia que nuestro Dios es su mismo Dios. Ahora pensais quizá que sois dueño de nuestra
+tierras, pero no pedes serlo. Él es el Dios de la humanidad y su compasión es igual al para el hombre blanco. Esta
+tierra es preciosa para Él y el causarle daño significa mostrar desprecio hacia su Creador. Los hombre blancos
+tambien pasaran, tal vez antes dque las demas tribus. Si contaminais vuestra cama, morirés alguna noche sofocados
+por vuestros propios desperdicios.&lt;/p&gt;
+&lt;p&gt;Pero aun en vuestra hora final os sentireis iluminados por la idea de que Dios os trajo a estas tierras y os dio el
+dominio sobre ellas y sobre el hombre de piel roja con algún proposito especial.&lt;/p&gt;
+&lt;p&gt;Tal destino es un misterio para nosotros porque no comprendemos lo que sera cuando los búfalos hayan sido
+exterminados, cuando los caballos salvajes hayan sido domados, cuando los reconditos rincones de los bosques
+exhalen el olor a muchos hombres y cuando la vista hacia las verdes colinas esté cerrada por un enjambre de alambres
+parlantes.&lt;/p&gt;
+&lt;p&gt;¿Dónde esta el espeso bosque?  Desapareció
+¿Donde esta el águila?         Desapareció
+Asi termina la vida y comienza el sobrevivir.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Hoy más que nunca tenemos que pensar y sentir como pieles rojas si queremos un futuro para las generaciones que
+nos suceden, esto se escribió hace mucho tiempo y aún es vigente, solo hay que abrir los ojos.&lt;/p&gt;&lt;/div&gt;</description><category>aborígenes</category><category>ecología</category><category>pensamientos</category><category>sociedad</category><guid>http://miquella.com.ar/blog/pieles_rojas_blancas/</guid><pubDate>Tue, 14 Apr 2015 18:44:48 GMT</pubDate></item></channel></rss>
